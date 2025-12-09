@@ -36,3 +36,14 @@ Add the following to your `.env` file:
 cd benchmarks
 python run_new.py
 ```
+
+
+
+### Scrape new metaculus data
+```
+bash
+cd scrape_data
+python metaculus.py
+```
+
+then run the [process_metaculus.ipynb](scrape_data/process_metaculus.ipynb) notebook
