@@ -1,0 +1,11 @@
+*/test_data/*
+*/*/label_manifold.py
+*/*/logs
+*/*/data/*_outputs*.json
+*/*/data/*_search*.json
+*/*/output
+*/*/data_depricated
+
+# Exclude private model outputs
+*/*/new_output/research-grok-*
+*/*/new_output/*research-grok*

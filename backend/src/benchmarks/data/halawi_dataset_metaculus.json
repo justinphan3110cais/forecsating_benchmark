@@ -1,0 +1,1042 @@
+[
+    {
+      "question": "Will Bitcoin reach $40,000 before January 1, 2024?",
+      "background_text": "At the beginning of 2023 BTC traded at between $16,000 and $17,000 in the wake of the FTX collapse in late 2022 and a general crypto market downturn in 2022. Since then, BTC has surged to over $37,000, levels that had not been seen since early 2022. Whether or not BTC will reach the $40,000 threshold in 2023 has been a topic of recent discussion.",
+      "createdTime": "2023-11-13T00:00:00Z",
+      "createdTimeStr": "2023-11-13",
+      "resolutionTime": 1701676800000,
+      "resolveTimeStr": "2023-12-04",
+      "resolution": 1.0,
+      "crowd_pred": [
+        [
+          1700294400000,
+          "2023-11-18",
+          0.527
+        ],
+        [
+          1700640000000,
+          "2023-11-22",
+          0.57
+        ],
+        [
+          1700899200000,
+          "2023-11-25",
+          0.57
+        ],
+        [
+          1701244800000,
+          "2023-11-29",
+          0.574
+        ],
+        [
+          1701590400000,
+          "2023-12-03",
+          0.756
+        ]
+      ],
+      "category": "Economics & Business",
+      "resolution_criteria": "This question will resolve as Yes if Bitcoin (BTC) reaches a price of $40,000 or more before January 1, 2024. Whether or not the price is at or above $40,000 at the end of the year does not matter. This question resolves solely on the basis of whether BTC reaches or exceeds the $40,000 threshold. The primary resolution source is CoinMarketCap. If the resolution source is unavailable, other comparable sources may be used. However, if sources disagree, CoinMarketCap is the primary source.\nFine Print\nIn the case of uncertainty regarding whether the threshold has been met on CoinMarketCap, we will use the five minute increments available on the one day price view on the chart. Note that the most recent few minutes may use a smaller time increment, however, to resolve as Yes the threshold must be met or exceeded at the five minute or larger time increment when the resolution source is accessed at a later time by Metaculus.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will Volodymyr Zelenskyy visit Israel before 2024?",
+      "background_text": "From the onset of the Gaza-Israel conflict, many pro-Israeli nations have shown their support for Israel via high profile visits including, US President Joe Biden, UK Prime Minister Rishi Sunak, French President Emmanuel Macron and German Chancellor Olaf Scholz.\nUkraine is another nation which is seen as pro-Israeli, however, in past and present times, the relationship between both nations has appeared tentative. Israel still maintains friendly relations with Russia, and Israel has yet to outright condemn Russia's invasion of Ukraine. Israel has also, until recently, refused to send military aid to Ukraine which is in stark contrast to many of Israel's western allies.\nVolodymyr Zelenskyy initially indicated his intention to visit Israel in a show of support, however this was initially shot-down by Netanyahu, stating that the \"time is not right\".\nThis decision was short-lived, as it was recently reported that Zelenskyy's trip to Israel was in advanced stages of planning. Said reporting, however, was leaked (presumably by members of Netenyahu's government), and the trip was promptly cancelled:\nAccording to the diplomat, the Ukrainian president \"wanted the trip to be public when he stepped on Israeli soil.\" \"He's very disappointed,\" he added.",
+      "createdTime": "2023-11-13T00:00:00Z",
+      "createdTimeStr": "2023-11-13",
+      "resolutionTime": 1704268800000,
+      "resolveTimeStr": "2024-01-03",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1700294400000,
+          "2023-11-18",
+          0.372
+        ],
+        [
+          1700640000000,
+          "2023-11-22",
+          0.242
+        ],
+        [
+          1700899200000,
+          "2023-11-25",
+          0.221
+        ],
+        [
+          1701244800000,
+          "2023-11-29",
+          0.174
+        ],
+        [
+          1701590400000,
+          "2023-12-03",
+          0.153
+        ]
+      ],
+      "category": "Politics & Governance",
+      "resolution_criteria": "This question will resolve as Yes if Volodymyr Zelenskyy steps foot in Israel, for any reason, before 23:59 IST, December 31, 2023.\nOtherwise, it will resolve No.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will Delhi perform cloud seeding before December 1, 2023?",
+      "background_text": "New Delhi, the capital of India, has been experiencing very poor air quality. According to data from AirNow, the majority of the month of November has been at an air quality index (AQI) level of \"Very Unhealthy\" or worse, and nearly half of the month has been at levels of \"Hazardous\".\nAccording to a November 10th Nature article:\nAs the Hindu festival of Diwali kicks off on 10 November, the Indian capital of Delhi, already blanketed in choking smog, is bracing for pollution to worsen. Over the past week, children struggling to breath the acrid air have flooded hospital emergency departments, and schools have been forced to close. . .\n\u201cEvery year it is a similar story,\u201d says Vinayak Sinha, an atmospheric chemist at the Indian Institute of Science Education and Research Mohali.\nBut although Delhi\u2019s air is attracting attention now, scientists say that the spike is actually typical for this time of year. The post-monsoon season, which lasts from October to December, delivers an annual pollution bomb to Delhi, a megacity of more than 30 million people. Other cities in India are also plagued by poor air quality at this time of year.\nSinha says that atmospheric conditions after the monsoon exacerbate pollution. Rainfall that washes pollutants out of the air during the monsoon ceases. As temperatures fall, the upper boundary of the troposphere \u2014 the lowest layer of atmosphere \u2014 drops in altitude and the troposphere shrinks. That causes the soup of pollutants in the troposphere to become more concentrated, says Sinha. \u201cYou have a smaller container now into which your air emissions are being stored,\u201d he says.\nEven so, current conditions came as something of a surprise, says Karthik Ganesan, a policy researcher at the Council on Energy Environment and Water in New Delhi. That\u2019s because the amount of crop waste burnt in the neighbouring Punjab region was lower than usual this year, causing some people to expect a milder increase in pollution.\nBut as it turned out, air quality was as poor as ever because of changing meteorological conditions, including drops in wind speed on certain days. When wind speed falls, the air stagnates, trapping local emissions and leading to a pollution spike, says Ganesan.\nNew Delhi is reportedly considering new approaches to improve the air quality, such as cloud seeding. According to Wired:\nIndia\u2019s capital, New Delhi, is preparing a new weapon in the fight against deadly air pollution: cloud seeding. The experiment, which could take place as early as next week, would introduce chemicals like silver iodide into a cloudy sky to create rain and, it\u2019s hoped, wash away the fine particulate matter hovering over one of the world\u2019s largest cities.\nThe need is desperate. Delhi has already tried traffic restriction measures, multimillion-dollar air filtration towers, and the use of fleets of water-spraying trucks to dissolve the particulate matter in the air\u2014but to no avail.\n. . .\nNow, Delhi officials are seeking permission from federal agencies in India to try cloud seeding. The technique involves flying an aircraft to spray clouds with salts like silver or potassium iodide or solid carbon dioxide, also known as dry ice, to induce precipitation. The chemical molecules attach to moisture already in the clouds to form bigger droplets that then fall as rain. China has used artificial rain to tackle air pollution in the past\u2014but for cloud seeding to work properly, you need significant cloud cover with reasonable moisture content, which Delhi generally lacks during the winter. If weather conditions are favorable, scientists leading the project at the Indian Institute of Technology in Kanpur plan to carry out cloud seeding around November 20.",
+      "createdTime": "2023-11-14T00:00:00Z",
+      "createdTimeStr": "2023-11-14",
+      "resolutionTime": 1701417600000,
+      "resolveTimeStr": "2023-12-01",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1700208000000,
+          "2023-11-17",
+          0.583
+        ],
+        [
+          1700467200000,
+          "2023-11-20",
+          0.511
+        ],
+        [
+          1700726400000,
+          "2023-11-23",
+          0.372
+        ],
+        [
+          1700985600000,
+          "2023-11-26",
+          0.274
+        ],
+        [
+          1701244800000,
+          "2023-11-29",
+          0.145
+        ]
+      ],
+      "category": "Environment & Energy",
+      "resolution_criteria": "This question will resolve as Yes if, after November 14, 2023, and before December 1, 2023, credible sources report that Delhi has performed cloud seeding.\nFine Print\nThe cloud seeding need not successfully produce rain or cut down on the smog. This question only asks whether cloud seeding will be performed.\nThe cloud seeding need not occur directly over the Delhi region, so long as reports indicate that it was carried out with approval from the Delhi regional or local government.\nThere is no requirement on the scope or scale of the cloud seeding, so long as credible sources report that cloud seeding has been performed.\nMetaculus may wait for additional confirmation from credible sources to resolve if the credibility of the initial reporting is in doubt.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will Representative George Santos be expelled from the US. House of Representatives before January 1, 2024?",
+      "background_text": "George Santos, a U.S. Representative, faces scrutiny over fabrications in his background and potential legal issues. On the 16th of November, the House Ethics committee released a report into various aspects of Santos' conduct. Santos has not resigned, but has announced he will not seek reelection at the end of his term, at the end of the current session. Expulsion from the House requires a two-thirds majority vote, a high threshold historically rarely met. Only five members have been expelled in the House's history, typically for severe misconduct like treason or bribery.",
+      "createdTime": "2023-11-16T00:00:00Z",
+      "createdTimeStr": "2023-11-16",
+      "resolutionTime": 1701417600000,
+      "resolveTimeStr": "2023-12-01",
+      "resolution": 1.0,
+      "crowd_pred": [
+        [
+          1700294400000,
+          "2023-11-18",
+          0.436
+        ],
+        [
+          1700553600000,
+          "2023-11-21",
+          0.453
+        ],
+        [
+          1700812800000,
+          "2023-11-24",
+          0.453
+        ],
+        [
+          1701072000000,
+          "2023-11-27",
+          0.586
+        ],
+        [
+          1701331200000,
+          "2023-11-30",
+          0.66
+        ]
+      ],
+      "category": "Politics & Governance",
+      "resolution_criteria": "This question will resolve as Yes if the House of Representatives expels Representative George Santos from the House of Representatives before January 1, 2024.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will the US Congress approve additional aid for Ukraine before 2024?",
+      "background_text": "See also: How much additional aid for Ukraine will the US Congress approve before October 1, 2023?\nBetween January 2022 and July 2023, the US has provided Ukraine with $46.6 billion in military aid, $3.9 billion in humanitarian aid and $26.4 billion in financial aid, totaling roughly $77 billion, according to a recent analysis from the Council on Foreign Relations (CFR)\nDespite previous bipartisan support on September 30, 2023 the US Congress passed a bill that didn't include new foreign aid for Ukraine.",
+      "createdTime": "2023-11-16T00:00:00Z",
+      "createdTimeStr": "2023-11-16",
+      "resolutionTime": 1702540800000,
+      "resolveTimeStr": "2023-12-14",
+      "resolution": 1.0,
+      "crowd_pred": [
+        [
+          1701417600000,
+          "2023-12-01",
+          0.554
+        ],
+        [
+          1701676800000,
+          "2023-12-04",
+          0.496
+        ],
+        [
+          1701936000000,
+          "2023-12-07",
+          0.293
+        ],
+        [
+          1702195200000,
+          "2023-12-10",
+          0.27
+        ],
+        [
+          1702454400000,
+          "2023-12-13",
+          0.158
+        ]
+      ],
+      "category": "Politics & Governance",
+      "resolution_criteria": "This questions resolves as Yes if at any point in time between November 16, 2023 and January 1, 2024 credible sources report that the US Congress has approved an additional package of foreign aid for Ukraine. The foreign aid must be included in a bill (or bills) sent to President Biden for signature by the end of the day on December 31, 2023.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will the weekly rate of hospitalizations per 100,000 in the US for each of COVID, influenza, and RSV equal or exceed 3.0 in the same week in the 2023-24 season?",
+      "background_text": "The US Centers for Disease Control and Prevention (CDC) closely monitors respiratory illnesses, particularly when these illnesses increase in prevalence during the winter. One monitoring and data sharing tool the CDC uses is RESP-NET, which it describes as follows:\nThe Respiratory Virus Hospitalization Surveillance Network (RESP-NET) comprises three networks that conduct population-based surveillance for laboratory-confirmed hospitalizations associated with COVID-19, respiratory syncytial virus (RSV), and influenza among children and adults. While RESP-NET does not collect data on all hospitalizations caused by respiratory illnesses, it can describe hospitalizations caused by three viruses that account for a large proportion of these hospitalizations. Surveillance is conducted through a network of acute care hospitals in select counties or county equivalents in 12 states for RSV surveillance, 13 states for COVID-19 surveillance, and 14 states for influenza surveillance. The surveillance platforms for COVID-19, RSV, and influenza (known as COVID-NET, RSV-NET, and FluSurv-NET, respectively) cover more than 30 million people and include an estimated 8-10% of the U.S. population.\nThe underlying source data for the RESP-NET dashboard can be found at this link.\nIn its Respiratory Disease Season Outlook for 2023-24, the CDC describes the 2022-23 peak as a \"tripledemic\" due to high incidence of COVID, flu, and RSV at the same time. The RESP-NET figures for the 2022-23 season show a large combined peak hospitalization rate of 22.2 per 100,000 for the week ending December 3, 2022, the sum of the following rates for the three respiratory illnesses:\nCOVID-19: 9.3\nFlu: 8.7\nRSV: 4.2",
+      "createdTime": "2023-11-17T00:00:00Z",
+      "createdTimeStr": "2023-11-17",
+      "resolutionTime": 1704268800000,
+      "resolveTimeStr": "2024-01-03",
+      "resolution": 1.0,
+      "crowd_pred": [
+        [
+          1702022400000,
+          "2023-12-08",
+          0.334
+        ],
+        [
+          1702540800000,
+          "2023-12-14",
+          0.225
+        ],
+        [
+          1703059200000,
+          "2023-12-20",
+          0.258
+        ],
+        [
+          1703577600000,
+          "2023-12-26",
+          0.282
+        ],
+        [
+          1704182400000,
+          "2024-01-02",
+          0.695
+        ]
+      ],
+      "category": "Healthcare & Biology",
+      "resolution_criteria": "This question will resolve as Yes if all of COVID, influenza, and RSV show a hospitalization rate of 3.0 or higher in the same week for at least one week in the 2023-24 season, according to the CDC's RESP-NET. The CDC uses \"epidemiological weeks\" which begin on Sunday and end on Saturday. The rate used will be that for all ages, races, and sexes. See the fine print for the correct filters. For the purposes of this question, the 2023-2024 season will be considered to begin with the week ending on October 7, 2023, and end on the week ending June 1, 2024.\nTo allow for data revisions and reporting delays the question will resolve according to data shown after the reporting delay period, when the relevant figures for the current season is not shown as a dashed line, typically 4 weeks after the week end date.\nFine Print\nThe following filters will be selected:\nChart Selection: \"Season\"\nView: \"Weekly Rates\"\nSeason: \"2023-24\"\nPathogen: \"All\"",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will Sam Altman return to OpenAI as CEO before 2026?",
+      "background_text": "On November 17, 2023, Sam Altman was fired as CEO of OpenAI.\nIn a statement, OpenAI's board said:\nMr. Altman\u2019s departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities. The board no longer has confidence in his ability to continue leading OpenAI.\nIn a tweet the same day, Altman said he loved his time at OpenAI.",
+      "createdTime": "2023-11-17T00:00:00Z",
+      "createdTimeStr": "2023-11-17",
+      "resolutionTime": 1701331200000,
+      "resolveTimeStr": "2023-11-30",
+      "resolution": 1.0,
+      "crowd_pred": [
+        [
+          1700467200000,
+          "2023-11-20",
+          0.372
+        ],
+        [
+          1700640000000,
+          "2023-11-22",
+          0.783
+        ],
+        [
+          1700812800000,
+          "2023-11-24",
+          0.83
+        ],
+        [
+          1700985600000,
+          "2023-11-26",
+          0.842
+        ],
+        [
+          1701244800000,
+          "2023-11-29",
+          0.848
+        ]
+      ],
+      "category": "Economics & Business",
+      "resolution_criteria": "The question resolves Yes if Sam Altman is announced as OpenAI's CEO and returns to the position before January 1, 2026.\nFine Print\nIf an announcement occurs before January 1, 2026, but Altman does not assume the role until after that date, the question resolves No.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will Sam Altman be the next non-interim CEO of OpenAI?",
+      "background_text": "On November 17, 2023, Sam Altman was fired as CEO of OpenAI.\nIn a statement, OpenAI's board said:\nMr. Altman\u2019s departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities. The board no longer has confidence in his ability to continue leading OpenAI.\nMira Murati, the former CTO, was appointed interim CEO, effective immediately.",
+      "createdTime": "2023-11-18T00:00:00Z",
+      "createdTimeStr": "2023-11-18",
+      "resolutionTime": 1701331200000,
+      "resolveTimeStr": "2023-11-30",
+      "resolution": 1.0,
+      "crowd_pred": [
+        [
+          1700467200000,
+          "2023-11-20",
+          0.299
+        ],
+        [
+          1700640000000,
+          "2023-11-22",
+          0.789
+        ],
+        [
+          1700812800000,
+          "2023-11-24",
+          0.798
+        ],
+        [
+          1700985600000,
+          "2023-11-26",
+          0.798
+        ],
+        [
+          1701244800000,
+          "2023-11-29",
+          0.798
+        ]
+      ],
+      "category": "Economics & Business",
+      "resolution_criteria": "The question resolves Yes for the individual named as OpenAI's next CEO, and No for all others. If the individual named as OpenAI's next CEO is not listed as an option, all options resolve No.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will Eric Schmidt be the next non-interim CEO of OpenAI?",
+      "background_text": "On November 17, 2023, Sam Altman was fired as CEO of OpenAI.\nIn a statement, OpenAI's board said:\nMr. Altman\u2019s departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities. The board no longer has confidence in his ability to continue leading OpenAI.\nMira Murati, the former CTO, was appointed interim CEO, effective immediately.",
+      "createdTime": "2023-11-18T00:00:00Z",
+      "createdTimeStr": "2023-11-18",
+      "resolutionTime": 1701331200000,
+      "resolveTimeStr": "2023-11-30",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1700380800000,
+          "2023-11-19",
+          0.017
+        ],
+        [
+          1700467200000,
+          "2023-11-20",
+          0.023
+        ],
+        [
+          1700553600000,
+          "2023-11-21",
+          0.022
+        ],
+        [
+          1700640000000,
+          "2023-11-22",
+          0.016
+        ],
+        [
+          1700726400000,
+          "2023-11-23",
+          0.015
+        ]
+      ],
+      "category": "Economics & Business",
+      "resolution_criteria": "The question resolves Yes for the individual named as OpenAI's next CEO, and No for all others. If the individual named as OpenAI's next CEO is not listed as an option, all options resolve No.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will Satya Nadella be the next non-interim CEO of OpenAI?",
+      "background_text": "On November 17, 2023, Sam Altman was fired as CEO of OpenAI.\nIn a statement, OpenAI's board said:\nMr. Altman\u2019s departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities. The board no longer has confidence in his ability to continue leading OpenAI.\nMira Murati, the former CTO, was appointed interim CEO, effective immediately.",
+      "createdTime": "2023-11-18T00:00:00Z",
+      "createdTimeStr": "2023-11-18",
+      "resolutionTime": 1701331200000,
+      "resolveTimeStr": "2023-11-30",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1700380800000,
+          "2023-11-19",
+          0.019
+        ],
+        [
+          1700467200000,
+          "2023-11-20",
+          0.032
+        ],
+        [
+          1700553600000,
+          "2023-11-21",
+          0.03
+        ],
+        [
+          1700640000000,
+          "2023-11-22",
+          0.017
+        ],
+        [
+          1700726400000,
+          "2023-11-23",
+          0.017
+        ]
+      ],
+      "category": "Economics & Business",
+      "resolution_criteria": "The question resolves Yes for the individual named as OpenAI's next CEO, and No for all others. If the individual named as OpenAI's next CEO is not listed as an option, all options resolve No.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will OpenAI report having \u226599% uptime for ChatGPT and the OpenAI API in December 2023?",
+      "background_text": "ChatGPT's uptime has exceeded 99% for every month except the month of launch, with Feburary at 98.28%.\nSoftware reliability is often measured in \"number of 9\"s, i.e. 90%, 99%, 99.9%, 99.99%, etc.\nOpenAI's future is uncertain following the ouster of CEO Sam Altman, prompting speculation that ChatGPT may cease to work.",
+      "createdTime": "2023-11-20T00:00:00Z",
+      "createdTimeStr": "2023-11-20",
+      "resolutionTime": 1704268800000,
+      "resolveTimeStr": "2024-01-03",
+      "resolution": 1.0,
+      "crowd_pred": [
+        [
+          1701158400000,
+          "2023-11-28",
+          0.883
+        ],
+        [
+          1701849600000,
+          "2023-12-06",
+          0.913
+        ],
+        [
+          1702540800000,
+          "2023-12-14",
+          0.928
+        ],
+        [
+          1703232000000,
+          "2023-12-22",
+          0.934
+        ],
+        [
+          1703923200000,
+          "2023-12-30",
+          0.949
+        ]
+      ],
+      "category": "Science & Tech",
+      "resolution_criteria": "This question resolves Yes if, on January 1, 2024, OpenAI's status page for both ChatGPT and the API reports \u2265 99% uptime for the month of December 2023. It resolves No otherwise, including in cases where the status page ceases to exist.\nThe question also resolves No if OpenAI discontinues either ChatGPT or the API and the status page is not updated to reflect this.\nForecasters can find the uptime in grey text to the right of the relevant month. Forecasters will need to adjust the dropdown menu to see the status for both the API and ChatGPT.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will the majority of OpenAI's Board of Directors leave the Board before December 1, 2023?",
+      "background_text": "From The Washington Post.\nThe future of OpenAI was thrown into chaos Monday after nearly all employees at the artificial intelligence company threatened to quit and join ousted chief executive Sam Altman at Microsoft, extending the dramatic Silicon Valley boardroom saga.\nMore than 700 of the company\u2019s roughly 770 employees have signed a letter threatening to quit unless the current board resigns and reappoints Altman as CEO, according to a person familiar with the matter. In a bizarre twist, the letter included among the signatories Ilya Sutskever, the company\u2019s chief scientist and a key member of the company\u2019s four-person board, who voted to oust Altman on Friday.\n\u201cYour actions have made it obvious that you are incapable of overseeing OpenAI,\u201d the employees wrote in the letter. \u201cWe are unable to work for or with people that lack competence, judgment and care for our mission and employees.\u201d",
+      "createdTime": "2023-11-20T00:00:00Z",
+      "createdTimeStr": "2023-11-20",
+      "resolutionTime": 1701331200000,
+      "resolveTimeStr": "2023-11-30",
+      "resolution": 1.0,
+      "crowd_pred": [
+        [
+          1700553600000,
+          "2023-11-21",
+          0.646
+        ],
+        [
+          1700726400000,
+          "2023-11-23",
+          0.865
+        ],
+        [
+          1700899200000,
+          "2023-11-25",
+          0.865
+        ],
+        [
+          1701072000000,
+          "2023-11-27",
+          0.867
+        ],
+        [
+          1701244800000,
+          "2023-11-29",
+          0.868
+        ]
+      ],
+      "category": "Economics & Business",
+      "resolution_criteria": "The question resolves Yes if at least three of the following individuals leave the OpenAI board before December 1, 2023:\nIlya Sutskever\nAdam D'Angelo\nHelen Toner\nTasha McCauley",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will OpenAI have fewer than the following numbers of employees before January 1, 2024? (\u2264 100)",
+      "background_text": "On November 17, 2023, OpenAI announced that it had fired CEO Sam Altman. Following the announcement there were reports that OpenAI leadership and its employees were unhappy with the move, and OpenAI President Greg Brockman announced he was quitting. According to NBC News:\nAltman, whose departure from OpenAI was announced Friday, joined Microsoft early Monday following a weekend of boardroom drama that sent shock waves across Silicon Valley. Altman will lead a new artificial intelligence project at Microsoft, the tech giant said early Monday after rumors swirled that he could make a dramatic return to the company he helped build into one of the world's hottest startups.\nHours later, a letter, which was first reported by Wired and journalist Kara Swisher and later shared with NBC News, said OpenAI employees would resign and possibly join Microsoft \"unless all current board members resign, and the board appoints two new lead independent directors, such as Bret Taylor and Will Hurd, and reinstates Sam Altman and Greg Brockman.\"\nAn OpenAI spokesperson said the letter had been shown to the board.\n\"Your actions have made it obvious that you are incapable of overseeing OpenAI,\" the letter reads. \"We are unable to work for or with people that lack competence, judgement and care for our mission and employees. We, the undersigned, may choose to resign from OpenAI and join the newly announced Microsoft subsidiary run by Sam Altman and Greg Brockman.\"\nAs of late Monday morning, more than 700 names appeared on the letter, though NBC News has not confirmed all had chosen to sign it. Many of them had published identical posts on X reading \"OpenAI is nothing without its people.\u201d\nOpenAI currently has about 770 employees, the spokesperson said.",
+      "createdTime": "2023-11-20T00:00:00Z",
+      "createdTimeStr": "2023-11-20",
+      "resolutionTime": 1704355200000,
+      "resolveTimeStr": "2024-01-04",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1701158400000,
+          "2023-11-28",
+          0.02
+        ],
+        [
+          1701849600000,
+          "2023-12-06",
+          0.019
+        ],
+        [
+          1702540800000,
+          "2023-12-14",
+          0.007
+        ],
+        [
+          1703232000000,
+          "2023-12-22",
+          0.007
+        ],
+        [
+          1703923200000,
+          "2023-12-30",
+          0.035
+        ]
+      ],
+      "category": "Economics & Business",
+      "resolution_criteria": "These questions will resolve as Yes if, before January 1, 2024, credible sources report that the current number of employees at OpenAI is less than or equal to the listed number.\nFine Print\nIf there are no reports that employment has dropped significantly enough to meet the thresholds the subquestions will resolve as No. Metaculus may also use reports of the numbers of employees who have left and/or been hired to determine whether the thresholds have been met, based on the reports as of November 20, 2023, of around 770 employees.\nThe median will be used if a range is provided. If estimates differ Metaculus may combine the estimates or select one it considers most credible, and may resolve the question as Ambiguous if the estimates differ substantially.\nIf the entirety of OpenAI is acquired or undergoes a merger before credible sources report the following thresholds have been met, the unresolved subquestions will be annulled.\nIf a portion of OpenAI is sold or shut down, if OpenAI restructures (for example via chapter 11 bankruptcy), or if OpenAI acquires another company, the subquestions will still resolve based on the overall employment level of OpenAI.\nIf OpenAI changes its name and/or organizational structure but is still the same company these questions will still resolve based on the overall employment level of the company.\nWhere information is conflicting or unclear, Metaculus may make a determination to resolve the question or resolve the question as Ambiguous.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will OpenAI have fewer than the following numbers of employees before January 1, 2024? (\u2264 300)",
+      "background_text": "On November 17, 2023, OpenAI announced that it had fired CEO Sam Altman. Following the announcement there were reports that OpenAI leadership and its employees were unhappy with the move, and OpenAI President Greg Brockman announced he was quitting. According to NBC News:\nAltman, whose departure from OpenAI was announced Friday, joined Microsoft early Monday following a weekend of boardroom drama that sent shock waves across Silicon Valley. Altman will lead a new artificial intelligence project at Microsoft, the tech giant said early Monday after rumors swirled that he could make a dramatic return to the company he helped build into one of the world's hottest startups.\nHours later, a letter, which was first reported by Wired and journalist Kara Swisher and later shared with NBC News, said OpenAI employees would resign and possibly join Microsoft \"unless all current board members resign, and the board appoints two new lead independent directors, such as Bret Taylor and Will Hurd, and reinstates Sam Altman and Greg Brockman.\"\nAn OpenAI spokesperson said the letter had been shown to the board.\n\"Your actions have made it obvious that you are incapable of overseeing OpenAI,\" the letter reads. \"We are unable to work for or with people that lack competence, judgement and care for our mission and employees. We, the undersigned, may choose to resign from OpenAI and join the newly announced Microsoft subsidiary run by Sam Altman and Greg Brockman.\"\nAs of late Monday morning, more than 700 names appeared on the letter, though NBC News has not confirmed all had chosen to sign it. Many of them had published identical posts on X reading \"OpenAI is nothing without its people.\u201d\nOpenAI currently has about 770 employees, the spokesperson said.",
+      "createdTime": "2023-11-20T00:00:00Z",
+      "createdTimeStr": "2023-11-20",
+      "resolutionTime": 1704355200000,
+      "resolveTimeStr": "2024-01-04",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1701158400000,
+          "2023-11-28",
+          0.042
+        ],
+        [
+          1701849600000,
+          "2023-12-06",
+          0.05
+        ],
+        [
+          1702540800000,
+          "2023-12-14",
+          0.009
+        ],
+        [
+          1703232000000,
+          "2023-12-22",
+          0.016
+        ],
+        [
+          1703923200000,
+          "2023-12-30",
+          0.037
+        ]
+      ],
+      "category": "Economics & Business",
+      "resolution_criteria": "These questions will resolve as Yes if, before January 1, 2024, credible sources report that the current number of employees at OpenAI is less than or equal to the listed number.\nFine Print\nIf there are no reports that employment has dropped significantly enough to meet the thresholds the subquestions will resolve as No. Metaculus may also use reports of the numbers of employees who have left and/or been hired to determine whether the thresholds have been met, based on the reports as of November 20, 2023, of around 770 employees.\nThe median will be used if a range is provided. If estimates differ Metaculus may combine the estimates or select one it considers most credible, and may resolve the question as Ambiguous if the estimates differ substantially.\nIf the entirety of OpenAI is acquired or undergoes a merger before credible sources report the following thresholds have been met, the unresolved subquestions will be annulled.\nIf a portion of OpenAI is sold or shut down, if OpenAI restructures (for example via chapter 11 bankruptcy), or if OpenAI acquires another company, the subquestions will still resolve based on the overall employment level of OpenAI.\nIf OpenAI changes its name and/or organizational structure but is still the same company these questions will still resolve based on the overall employment level of the company.\nWhere information is conflicting or unclear, Metaculus may make a determination to resolve the question or resolve the question as Ambiguous.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will OpenAI have fewer than the following numbers of employees before January 1, 2024? (\u2264 600)",
+      "background_text": "On November 17, 2023, OpenAI announced that it had fired CEO Sam Altman. Following the announcement there were reports that OpenAI leadership and its employees were unhappy with the move, and OpenAI President Greg Brockman announced he was quitting. According to NBC News:\nAltman, whose departure from OpenAI was announced Friday, joined Microsoft early Monday following a weekend of boardroom drama that sent shock waves across Silicon Valley. Altman will lead a new artificial intelligence project at Microsoft, the tech giant said early Monday after rumors swirled that he could make a dramatic return to the company he helped build into one of the world's hottest startups.\nHours later, a letter, which was first reported by Wired and journalist Kara Swisher and later shared with NBC News, said OpenAI employees would resign and possibly join Microsoft \"unless all current board members resign, and the board appoints two new lead independent directors, such as Bret Taylor and Will Hurd, and reinstates Sam Altman and Greg Brockman.\"\nAn OpenAI spokesperson said the letter had been shown to the board.\n\"Your actions have made it obvious that you are incapable of overseeing OpenAI,\" the letter reads. \"We are unable to work for or with people that lack competence, judgement and care for our mission and employees. We, the undersigned, may choose to resign from OpenAI and join the newly announced Microsoft subsidiary run by Sam Altman and Greg Brockman.\"\nAs of late Monday morning, more than 700 names appeared on the letter, though NBC News has not confirmed all had chosen to sign it. Many of them had published identical posts on X reading \"OpenAI is nothing without its people.\u201d\nOpenAI currently has about 770 employees, the spokesperson said.",
+      "createdTime": "2023-11-20T00:00:00Z",
+      "createdTimeStr": "2023-11-20",
+      "resolutionTime": 1704355200000,
+      "resolveTimeStr": "2024-01-04",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1701158400000,
+          "2023-11-28",
+          0.165
+        ],
+        [
+          1701849600000,
+          "2023-12-06",
+          0.125
+        ],
+        [
+          1702540800000,
+          "2023-12-14",
+          0.065
+        ],
+        [
+          1703232000000,
+          "2023-12-22",
+          0.066
+        ],
+        [
+          1703923200000,
+          "2023-12-30",
+          0.072
+        ]
+      ],
+      "category": "Economics & Business",
+      "resolution_criteria": "These questions will resolve as Yes if, before January 1, 2024, credible sources report that the current number of employees at OpenAI is less than or equal to the listed number.\nFine Print\nIf there are no reports that employment has dropped significantly enough to meet the thresholds the subquestions will resolve as No. Metaculus may also use reports of the numbers of employees who have left and/or been hired to determine whether the thresholds have been met, based on the reports as of November 20, 2023, of around 770 employees.\nThe median will be used if a range is provided. If estimates differ Metaculus may combine the estimates or select one it considers most credible, and may resolve the question as Ambiguous if the estimates differ substantially.\nIf the entirety of OpenAI is acquired or undergoes a merger before credible sources report the following thresholds have been met, the unresolved subquestions will be annulled.\nIf a portion of OpenAI is sold or shut down, if OpenAI restructures (for example via chapter 11 bankruptcy), or if OpenAI acquires another company, the subquestions will still resolve based on the overall employment level of OpenAI.\nIf OpenAI changes its name and/or organizational structure but is still the same company these questions will still resolve based on the overall employment level of the company.\nWhere information is conflicting or unclear, Metaculus may make a determination to resolve the question or resolve the question as Ambiguous.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will the November 2023 Israel-Hamas humanitarian pause be extended?",
+      "background_text": "On November 22, 2023, Qatar announced that Israel and Hamas had reached an agreement to implement a humanitarian pause. The announcement reads a follows:\nThe State of Qatar announces the success of its joint mediation efforts undertaken with the Arab Republic of Egypt and the United States of America between Israel and the Islamic Resistance Movement (Hamas), resulting in an agreement for a humanitarian pause. The starting time of the pause will be announced within the next 24 hours and last for four days, subject to extension.\nThe agreement includes the release of 50 civilian women and children hostages currently held in the Gaza Strip in exchange for the release of a number of Palestinian women and children detained in Israeli prisons, the number of those released will be increased in later stages of implementing the agreement.\nThe humanitarian pause will also allow the entry of a larger number of humanitarian convoys and relief aid, including fuel designated for humanitarian needs.\nThe State of Qatar affirms its commitment to ongoing diplomatic efforts to de-escalate tensions, stop the bloodshed, and protect civilians. In this regard, the State of Qatar appreciates the efforts of the Arab Republic of Egypt and the United States of America in reaching this agreement.",
+      "createdTime": "2023-11-22T00:00:00Z",
+      "createdTimeStr": "2023-11-22",
+      "resolutionTime": 1701158400000,
+      "resolveTimeStr": "2023-11-28",
+      "resolution": 1.0,
+      "crowd_pred": [
+        [
+          1700726400000,
+          "2023-11-23",
+          0.444
+        ],
+        [
+          1700812800000,
+          "2023-11-24",
+          0.432
+        ],
+        [
+          1700899200000,
+          "2023-11-25",
+          0.422
+        ],
+        [
+          1700985600000,
+          "2023-11-26",
+          0.501
+        ],
+        [
+          1701072000000,
+          "2023-11-27",
+          0.789
+        ]
+      ],
+      "category": "Politics & Governance",
+      "resolution_criteria": "This question will resolve as Yes if credible sources report that the length of the November 2023 humanitarian pause between Israel and Hamas has been extended beyond the default length of four days and the extension has begun. If credible sources report that the humanitarian pause will not begin this question will be annulled. If the four-day humanitarian pause begins but credible sources report that it has ended before the default length was reached this question will resolve as No.\nFine Print\nThe extension or ending of the pause will be determined based on credible reports stating that the pause has officially been ended or has officially been extended. Media reports that one side is not respecting the pause will be immaterial. For example, if Hamas leadership were to criticize a strike taken by Israel during the pause, or vice versa, this question will still resolve as Yes so long as credible sources report that the pause was extended.\nThe extension must actually commence, an agreement to extend the pause is not sufficient. If the extension to the pause starts but is then called off by one or more sides, this still resolves as Yes.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will a novel pathogen be identified as responsible for the pneumonia reported in Beijing or Liaoning before December 15, 2023?",
+      "background_text": "On November 21, 2023, the Program for Monitoring Emerging Diseases (ProMED) published an alert regarding outbreaks of pneumonia with an unidentified cause in the city of Beijing and Liaoning Province in China. The alert quotes an article published by FTV News, a publication by the Taiwanese broadcasting company Formosa Television.\nProMED quoted the machine translated article as follows:\nWith the outbreak of pneumonia in China, children's hospitals in Beijing, Liaoning and other places were overwhelmed with sick children, and schools and classes were on the verge of suspension. Parents questioned whether the authorities were covering up the epidemic.\nIn the early morning, Beijing Children's Hospital was still overcrowded with parents and children whose children had pneumonia and came to seek treatment. Mr. [W], a Beijing citizen: \"Many, many are hospitalized. They don't cough and have no symptoms. They just have a high temperature (fever) and many develop pulmonary nodules.\"\nThe situation in Liaoning Province is also serious. The lobby of Dalian Children's Hospital is full of sick children receiving intravenous drips. There are also queues of patients at the traditional Chinese medicine hospitals and the central hospitals. A staff member of Dalian Central Hospital said: \"Patients have to wait in line for 2 hours, and we are all in the emergency department and there are no general outpatient clinics.\"\nSome school classes have even been canceled completely. Not only are all students sick, but teachers are also infected with pneumonia. ...\nMr. [W], a Beijing citizen: \"Now you are not allowed to report to school. If you have any symptoms such as fever, cold, cough and then you are hospitalized, you can ask for leave...\"\nSince China stopped adhering to the \"zero\" policy at the beginning of the year [2023], epidemics such as influenza, mycoplasma, and bronchopneumonia have broken out from time to time. ...\nA novel pathogen is generally considered to be one which has not previously been found to infect humans.",
+      "createdTime": "2023-11-22T00:00:00Z",
+      "createdTimeStr": "2023-11-22",
+      "resolutionTime": 1702627200000,
+      "resolveTimeStr": "2023-12-15",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1700985600000,
+          "2023-11-26",
+          0.062
+        ],
+        [
+          1701331200000,
+          "2023-11-30",
+          0.052
+        ],
+        [
+          1701676800000,
+          "2023-12-04",
+          0.035
+        ],
+        [
+          1702022400000,
+          "2023-12-08",
+          0.037
+        ],
+        [
+          1702454400000,
+          "2023-12-13",
+          0.034
+        ]
+      ],
+      "category": "Healthcare & Biology",
+      "resolution_criteria": "This question will resolve as Yes if, before December 15, 2023, credible sources report that the pneumonia cases reportedly occurring in Beijing or Liaoning have been identified as being caused by a novel pathogen.\nFine Print\nA novel pathogen will be considered to be a pathogen which has previously not been found to have infected humans, and is not an immediate descendent of pathogens currently causing human disease, as described below.\nImmediate descendants of pathogens currently causing human disease, such as variants of SARS-CoV-2, do not count. An immediate descendent will be one which is characterized as being a descendent of a pathogen currently causing human disease and with only minor variations from known strains. However, novel pathogens that are the result of antigenic shift do count. Among pathogens that cause human disease, antigenic shift is currently only known to occur with influenza A and this process is described by the US CDC as an \"abrupt, major change in a flu A virus, resulting in new HA and/or new HA and NA proteins in flu viruses that infect humans\".\nIn the event all other criteria are met except that there is ambiguity regarding whether the pathogen is an immediate descendent of pathogens currently causing human disease Metaculus may wait for additional statements from credible sources describing the lineage of the pathogen, and may resolve the question as Ambiguous if information provided by credible sources is not clear.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will Venezuela invade Guyana before these dates? (2024)",
+      "background_text": "Venezuela and Guyana have long had a rocky relationship. Their border defined by mutual agreement in 1897 began being questioned by Venezuela in 1962. In 2023, Venezuela drafted a public referendum on whether to further assert its claims. American officials are visiting the region and some are sounding the alarm that the dispute might escalate to war.",
+      "createdTime": "2023-11-25T00:00:00Z",
+      "createdTimeStr": "2023-11-25",
+      "resolutionTime": 1704096000000,
+      "resolveTimeStr": "2024-01-01",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1701763200000,
+          "2023-12-05",
+          0.118
+        ],
+        [
+          1702281600000,
+          "2023-12-11",
+          0.108
+        ],
+        [
+          1702886400000,
+          "2023-12-18",
+          0.078
+        ],
+        [
+          1703404800000,
+          "2023-12-24",
+          0.077
+        ],
+        [
+          1704009600000,
+          "2023-12-31",
+          0.072
+        ]
+      ],
+      "category": "Security & Defense",
+      "resolution_criteria": "Each sub-question will resolve Yes if, between October 10, 2023, and January 1 of the year listed, either the Government of Venezuela or any two Permanent Members of the United Nations Security Council announce or acknowledge that Venezuelan ground troops have entered Guyanese territory, and reporting from credible sources indicates that the number of troops entering is more than 100. From the credible sources, it must be clear the troops are acting deliberately on orders of the Government of Venezuela and without permission of the currently recognized Government of Guyana or the assent of the UN. These announcements must be describing events which take place (at least in part) between the launch of this question and January 1 of the year indicated in the sub-question.\nFor the purpose of this question, Guyanese territory is determined by the border as of October 10, 2023.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will there be a white Christmas in at least 4 of these 9 large European cities in 2023?",
+      "background_text": "Many children wish for a white Christmas, i.e. snow on the days 24th or 25th December. Transit operators and homeless people enjoy it less. It is an important cultural event around the northern Atlantic, though; hence this question!\nCultural note: The majority of inhabitants of Instanbul do not celebrate Christmas at all. Neither do all Russians celebrate Christmas in December. These differences are irrelevant for the question, which is focused on Christmas as celebrated by most cultures around the northern Atlantic.\nThis question uses METAR data as the source for convenience, because it provides a standardised view into actual observed weather at diverse geographical locations. Here's an example of a METAR report:\nMETAR UUEE 050800Z 28003MPS 240V320 7000 -SN SCT006 M11/M13 Q1018 R24L/490336 R24C/490336 NOSIG=\nThe standard allows for many optional components, but common components are\nThe reporting station (in this case UUEE, which is a Moscow airport) comes after the preamble\nthe day and time of observation (in this case 050800Z meaning day 5 of the month, at 8 o'clock UTC)\nwind speed and direction (in this case 28003MPS meaning 280\u00b0, 3 m/s)\nvisibility (in this case 7000 meaning 7000 metres)\ncloud cover (in this case SCT006 meaning scattered at 600 feet)\ntemperature (in this case M11/M13 meaning temperature of -11 \u00b0C)\nair pressure (in this case Q1018 meaning 1018 millibar)\nrunway information, starting with R\na near-term forecast (in this case NOSIG meaning no significant change expected)\nBut! Critically for this question, there are also indications of precipitation. In the example above, that's \"-SN\" for \"light snow\".\nHere are some other examples of reports indicating snow:\nMETAR ESSA 270120Z 01005KT 9999 -SN SCT007 BKN009 OVC046 M05/M06 Q1010 RESN BECMG BKN020=`\nRESN means \"recent snow\"\nMETAR ESNU 252220Z 33009KT 9999 SG FEW018 OVC055 M03/M05 Q1003=\nSG means \"snow grains\"\nMETAR EFOU 041820Z AUTO 14003KT 9999 -SHSN SCT044 M13/M15 Q1013=\n-SHSN means \"light snow shower\"\nFor decoding reports, the web tool by Flight Plan Database can be a helpful assistant.",
+      "createdTime": "2023-11-27T00:00:00Z",
+      "createdTimeStr": "2023-11-27",
+      "resolutionTime": 1704268800000,
+      "resolveTimeStr": "2024-01-03",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1701936000000,
+          "2023-12-07",
+          0.322
+        ],
+        [
+          1702108800000,
+          "2023-12-09",
+          0.316
+        ],
+        [
+          1702281600000,
+          "2023-12-11",
+          0.339
+        ],
+        [
+          1702454400000,
+          "2023-12-13",
+          0.3
+        ],
+        [
+          1702627200000,
+          "2023-12-15",
+          0.292
+        ]
+      ],
+      "category": "Environment & Energy",
+      "resolution_criteria": "The 10 largest cities in Europe according to Wikipedia are\nIstanbul\nMoscow\nLondon\nSaint Petersburg\nBerlin\nMadrid\nKyiv\nRome\nBucharest\nParis\nFor this question, we unfortunately have to exclude Kyiv due to the lack of standardised aerodrome weather reporting in the area.\nEach of the remaining 9 cities will have been considered to have had a white Christmas if, on either of the days 24 December or 25 December, there has been precipitation in the form of snow. The selection will be set to begin at hour 0 UTC on the 24th and end at hour 23 UTC on the 25th.\nIf four or more of them have had a white Christmas, then this question resolves as Yes. Otherwise, it resolves as No.\nFine Print\nTo determine whether there has been precipitation in these cities, the Ogimet METAR historic data for the dates given above will be consulted. If that source is down, a similar one will be located. If none can be found with reasonable effort, the question resolves Ambiguous.\nThe lookup will be made for the following airports (corresponding to the cities listed above, excluding Kyiv): LTFM, UUEE, EGLL, ULLI, EDDB, LEMD, LIRF, LROP, LFPG. Any reference to snow (SN), snow grains (SG), snow pellets (SP or GS), or snow shower (SW) will count as there being precipitation in the form of snow.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will Biden's 538 approval rating be above the following values on the following days? (2023 Dec 31st, \u2265 40%)",
+      "background_text": "Approval rating is a key input in election predictions. Much policy is also focused around influencing public opinion.",
+      "createdTime": "2023-12-01T00:00:00Z",
+      "createdTimeStr": "2023-12-01",
+      "resolutionTime": 1704355200000,
+      "resolveTimeStr": "2024-01-04",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1702972800000,
+          "2023-12-19",
+          0.225
+        ],
+        [
+          1703232000000,
+          "2023-12-22",
+          0.348
+        ],
+        [
+          1703404800000,
+          "2023-12-24",
+          0.348
+        ],
+        [
+          1703664000000,
+          "2023-12-27",
+          0.308
+        ],
+        [
+          1703923200000,
+          "2023-12-30",
+          0.28
+        ]
+      ],
+      "category": "Politics & Governance",
+      "resolution_criteria": "Each subquestion resolves Yes if Biden's 538 Approve rating is \u2265 the relevant number on the indicated date.\nThis is the Approve rating, as opposed to Disapprove or Net Approval. Currently there is only 1 value per day, but should this change it will be the value displaying on 17:00 UTC (ie the last value before that time) on the relevant day.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will the US Supreme Court issue a decision on hearing the case about presidential immunity before January 1, 2024?",
+      "background_text": "On December 11, 2023, US Special Counsel Jack Smith filed a petition for a writ of certiorari before judgment to the Supreme Court, seeking judgment on the following question:\nWhether a former President is absolutely immune from federal prosecution for crimes committed while in office or is constitutionally protected from federal prosecution when he has been impeached but not convicted before the criminal proceedings begin.\nThis petition reflects the latest event in the ongoing prosecution of Donald Trump for election interference, following an attempt by Trump's lawyers to dismiss the case on the grounds of presidential immunity and Judge Tanya Chutkan's decision rejecting that argument. Trump's legal team has appealed this decision to the US court of appeals, pausing proceedings in the district court, however the trial is scheduled to begin March 4, 2024, and an appeal might delay the proceedings.\nThe petition asks the Supreme Court to decide on the immunity issue promptly so that the trial can proceed as scheduled. The Supreme Court has responded to the petition with a motion to expedite consideration of the petition and directing Trump to file a response to the petition by December 20th.",
+      "createdTime": "2023-12-13T00:00:00Z",
+      "createdTimeStr": "2023-12-13",
+      "resolutionTime": 1703232000000,
+      "resolveTimeStr": "2023-12-22",
+      "resolution": 1.0,
+      "crowd_pred": [
+        [
+          1702627200000,
+          "2023-12-15",
+          0.322
+        ],
+        [
+          1702713600000,
+          "2023-12-16",
+          0.325
+        ],
+        [
+          1702886400000,
+          "2023-12-18",
+          0.359
+        ],
+        [
+          1702972800000,
+          "2023-12-19",
+          0.439
+        ],
+        [
+          1703145600000,
+          "2023-12-21",
+          0.488
+        ]
+      ],
+      "category": "Politics & Governance",
+      "resolution_criteria": "This question will resolve as Yes if, before January 1, 2024, the US Supreme Court has issued a decision either granting or denying a writ of certiorari before judgment for the petition filed by US Special Counsel Jack Smith against Donald Trump.\nFine Print\nThe outcome of the decision is irrelevant, this question only asks whether such a decision has been issued.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Before 2024, will it be announced that either of the Harvard or MIT presidents will vacate their positions?",
+      "background_text": "Following the October 7, 2023, Hamas attack on Israel and Israel's military response, a number of protests were held at US universities, some of which included students making antisemitic threats. In November, the federal government opened civil rights investigations into a number of universities.\nIn late November the House Committee on Education and the Workforce announced a hearing to be held on December 5th featuring testimony on antisemitism on college campuses from Harvard President Claudine Gay, MIT President Sally Kornbluth and Penn President Liz Magill. Following the hearing all three were criticized for not providing clear answers in response to questions about whether antisemitic speech violated university policy. Penn President Liz Magill stepped down after receiving backlash for her responses during the hearing.\nClaudine Gay and Sally Kornbluth remain presidents of their respective universities, and on December 12th the Harvard board unanimously expressed their support for Gay. However, Gay has also faced accusations of plagiarism during the increased scrutiny, and on December 13th the US House of Representatives passed a resolution condemning antisemitism that included a call for Gay and Kornbluth to step down. According to Axios:\nThe resolution passed 303-126, with 84 Democrats voting in favor of it and 125 voting against it. All Republicans except Rep. Thomas Massie (R-Ky.) voted for it. . . The measure was voted on under a process known as suspension of the rules, meaning it needed two-thirds, or roughly 290 votes, to pass.",
+      "createdTime": "2023-12-14T00:00:00Z",
+      "createdTimeStr": "2023-12-14",
+      "resolutionTime": 1704182400000,
+      "resolveTimeStr": "2024-01-02",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1702886400000,
+          "2023-12-18",
+          0.141
+        ],
+        [
+          1703145600000,
+          "2023-12-21",
+          0.089
+        ],
+        [
+          1703404800000,
+          "2023-12-24",
+          0.077
+        ],
+        [
+          1703664000000,
+          "2023-12-27",
+          0.081
+        ],
+        [
+          1703923200000,
+          "2023-12-30",
+          0.059
+        ]
+      ],
+      "category": "Education & Research",
+      "resolution_criteria": "This question will resolve as Yes if, before January 1, 2024, it is announced by the respective president or university that either Harvard President Claudine Gay or Massachusetts Institute of Technology (MIT) President Sally Kornbluth will vacate or have vacated the office of president at their university, for any reason.\nFine Print\nThe position need not be vacated before 2024, only an announcement is required.\nSuch announcement will resolve the question as Yes, even if it's later reversed.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will NASA re-establish communications with Voyager 1 before 1 Jan 2024?",
+      "background_text": "The Voyager probes are the human-made machines that have gone both the fastest and the furthest away from Earth. They were launched in the late '70s,\nInitially designed to last five years, the Voyager probes are the two longest-operating spacecraft in history. Their exceptionally long lifespans mean that both spacecraft have provided additional insights about our solar system and beyond after achieving their preliminary goals of flying by Jupiter, Saturn, Uranus and Neptune decades ago.\nHowever, their continued operation relies on creative ways to shut down instruments to conserve power, and it's not always smooth sailing:\nAlong the way, both spacecraft have encountered unexpected issues and dropouts, including a seven-month period in 2020 when Voyager 2 couldn\u2019t communicate with Earth. In August, the mission team used a long-shot \u201cshout\u201d technique to restore communications with Voyager 2 after a command inadvertently oriented the spacecraft\u2019s antenna in the wrong direction.\nUnfortunately, now\nVoyager 1\u2019s flight data system now appears to be stuck on auto-repeat. The mission team first noticed the issue November 14, when the flight data system\u2019s telecommunications unit began sending back a repeating pattern of ones and zeroes, like it was trapped in a loop.\nA fix is unlikely to to implemented before the new year.\nIt could take several weeks for engineers to develop a new plan to remedy the issue. Finding solutions to challenges the probes encounter often entails consulting original, decades-old documents written by engineers who didn\u2019t anticipate the issues that are arising today. As a result, it takes time for the team to understand how a new command will affect the spacecraft\u2019s operations in order to avoid unintended consequences.\nThis question answers how unlikely, exactly?",
+      "createdTime": "2023-12-15T00:00:00Z",
+      "createdTimeStr": "2023-12-15",
+      "resolutionTime": 1704268800000,
+      "resolveTimeStr": "2024-01-03",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1703232000000,
+          "2023-12-22",
+          0.133
+        ],
+        [
+          1703404800000,
+          "2023-12-24",
+          0.107
+        ],
+        [
+          1703577600000,
+          "2023-12-26",
+          0.1
+        ],
+        [
+          1703750400000,
+          "2023-12-28",
+          0.097
+        ],
+        [
+          1703923200000,
+          "2023-12-30",
+          0.083
+        ]
+      ],
+      "category": "Science & Tech",
+      "resolution_criteria": "This question resolves Yes if, before 1 January 2024, NASA or other credible sources reports that the communications or computer issue with Voyager 1 has been solved. If the solution does not involve the suspected flight data system (FDS), this still resolves Yes, as long as NASA starts receiving either of \"science or engineering data\".\nIn all other cases this question resolves No.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will the US Supreme Court grant a writ of certiorari to the presidential immunity case before February 1, 2024?",
+      "background_text": "On December 11, 2023, US Special Counsel Jack Smith filed a petition for a writ of certiorari before judgment to the Supreme Court, seeking judgment on the following question:\nWhether a former President is absolutely immune from federal prosecution for crimes committed while in office or is constitutionally protected from federal prosecution when he has been impeached but not convicted before the criminal proceedings begin.\nThis petition reflects the latest event in the ongoing prosecution of Donald Trump for election interference, following an attempt by Trump's lawyers to dismiss the case on the grounds of presidential immunity and Judge Tanya Chutkan's decision rejecting that argument. Trump's legal team has appealed this decision to the US court of appeals, pausing proceedings in the district court, however the trial is scheduled to begin March 4, 2024, and an appeal might delay the proceedings.\nThe petition asks the Supreme Court to decide on the immunity issue promptly so that the trial can proceed as scheduled. The Supreme Court has responded to the petition with a motion to expedite consideration of the petition and directing Trump to file a response to the petition by December 20th.",
+      "createdTime": "2023-12-15T00:00:00Z",
+      "createdTimeStr": "2023-12-15",
+      "resolutionTime": 1703232000000,
+      "resolveTimeStr": "2023-12-22",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1702800000000,
+          "2023-12-17",
+          0.683
+        ],
+        [
+          1702886400000,
+          "2023-12-18",
+          0.633
+        ],
+        [
+          1702972800000,
+          "2023-12-19",
+          0.64
+        ],
+        [
+          1703059200000,
+          "2023-12-20",
+          0.638
+        ],
+        [
+          1703145600000,
+          "2023-12-21",
+          0.728
+        ]
+      ],
+      "category": "Politics & Governance",
+      "resolution_criteria": "This question will resolve as Yes if, before February 1, 2024, the US Supreme Court has issued a decision granting a writ of certiorari before judgment for the petition filed by US Special Counsel Jack Smith against Donald Trump.\nFine Print\nA writ of certiorari granted to a successor case consisting of one or more cases merged with the petition filed by Jack Smith against Donald Trump will also resolve the question as Yes.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will a major shipping company announce that they are resuming shipments through the Red Sea before 2024?",
+      "background_text": "Most of the world's largest container and freight shipping companies have announced that they will pause shipments through the Red Sea due to ongoing attacks on vessels by Yemen's Houthi rebels.\nIn response to the attacks, the US has announced a naval protection force for merchant ships in the Red Sea, however it remains to be seen how effective the protection will be and how soon merchant shipping will resume.",
+      "createdTime": "2023-12-19T00:00:00Z",
+      "createdTimeStr": "2023-12-19",
+      "resolutionTime": 1703577600000,
+      "resolveTimeStr": "2023-12-26",
+      "resolution": 1.0,
+      "crowd_pred": [
+        [
+          1703145600000,
+          "2023-12-21",
+          0.295
+        ],
+        [
+          1703232000000,
+          "2023-12-22",
+          0.268
+        ],
+        [
+          1703318400000,
+          "2023-12-23",
+          0.271
+        ],
+        [
+          1703404800000,
+          "2023-12-24",
+          0.339
+        ],
+        [
+          1703491200000,
+          "2023-12-25",
+          0.578
+        ]
+      ],
+      "category": "Security & Defense",
+      "resolution_criteria": "This question will resolve as Yes if, after December 19, 2023, and before January 1, 2024, credible sources report that a major shipping company from the list below will resume shipments through the Red Sea.\nMediterranean Shipping Company (MSC)\nMaersk\nCMA CGM\nHapag-Lloyd\nEvergreen\nBP\nFine Print\nAn announcement that shipments through the Red Sea will resume is sufficient, so long as it's not conditional on other developments and, if a date or resumption is provided, the stated date of resumption is before January 15, 2024. For example, an announcement that shipments will resume when there are no Red Sea hostilities would not be sufficient, nor is an announcement that shipments will resume if the United States or another country provides additional protection above what it has committed to.\nAn announcement must be unambiguous and convey a planned course of action. For example \"we will resume shipments this week\" or \"we plan to. . .\" or \"we intend to. . .\" would all qualify. Statements or announcements that express a desire or goal will not qualify, for example \"we hope to resume shipments this week\" would not count. Metaculus may make a determination regarding the language used, and may resolve the question as Ambiguous in the event an announcement or statement is unclear.\nOnly a qualifying announcement is required, whether a company actually resumes shipping as announced is immaterial.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    },
+    {
+      "question": "Will there be a US military combat death in the Red Sea before 2024?",
+      "background_text": "Following the October 7, 2023, Hamas attack on Israel, Yemen's Houthi rebels have launched a series of ongoing attacks on vessels in the Red Sea including against US warships.\nIn response to the attacks, the US has announced a naval protection force for merchant ships in the Red Sea. According to reporting by the Guardian:\nOne analyst, Farea Al-Muslimi from the Chatham House thinktank, said they expected the Houthi attacks to continue for now despite the US announcement \u2013 and that commercial shipping was likely to remain wary of using the Red Sea.\n\u201cThe Houthis will carry on, they love attention and they have a wide degree of support in the Arab world,\u201d Al-Muslimi said. \u201cSo far nobody has died as a result of the Houthi attacks \u2013 if somebody is killed then there will likely have to be a response.\u201d",
+      "createdTime": "2023-12-20T00:00:00Z",
+      "createdTimeStr": "2023-12-20",
+      "resolutionTime": 1704268800000,
+      "resolveTimeStr": "2024-01-03",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1703232000000,
+          "2023-12-22",
+          0.098
+        ],
+        [
+          1703404800000,
+          "2023-12-24",
+          0.08
+        ],
+        [
+          1703577600000,
+          "2023-12-26",
+          0.059
+        ],
+        [
+          1703750400000,
+          "2023-12-28",
+          0.051
+        ],
+        [
+          1703923200000,
+          "2023-12-30",
+          0.045
+        ]
+      ],
+      "category": "Security & Defense",
+      "resolution_criteria": "This question will resolve as Yes if, after December 20, 2023, and before January 1, 2024, credible sources report that a member of the US military has been killed in the Red Sea due to an attack.\nFine Print\nThis does not include non-combat deaths, such as those occurring during training or by accident.",
+      "data_source": "metaculus",
+      "question_type": "binary"
+    }
+  ]

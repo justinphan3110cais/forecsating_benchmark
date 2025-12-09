@@ -1,0 +1,24 @@
+[
+  {
+    "question": "Will either major party candidate in California\u2019s 13th Congressional District concede the election before December 1, 2024?",
+    "background_text": "In the 2022 midterms, CA-13 was one of the slowest elections to be called, with Democrat Adam Gray [not conceding](https://www.cnn.com/2022/12/03/politics/john-duarte-house-election-california-republican/index.html) to Republican John Duarte until December 3, 2022. See also: [Why does it take California so long to count votes?](https://calmatters.org/politics/elections/2024/03/california-election-results-vote-counting/)",
+    "resolution_criteria": "This question resolves as **Yes** if before December 1, 2024, either the Republican or Democratic candidate concedes the race for California\u2019s 13th Congressional District, according to credible source reporting. If this does not occur, this question resolves as **No**.",
+    "createdTime": "2024-11-07T15:30:00Z",
+    "createdTimeStr": "2024-11-07",
+    "closeTimeStr": "2024-11-08",
+    "resolutionTime": 1731108600000,
+    "resolveTimeStr": "2024-11-08",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1731025188212,
+        "2024-11-07",
+        20,
+        0.27908889426164346
+      ]
+    ],
+    "predictions": [
+      0.4
+    ]
+  }
+]

@@ -1,0 +1,2306 @@
+[
+  {
+    "question": "On Election Day 2024, will Donald Trump be a third-party candidate for the US Presidential Election?",
+    "background_text": "*Related Questions on Metaculus:*\n\n* [Who will be elected to be US President in 2024?](https://www.metaculus.com/questions/11245/winner-of-2024-us-presidential-election/)\n\n* [Who will be the Republican nominee for the 2024 US Presidential Election?](https://www.metaculus.com/questions/11370/2024-republican-nominee-for-us-prez/)\n\n----\n\nAs of February 21, 2023, Donald Trump and Nikki Haley have both declared their campaigns for the [Republican Nomination](https://en.wikipedia.org/wiki/2024_Republican_Party_presidential_primaries) for the 2024 US Presidential Election.  [Early polling](https://en.wikipedia.org/wiki/2024_Republican_Party_presidential_primaries#Nationwide_polling) shows Trump as the leading candidate among Republican voters, ahead of the second-place candidate Ron DeSantis (who has not openly declared his interest in campaigning).  Prediction market aggregator [ElectionBettingOdds](https://electionbettingodds.com/GOPPrimary2024.html) shows both Trump and DeSantis as the most likely winners of the Republican Nomination.\n\n[The Atlantic](https://www.theatlantic.com/ideas/archive/2023/02/trump-arsonist-turns-his-own-party/672956/) reported in February 2023:\n\n>[...] [The survey](https://www.thebulwark.com/wp-content/uploads/2023/01/Republican_Presidential_Primary_Toplines.pdf) found that a large majority of Republicans are ready to move on from Trump\u2014but at the same time, more than a quarter of likely Republican voters are ready to follow Trump to a third-party bid. Two days after the poll results were released, Trump was asked in an interview whether, if he lost the nomination, he would support the GOP nominee. Trump [answered](https://www.mediaite.com/trump/trump-refuses-to-commit-to-backing-the-republican-nominee-in-2024/), \u201cIt would have to depend on who the nominee was.\u201d Translation: no.\n\nThe 2024 US Presidential Election is [currently scheduled](https://en.wikipedia.org/wiki/2024_United_States_presidential_election) for November 5, 2024.",
+    "createdTime": "2023-02-23T19:54:00Z",
+    "createdTimeStr": "2023-02-23",
+    "closeTimeStr": "2024-11-05",
+    "resolutionTime": 1730815200000,
+    "resolveTimeStr": "2024-11-05",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730479386558,
+        "2024-11-01",
+        135,
+        0.003981132949885101
+      ]
+    ]
+  },
+  {
+    "question": "Will the Atlantic basin see more than 18 named storms in the 2024 hurricane season?",
+    "background_text": "The [2023 Atlantic hurricane season](https://www.noaa.gov/news-release/2023-atlantic-hurricane-season-ranks-4th-for-most-named-storms-in-year#:~:text=The%20above%2Dnormal%202023%20Atlantic,in%20a%20year%20since%201950.), concluding on November 30, stood out due to exceptionally warm Atlantic sea temperatures and a potent El Nino. With 20 named storms, it's the fourth highest since 1950. Of these, seven escalated to hurricanes, and three reached major hurricane status, surpassing the average of 14 named storms, seven hurricanes, and three major hurricanes.\nThe season\u00a0**officially begins on June 1, 2024, and ends on November 30, 2024**.",
+    "createdTime": "2024-02-03T21:23:00Z",
+    "createdTimeStr": "2024-02-03",
+    "closeTimeStr": "2024-12-01",
+    "resolutionTime": 1733040000000,
+    "resolveTimeStr": "2024-12-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730656196711,
+        "2024-11-03",
+        38,
+        0.14129168085503258
+      ]
+    ]
+  },
+  {
+    "question": "Will Ukraine control central Bakhmut at the end of 2024?",
+    "background_text": "**Previous Questions on Metaculus**\n\n- [Will Russian troops reach the center of Bakhmut, Ukraine before 0000 hrs local time on January 27th, 2023?](https://www.metaculus.com/questions/14607/russian-troops-in-central-bakhmut-by-1-27-23/)\n- [Will Ukraine regain control of central Bakhmut by the end of May 2023?](https://www.metaculus.com/questions/16743/ukraine-regains-bakhmut-before-june-2023/)\n- [Will Ukraine regain control of central Bakhmut by the end of September 2023?](https://www.metaculus.com/questions/17742/ukraine-regains-bakhmut-before-october-2023/)\n\n---\n\nThe city of Bakhmut in Ukraine has been [heavily contested](https://www.aljazeera.com/news/2023/5/20/the-battle-for-ukraine-bakhmut-a-timeline), and [according to PBS](https://www.pbs.org/newshour/amp/world/ukraine-ends-year-in-disappointing-stalemate-with-russia-and-anxious-about-aid-from-allies) the battle for Bakhmut has been \"the longest and bloodiest battle of the war\".\n\nThe [Institute for the Study of War](https://www.understandingwar.org/) (ISW) has been tracking the war in Ukraine and charting the control of territory on its [interactive map](https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375). As of December 21, 2023, the ISW shows central Bakhmut as under \"assessed Russian control\".",
+    "createdTime": "2024-01-01T07:00:00Z",
+    "createdTimeStr": "2024-01-01",
+    "closeTimeStr": "2024-12-30",
+    "resolutionTime": 1735628416291,
+    "resolveTimeStr": "2024-12-30",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730748538179,
+        "2024-11-04",
+        535,
+        0.029946978056473433
+      ]
+    ]
+  },
+  {
+    "question": "Will Scotland leave the United Kingdom before 2025?",
+    "background_text": "[A referendum on Scottish independence from the United Kingdom took place on 18 September 2014.](https://en.wikipedia.org/wiki/2014_Scottish_independence_referendum) The referendum question, which voters answered with \"Yes\" or \"No\", was \"Should Scotland be an independent country?\"\n\nThe \"No\" side won, with 2,001,926 (55.3%) voting against independence and 1,617,989 (44.7%) voting in favour. The turnout of 84.6% was the highest recorded for an election or referendum in the United Kingdom since the introduction of universal suffrage. \n\nSince 2014, the [United Kingdom has voted to leave the European Union.](https://en.wikipedia.org/wiki/2016_United_Kingdom_European_Union_membership_referendum) On June 23 2016, 17,410,742 (51.89%) voters answered the question \"Should the United Kingdom remain a member of the European Union or leave the European Union?\" with \"Leave,\" and 16,141,241 (48.11%) voters answered with \"Remain.\" The \"Leave\" side thus won, having accrued more individual votes than any political party or referendum side in British political history.\n\nHowever, voters in Scotland did not, in aggregate, support leaving the EU. In fact, Scotland was the most pro-remain region of the UK with [62% of Scottish voters opting for \"Remain.\"](https://en.wikipedia.org/wiki/2016_United_Kingdom_European_Union_membership_referendum#Regional_count_results) (Gibraltar had a higher Remain vote share, but was counted as part of South West England.) [You can see a map of the results here.](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/United_Kingdom_EU_referendum_2016_area_results.svg/871px-United_Kingdom_EU_referendum_2016_area_results.svg.png)\n\nThe fact that voters in Scotland are widely opposed to leaving the EU, and the fact that broader Scottish nationalist sentiment has not significantly waned since the 2014 referendum, has led to speculation that Scotland may once again attempt to leave the United Kingdom in the near future.",
+    "createdTime": "2019-01-21T00:00:00Z",
+    "createdTimeStr": "2019-01-21",
+    "closeTimeStr": "2025-01-01",
+    "resolutionTime": 1735718400000,
+    "resolveTimeStr": "2025-01-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730615582360,
+        "2024-11-02",
+        627,
+        0.019255855239625325
+      ]
+    ]
+  },
+  {
+    "question": "Will FreeTON cryptocurrency project be successful?",
+    "background_text": "Telegram Open Network was a cryptocurrency project that would allow to make transactions within Telegram messenger. It was [cancelled](https://www.interactivecrypto.com/telegram-cancels-telegram-open-network-and-grams-project) after a lawsuit initiated by the Securities Exchange Commission (SEC) in the USA.\n\nAfter that, a group of developers [forked](https://cryptopotato.com/free-ton-forks-to-decentralized-independence-in-telegram-token-sales-departure/) the project under name [FreeTON](https://freeton.org/) to develop it independently from Telegram messenger.",
+    "createdTime": "2020-08-12T23:00:00Z",
+    "createdTimeStr": "2020-08-12",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735696800000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730479880950,
+        "2024-11-01",
+        54,
+        0.10697941343296605
+      ]
+    ]
+  },
+  {
+    "question": "Will either major party candidate in California\u2019s 22nd Congressional District concede the election before December 1, 2024?",
+    "background_text": "In the 2022 midterms, CA-22 was one of the slowest elections to be called, with the Democratic challenger [conceding](https://www.cnn.com/2022/11/22/politics/california-22-valadao-salas/index.html) on November 22, 2022. See also: [Why does it take California so long to count votes?](https://calmatters.org/politics/elections/2024/03/california-election-results-vote-counting/)",
+    "createdTime": "2024-11-11T15:30:00Z",
+    "createdTimeStr": "2024-11-11",
+    "closeTimeStr": "2024-11-12",
+    "resolutionTime": 1731454200000,
+    "resolveTimeStr": "2024-11-12",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1731419754947,
+        "2024-11-12",
+        32,
+        0.5900886325789118
+      ]
+    ]
+  },
+  {
+    "question": "Will Sarah Sanders be on the Republican ticket in the 2024 presidential election?",
+    "background_text": "[Sarah Elizabeth Sanders](https://en.wikipedia.org/wiki/Sarah_Sanders), born August 13, 1982, also known as Sarah Huckabee Sanders, is an American political analyst and politician. She was the 31st White House press secretary, serving under former President Donald Trump from 2017 to 2019. She was the third woman to serve in that position. Sanders previously worked on the election campaigns of her father, Arkansas governor and presidential candidate Mike Huckabee, and later served as a senior advisor on Trump's 2016 presidential campaign.\n\nAs of June 2022, Sanders is the Republican Party's nominee in [the 2022 Arkansas gubernatorial election.](https://en.wikipedia.org/wiki/2022_Arkansas_gubernatorial_election)",
+    "createdTime": "2022-07-28T22:00:00Z",
+    "createdTimeStr": "2022-07-28",
+    "closeTimeStr": "2024-11-06",
+    "resolutionTime": 1730956140000,
+    "resolveTimeStr": "2024-11-06",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730479522040,
+        "2024-11-01",
+        67,
+        0.007842316973756829
+      ]
+    ]
+  },
+  {
+    "question": "Will the USDA-posted recall of Hickory Hollow's ready-to-eat jerky products be closed before December 1, 2024?",
+    "background_text": "According to the Alabama Media Group on [September 4, 2024](https://www.al.com/life/2024/09/6229-pounds-of-jerky-from-alabama-company-recalled.html), \"Ready-to-eat jerky products from an Alabama-based company are being recalled. The products were shipped to retail locations in Alabama, Florida, Georgia, North Carolina, and Oklahoma. The products were also sold on the internet. So far, there have been no confirmed reports of adverse reactions due to consumption of these products, according to the USDA. Anyone concerned about a reaction should contact a healthcare provider.\"",
+    "createdTime": "2024-11-05T15:30:00Z",
+    "createdTimeStr": "2024-11-05",
+    "closeTimeStr": "2024-11-06",
+    "resolutionTime": 1730935800000,
+    "resolveTimeStr": "2024-11-06",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730886709318,
+        "2024-11-06",
+        32,
+        0.42166015534335094
+      ]
+    ]
+  },
+  {
+    "question": "Will the Shanghai (SSE) Composite Index go up over 2024?",
+    "background_text": "The SSE Composite Index is a stock market index of all stocks on the Shanghai Stock Exchange. While the Chinese economy has grown significantly over the past two decades, the Shanghai Stock Exchange has had more humble returns. For reference, [China's GDP](https://www.macrotrends.net/countries/CHN/china/gdp-gross-domestic-product) grew from 1.47 trillion USD in 2002 to 17.96 trillion USD in 2022, while the [SSE](https://finance.yahoo.com/quote/000001.SS/) went from 1500 at the beginning of 2003 to 3255 at the beginning of 2023.\n\nFor further reference, [from 2003 until 2022](https://en.wikipedia.org/wiki/SSE_Composite_Index), the SSE ended the year up for 11 of those years and down for 9 of those years.",
+    "createdTime": "2024-01-01T07:00:00Z",
+    "createdTimeStr": "2024-01-01",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735704000000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1730472608256,
+        "2024-11-01",
+        378,
+        0.6602678746798567
+      ]
+    ]
+  },
+  {
+    "question": "Will Russia control Pokrovsk Before 2025?",
+    "background_text": "In the months since Russia captured Avdiivka, they have gained control of land at a relatively steady pace on the [eastern frontline](https://archive.ph/ABnN0), though likely at high personnel costs. If the city of Pokrovsk is captured, Ukraine will have mounting difficulties controlling Russian advances in DONETSK Oblast. A recent Ukrainian offensive in Kursk has not appeared to slow Russian momentum near Pokrovsk.",
+    "createdTime": "2024-08-29T12:00:00Z",
+    "createdTimeStr": "2024-08-29",
+    "closeTimeStr": "2025-01-01",
+    "resolutionTime": 1735736340000,
+    "resolveTimeStr": "2025-01-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730616490866,
+        "2024-11-02",
+        34,
+        0.052442607659020514
+      ]
+    ]
+  },
+  {
+    "question": "Will Vladimir Putin declare Martial Law in at least 3/4 of Russia before 2025?",
+    "background_text": "On 24 February 2022, [Russia invaded and occupied parts of Ukraine](https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine), escalating the [Russo-Ukrainian War](https://en.wikipedia.org/wiki/Russo-Ukrainian_War) that began in 2014. Subsequently, on 30 September 2022, Russia unilaterally [declared the annexation](https://en.wikipedia.org/wiki/Russian_annexation_of_Donetsk,_Kherson,_Luhansk_and_Zaporizhzhia_oblasts) of areas in and around four Ukrainian oblasts. [Martial law was introduced in Russia](https://en.wikipedia.org/wiki/2022_Russian_martial_law) on 20 October 2022 but was implemented only in the annexed territories of Ukraine. Different levels of readiness or response were established in various regions, including those bordering Ukraine and annexed Crimea. On 23 June 2023, a [rebellion by the Wagner Group](https://en.wikipedia.org/wiki/Wagner_Group_rebellion), a private military company linked to the Russian government, occurred. The rebellion reportedly led to a decline of 9-14% in public trust towards Vladimir Putin, as reported by [Meduza](https://meduza.io/feature/2023/06/29/sotsiologi-govoryat-chto-myatezh-ne-obrushil-reytingi-prezidenta-rossii-odnako-regionalnye-politiki-rasskazali-meduze-chto-v-kremle-im-soobschayut-o-padenii-urovnya-doveriya-putinu-na-9-14) on 29 June. Notably, [presidential elections are scheduled for March 2024](https://en.wikipedia.org/wiki/2024_Russian_presidential_election), and under electoral law, they [cannot be held during a period of martial law](https://en.wikipedia.org/wiki/Martial_law_in_Russia#Permitted_limitations). This question aims to assess the likelihood of Putin declaring martial law within a specific timeframe.",
+    "createdTime": "2023-07-07T00:47:00Z",
+    "createdTimeStr": "2023-07-07",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735707600000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1733302314687,
+        "2024-12-04",
+        111,
+        0.058719157048604496
+      ]
+    ]
+  },
+  {
+    "question": "Will the majority of Russian soldiers in Syria withdraw before January 5, 2025?",
+    "background_text": "On December 8, 2024, a coalition of Syrian rebels entered Damascus, ultimately ousting President Bashar al-Assad, who fled to Moscow and was granted political asylum by the Russian government.&#x20;\n\nRussia has had tens of thousands of troops deployed in Syria over the years, with [several thousand remaining](https://kyivindependent.com/the-russian-weapons-in-the-balance-of-syrias-regime-shift/) after the start of the war in Ukraine:\n\n> The BBC estimated that there were around 7,500 Russian soldiers in Syria as of the beginning of 2024.\n\n> \u201cRussia always had a very limited, surgical presence in Syria, and it is easier to sustain a small presence than a large presence,\u201d Anna Borshchevskaya, a senior fellow at the Washington Institute for Near East Policy. She put the likely upper limit for total Russian fighters in Syria closer to 4,500.",
+    "createdTime": "2024-12-12T20:16:54.316920Z",
+    "createdTimeStr": "2024-12-12",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735711140000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1734373855648,
+        "2024-12-16",
+        32,
+        0.2886739764597317
+      ]
+    ]
+  },
+  {
+    "question": "Will South Carolina have 300,000 or more residents living in drought on December 31, 2024?",
+    "background_text": "[Nearly four weeks without rain, drought conditions creeping back in South Carolina](https://www.foxcarolina.com/2024/10/24/nearly-four-weeks-without-rain-drought-conditions-creeping-back-south-carolina/)",
+    "createdTime": "2024-11-20T15:30:00Z",
+    "createdTimeStr": "2024-11-20",
+    "closeTimeStr": "2024-11-21",
+    "resolutionTime": 1732231800000,
+    "resolveTimeStr": "2024-11-21",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1732187600420,
+        "2024-11-21",
+        32,
+        0.6026595845488921
+      ]
+    ]
+  },
+  {
+    "question": "Will iHeartMedia continuously operate through January 1, 2025, without filing for bankruptcy?",
+    "background_text": "iHeartMedia, which runs more than 860 broadcast radio stations and offers programming and other services to the industry, filed for Chapter 11 bankruptcy in 2019, and although it is earning positive operating income, the interest payments exceed the operating income and the firm will need to restructure that debt in a higher interest rate environment than it faced before. ",
+    "createdTime": "2024-11-20T15:30:00Z",
+    "createdTimeStr": "2024-11-20",
+    "closeTimeStr": "2024-11-21",
+    "resolutionTime": 1732231800000,
+    "resolveTimeStr": "2024-11-21",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1732187597247,
+        "2024-11-21",
+        32,
+        0.7813165640465524
+      ]
+    ]
+  },
+  {
+    "question": "Will Daniel Penny be convicted in connection with the death of Jordan Neely before January 1, 2025?",
+    "background_text": "Wikipedia: [Killing of Jordan Neely](https://en.wikipedia.org/wiki/Killing_of_Jordan_Neely) | [Update: People v. Daniel Penny](https://mediaroom.substack.com/p/update-people-v-daniel-penny-2f3)",
+    "createdTime": "2024-12-04T15:30:00Z",
+    "createdTimeStr": "2024-12-04",
+    "closeTimeStr": "2024-12-05",
+    "resolutionTime": 1733441400000,
+    "resolveTimeStr": "2024-12-05",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1733408704564,
+        "2024-12-05",
+        32,
+        0.4865892394612354
+      ]
+    ]
+  },
+  {
+    "question": "Will the Alpental ski resort be listed as Open by On the Snow's Ski Report on December 6, 2024?",
+    "background_text": "From the resolution source: \"Alpental (German for alpine valley) is one of four base areas at the Summit at Snoqualmie, separated from the other three by Interstate 90. Alpental offers the most advanced and expert terrain at the area with runs like Upper International and Shot Six. The area provides some of the steepest and deepest terrain, but it\u2019s also great for beginner skiers and boarders.\n\nWhere Is Alpental Ski Resort Located?\nThe Summit at Snoqualmie is an hour from Seattle on Interstate 90.\"",
+    "createdTime": "2024-12-04T15:30:00Z",
+    "createdTimeStr": "2024-12-04",
+    "closeTimeStr": "2024-12-05",
+    "resolutionTime": 1733441400000,
+    "resolveTimeStr": "2024-12-05",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1733408581840,
+        "2024-12-05",
+        32,
+        0.36656530728638004
+      ]
+    ]
+  },
+  {
+    "question": "Will the Fed Funds Rate on December 31, 2024 be below 4%?",
+    "background_text": "The [Federal Funds Rate (FFR)](https://en.wikipedia.org/wiki/Federal_funds_rate) is the interest rate at which U.S. depository institutions lend reserve balances to each other overnight. It's a crucial benchmark in financial markets and influences a wide range of market interest rates. As of December 2023, the target FFR is [between 5.25% and 5.50%](https://www.newyorkfed.org/markets/reference-rates/effr). The Federal Open Market Committee sets the target range for the FFR, impacting employment and inflation in the U.S. economy. Changes in the FFR directly influence borrowing costs for consumers, businesses, and the government, thereby affecting [overall economic activity and inflation](https://www.federalreservehistory.org/essays/fed-funds-rate)",
+    "createdTime": "2024-01-01T07:00:00Z",
+    "createdTimeStr": "2024-01-01",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735700400000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730562969679,
+        "2024-11-02",
+        421,
+        0.05887043954485077
+      ]
+    ]
+  },
+  {
+    "question": "Will Costco raise the price of its hot dog and soda combo before 2025?",
+    "background_text": "[Costco Wholesale Corporation](https://en.wikipedia.org/wiki/Costco) is an American multinational corporation which operates a chain of membership-only big-box retail stores. As of 2020, Costco was the fifth largest retailer in the world, and the world's largest retailer of choice and prime beef, organic foods, rotisserie chicken, and wine as of 2016. In 2021, Costco was ranked #10 on the Fortune 500 rankings of the largest United States corporations by total revenue.\n\nFor decades, Costco has offered for sale in the United States [a combo meal](https://s.yimg.com/ny/api/res/1.2/12jIuKNWU8CzKJ0GRL_39A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ2Nw--/https://s.yimg.com/os/creatr-uploaded-images/2022-03/127c2480-9fb7-11ec-bfff-2a62f952c478) consisting of a \"1/4 lb plus\" hot dog and a 20 oz soda. Remarkably, [the price of this offering has not changed since 1985](https://www.businessinsider.com/costco-not-raising-price-of-hot-dog-combo-2022-5?r=US&IR=T): it remains $1.50, despite substantial inflation over the last 40 years. As of May 2022, there were reportedly no plans to increase the price in the near future, despite [inflation surging to 40-year highs.](https://www.theguardian.com/business/2022/jun/10/us-inflation-rate-may-2022-four-decade-high)\n\nAccording to [Business Insider](https://www.businessinsider.com/costco-not-raising-price-of-hot-dog-combo-2022-5?r=US&IR=T):  \n\n>In a third-quarter earnings call, Senior Vice President Robert Nelson told investors that there were no current plans to increase the food court favorite price, despite \"online rumors.\"\n\n>...\n\n>\"We have no plans to take that hot dog above a buck fifty. End of story,\" Costco CEO Craig Jelinek told shareholders in January 2020.\n\nAnd according to [a 2018 article](https://www.425business.com/news/costco-ceo-craig-jelinek-on-shareholders-costco-com-and-hot-dogs/article_5ff4b632-1f75-5e98-b9ff-6e02d676668b.html), when current Costco president and CEO W. Craig Jelinek suggested to the company's founder that the $1.50 price was too low,   founder James Sinegal replied:\n\n>\"If you raise the effing hot dog, I will kill you. Figure it out.\"",
+    "createdTime": "2022-06-25T04:00:00Z",
+    "createdTimeStr": "2022-06-25",
+    "closeTimeStr": "2025-01-01",
+    "resolutionTime": 1735718400000,
+    "resolveTimeStr": "2025-01-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1731001728581,
+        "2024-11-07",
+        112,
+        0.05980135537873043
+      ]
+    ]
+  },
+  {
+    "question": "Will Denzel Washington win the Oscar for the Best Supporting Actor for Gladiator II?",
+    "background_text": "Denzel Washington is an American actor, known for various roles including Malcolm X in the 1992 movie of the same name, Alonzo Harris in Training Day (2001), and Private Silas Trip in Glory (1989). The New York Times ranked him as #1 in their 2020 list [*The 25 Greatest Actors of the 21st Century (So Far)*](https://www.nytimes.com/interactive/2020/movies/greatest-actors-actresses.html#denzel-washington). He has received [multiple awards](https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Denzel_Washington), including two Oscars (for Training Day and Glory), three Golden Globe Awards (for the same movies, plus an honorary award), and a Tony Award in 2010 for the play Fences.\n\nIn 2024, he appeared in Gladiator II, the sequel for Gladiator (2000). The movie received [mixed reviews](https://www.rottentomatoes.com/m/gladiator_ii), but Denzel Washington was nominated for a Golden Globe for Best Supporting Actor.\n\n***\n\nThis question belongs to Vox's Future Perfect Community page and 2025 forecasting tournament. [Learn more and compete for the $2,500 prize pool](https://www.metaculus.com/c/future-perfect/).\n\nNote: This question appears in the Future Perfect 2025 Community and Tournament, but is no longer slated to appear in Vox's January 1, 2025 article.&#x20;",
+    "createdTime": "2024-12-20T20:00:52.721536Z",
+    "createdTimeStr": "2024-12-20",
+    "closeTimeStr": "2025-01-23",
+    "resolutionTime": 1737694800000,
+    "resolveTimeStr": "2025-01-23",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1735425009803,
+        "2024-12-28",
+        32,
+        0.21641601597796126
+      ]
+    ]
+  },
+  {
+    "question": "Will Any Major AI Company Commit to an AI Windfall Clause by 2025?",
+    "background_text": "In 2020, the Future of Life Institute published a report entitled [\"The Windfall Clause: Distributing the Benefits of AI for the Common Good.\"](https://www.fhi.ox.ac.uk/wp-content/uploads/Windfall-Clause-Report.pdf) (They also wrote [an abridged version](https://arxiv.org/abs/1912.11595) to be published in the [Proceedings of AIES](https://dl.acm.org/doi/abs/10.1145/3375627.3375842). Also, fun aside: Metaculus' own [@Anthony](https://www.metaculus.com/accounts/profile/8/) got a shout-out in the acknowledgements.) Essentially, they expanded on an idea from Bostrom's Superintelligence that a firm working on transformational AI technology could limit global inequality as a result of their breakthrough by pre-committing to keep only a fraction of the fabulous profits, and distribute the rest.\n\nThough there are numerous obstacles barring the path to making this plan a reality, the FLI research lowers many of these bars, including investigating the legal apparatus for enacting such an agreement and envisioning some of the logistical means by which a windfall might be distributed. What really remains is buy-in. If this plan will work, it will work because the companies positioned to develop windfall AI technologies signed on to a Windfall agreement in advance.",
+    "createdTime": "2020-05-03T22:00:00Z",
+    "createdTimeStr": "2020-05-03",
+    "closeTimeStr": "2025-01-01",
+    "resolutionTime": 1735736340000,
+    "resolveTimeStr": "2025-01-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730573266614,
+        "2024-11-02",
+        115,
+        0.08242371425640434
+      ]
+    ]
+  },
+  {
+    "question": "Will a stock exchange halt trading for >24 hours with a cause widely attributed to AI before 2025?",
+    "background_text": "Erratic trading in stock markets like the NYSE, NASDAQ, and LSE is an increasing problem, though as of May 2023, not directly due to AI, though perhaps due to high-frequency trading (HFT).\n\nExamples of Flash Crashes were the [2010 drop of 1,000 points in the DOW for disputed reasons](https://en.wikipedia.org/wiki/2010_flash_crash) and the [2022 European stock flash crash due to human error](https://en.wikipedia.org/wiki/Flash_crash#Flash_Crash_of_European_Stock_Markets_on_May_2,_2022).\n\nIn May 2023, a deepfake image showed an explosion at the US Pentagon, which was picked up by media and caused a [temporary huge drop in stock markets](https://www.thestreet.com/technology/s-p-sheds-500-billion-from-fake-pentagon-explosion).\n\nIn all of these cases, prices recovered quickly and no exchanges were halted.",
+    "createdTime": "2023-05-23T18:00:00Z",
+    "createdTimeStr": "2023-05-23",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735704000000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730479973702,
+        "2024-11-01",
+        67,
+        0.05327734446489085
+      ]
+    ]
+  },
+  {
+    "question": "Will AMC Theatres file for bankruptcy before January 1, 2025?",
+    "background_text": "Amid negative operating income and a large debtload (and high interest payments), meme stock AMC has recently [refinanced](https://www.hollywoodreporter.com/business/business-news/amc-theatres-refinancing-deal-2029-1235954760/) debt",
+    "createdTime": "2024-11-19T15:30:00Z",
+    "createdTimeStr": "2024-11-19",
+    "closeTimeStr": "2024-11-20",
+    "resolutionTime": 1732145400000,
+    "resolveTimeStr": "2024-11-20",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1732113786406,
+        "2024-11-20",
+        32,
+        0.2485239519829011
+      ]
+    ]
+  },
+  {
+    "question": "Will Donald J. Trump be convicted of at least one count in his federal court cases before the end of 2024?",
+    "background_text": "Donald J. Trump, the 45th president of the United States, has been involved in an array of legal battles post his presidency. Currently facing three indictments with the prospect of a fourth, his legal circumstances have sparked curiosity about the possible outcomes.\n\n**Assessing the Odds**\n\nEstimating the odds of a jury reaching a guilty verdict in at least one of Trump's cases can be complex. Historically, federal conviction rates in the U.S have been relatively high, often surpassing 90%. However, this figure doesn't necessarily imply the same odds for Trump's case. The likelihood of a guilty verdict depends heavily on the evidence, the nature of the crimes, the lawyers involved, the jury's composition, and public opinion, among other factors.\n\n**The \"Stealth Juror\" Scenario**\n\nOne of the factors complicating the trial outcome is the possibility of a 'stealth juror'. In this context, a stealth juror refers to a passionate Trump supporter (who didn't vote in 2016 and 2020 for whatever reasons) pretending to be neutral who, despite being obliged to judge impartially, could be biased in their judgement. If at least one juror refuses to agree with the others, it could lead to a hung jury, which may complicate the process further.\n\nU.S courts use a process called voir dire to select impartial jurors. While this process is usually effective, it is not foolproof. A passionate supporter could potentially hide their bias, impacting the verdict. However, such a scenario is relatively rare and challenging to pull off. Furthermore, even if a stealth juror manages to cause a hung jury in one case, the likelihood of this happening consistently across multiple trials is low.\n\nBesides backing Trump, a juror could have other motivations for opposing a guilty verdict in a federal trial against a former president.",
+    "createdTime": "2023-09-02T19:47:00Z",
+    "createdTimeStr": "2023-09-02",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735693200000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730479865950,
+        "2024-11-01",
+        136,
+        0.043001811821437384
+      ]
+    ]
+  },
+  {
+    "question": "Will an infrastructure disaster costing >$1B in a G20 country be widely attributed to an AI cyberattack before 2025?",
+    "background_text": "As more of the world's infrastructure has major digital components, cyberattacks have the potential to become more common and lead to bigger disasters. None, however, have been directly attributed to AI systems. Non-AI cyberattacks on infrastructure include:\n\n* In May 2021, a [ransomware attack on Colonial Pipeline](https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack) caused widespread fuel shortages in the eastern United States. The attack, which was carried out by a group called DarkSide, forced Colonial Pipeline to shut down its operations for several days.\n\n* In August 2022, a ransomware attack took down [many different parts of England's National Health Service](https://www.theguardian.com/technology/2022/aug/11/nhs-ransomware-attack-what-happened-and-how-bad-is-it) that led to system outages for several weeks.\n\n* In Oct 2022, a DDOS attack [took down several US airline websites](https://purplesec.us/security-insights/killnet-ddos-airport-websites/), and was attributed to Killnet, a pro-Russian hacker group.",
+    "createdTime": "2023-05-23T18:00:00Z",
+    "createdTimeStr": "2023-05-23",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735704000000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730479991581,
+        "2024-11-01",
+        79,
+        0.03848674809781141
+      ]
+    ]
+  },
+  {
+    "question": "Will the US unemployment rate be above 4% in November 2024?",
+    "background_text": "The US\u00a0[Bureau of Labor Statistics](https://en.wikipedia.org/wiki/Bureau_of_Labor_Statistics)\u00a0(BLS) provides monthly estimates of the\u00a0[unemployment rate](https://www.investopedia.com/articles/investing/080415/true-unemployment-rate-u6-vs-u3.asp)\u00a0in the United States. The most commonly cited unemployment figure is U-3 unemployment, which measures the share of people aged 16 and over in the labor force (meaning people employed or seeking employment) who are unemployed. The BLS\u00a0[typically releases](https://www.bls.gov/schedule/news_release/empsit.htm)\u00a0its unemployment estimates for a month in the first half of the following month.\n\nBelow is a graph of the monthly seasonally adjusted U-3 unemployment rate, from the [Federal Reserve Bank of St. Louis](https://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_St._Louis). **Note that the underlying source is the BLS, though the chart may update with subsequent estimates published by the BLS and may not reflect the initially published estimates.**\n<iframe src=\"https://fred.stlouisfed.org/graph/graph-landing.php?g=XFpS&width=100%25&height=475\" scrolling=\"no\" frameborder=\"0\" style=\"overflow:hidden; width:100%; height:550px;\" allowTransparency=\"true\" loading=\"lazy\"></iframe>",
+    "createdTime": "2024-01-01T07:00:00Z",
+    "createdTimeStr": "2024-01-01",
+    "closeTimeStr": "2024-11-30",
+    "resolutionTime": 1733036400000,
+    "resolveTimeStr": "2024-11-30",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1730444535819,
+        "2024-11-01",
+        426,
+        0.7292967679973191
+      ]
+    ]
+  },
+  {
+    "question": "Will Cris Ericson win the 2024 United States Senate election in Vermont?",
+    "background_text": "[Cris Ericson](https://en.wikipedia.org/wiki/Cris_Ericson) has been a candidate every two years in Vermont from 2002 to 2020 and has lost every election.  She is known as the cannabis legalization [candidate](http://crisericson.com) in Vermont. Cannabis is now [legal](https://www.mpp.org/states/vermont/) under VT state law, but not under federal laws.\n\nCris Ericson has been excluded from the majority of debates and forums from 2002 through 2022.  She has [announced her candidacy](https://www.diamondeyecandidatereport.com/home/first-challenger-to-senator-bernie-sanders-is-a-familiar-face-in-vermont-politics) for Senate in Vermont, challenging incumbent Senator Bernie Sanders.",
+    "createdTime": "2023-07-07T00:23:00Z",
+    "createdTimeStr": "2023-07-07",
+    "closeTimeStr": "2024-11-05",
+    "resolutionTime": 1730857920000,
+    "resolveTimeStr": "2024-11-05",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1731049603124,
+        "2024-11-07",
+        32,
+        0.005653173502894246
+      ]
+    ]
+  },
+  {
+    "question": "Will China officially announce export restrictions on any additional metals before January 1, 2025?",
+    "background_text": "China's [recent announcement](https://www.cnbc.com/2024/08/21/chinas-antimony-export-controls-rattle-the-tungsten-industry.html) of export controls on antimony, effective September 15, 2024, has raised concerns among industry insiders about the country's willingness to leverage its dominance in the global supply chain of critical metals. Antimony, used in bullets, nuclear weapons production, and lead-acid batteries, is just one of many metals that China has a significant share of global production.\n\nThe announcement follows China's previous export controls [on graphite](https://www.csis.org/analysis/chinas-use-graphite-export-restrictions-encourages-diversification) in 2023 and restrictions on germanium and gallium, two metals used in chipmaking, in response to U.S. efforts to limit China's access to high-end semiconductors. These moves have led some industry experts to speculate that China may soon impose export controls on other critical metals, such as tungsten, which is nearly as hard as a diamond and used in weapons, semiconductors, and industrial cutting machines.\n\nChina's actions are seen by some as retaliatory measures against what it perceives as intrusions into its national interests. As a result, companies in the U.S. and elsewhere are exploring alternatives to reduce their reliance on China for critical metals. However, it remains to be seen whether China will follow through with a blanket implementation of the latest export controls or announce restrictions on additional metals in the near future.",
+    "createdTime": "2024-10-22T18:34:56.369183Z",
+    "createdTimeStr": "2024-10-22",
+    "closeTimeStr": "2024-11-15",
+    "resolutionTime": 1731733200000,
+    "resolveTimeStr": "2024-11-15",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1730459348536,
+        "2024-11-01",
+        35,
+        0.4154436534863707
+      ]
+    ]
+  },
+  {
+    "question": "Will Sam Altman and Greg Brockman start a new AI company, or join a competitor to OpenAI, before 2025?",
+    "background_text": "On November 17, 2023, Sam Altman was [fired as CEO of OpenAI](https://www.wsj.com/tech/sam-altman-departs-open-ai-mira-murati-interim-ceo-41f6d51e). \n\nIn a [statement](https://openai.com/blog/openai-announces-leadership-transition), OpenAI's board said:\n\n> Mr. Altman\u2019s departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities. The board no longer has confidence in his ability to continue leading OpenAI.\n\nIn a [tweet](https://twitter.com/sama/status/1725631621511184771) the same day, Altman said he would have news on next steps soon.\n\nShortly thereafter, OpenAI President and Chairman of the Board Greg Brockman tweeted \"[I quit](https://twitter.com/gdb/status/1725667410387378559).\"",
+    "createdTime": "2023-11-18T03:30:00Z",
+    "createdTimeStr": "2023-11-18",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735700400000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1731007406313,
+        "2024-11-07",
+        127,
+        0.013697575390480821
+      ]
+    ]
+  },
+  {
+    "question": "Will the GOP control the Senate after the 2024 elections?",
+    "background_text": "[Wikipedia](https://en.wikipedia.org/wiki/2024_United_States_Senate_elections):\n\n> The 2024 United States Senate elections will be held on November 5, 2024, with 33 of the 100 seats in the Senate being contested in regular election.",
+    "createdTime": "2021-09-01T04:00:00Z",
+    "createdTimeStr": "2021-09-01",
+    "closeTimeStr": "2024-11-05",
+    "resolutionTime": 1730822400000,
+    "resolveTimeStr": "2024-11-05",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1730479412492,
+        "2024-11-01",
+        239,
+        0.7573958879442048
+      ]
+    ]
+  },
+  {
+    "question": "Will at least 10 countries ratify a new international treaty on pandemic prevention and preparedness before 2025?",
+    "background_text": "The idea of an international treaty on pandemic prevention and preparedness has been recently discussed. According to a [March 2021 joint article](https://www.gov.uk/government/speeches/no-government-can-address-the-threat-of-pandemics-alone-we-must-come-together) by leaders of 23 countries as well as President of the European Council and Director-General of the World Health Organisation, the main goal of such a treaty would be to:\n>\nfoster an all of government and all of society approach, strengthening national, regional and global capacities and resilience to future pandemics. This includes greatly enhancing international co-operation to improve, for example, alert systems, data-sharing, research and local, regional and global production and distribution of medical and public health counter-measures such as vaccines, medicines, diagnostics and personal protective equipment.\n\n[According](https://www.consilium.europa.eu/en/policies/coronavirus/pandemic-treaty/) to the European Council, the following are the anticipated next steps of the planned treaty:\n> The intergovernmental negotiating body, tasked with drafting and negotiating this international instrument, will hold its next meeting by 1 August 2022, to discuss progress on a working draft. It will then deliver a progress report to the 76th World Health Assembly in 2023, with the aim to adopt the instrument by 2024.\n\nThe purpose of this question is to [understand](https://www.snopes.com/fact-check/biden-usa-sovereignty-who/) the potential of this treaty to be adopted.",
+    "createdTime": "2022-06-09T21:00:00Z",
+    "createdTimeStr": "2022-06-09",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735711200000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730872811122,
+        "2024-11-05",
+        171,
+        0.01848970200478248
+      ]
+    ]
+  },
+  {
+    "question": "Will lab-grown complex vital organs be used successfully in humans before 2025?\n",
+    "background_text": "*related question on Metaculus:*\n\n* [Will lab-grown complex vital organs be used successfully in humans before 2025?](https://www.metaculus.com/questions/1640/will-lab-grown-complex-vital-organs-be-used-successfully-in-humans-before-2025/)\n\nMore than 30,000 organ transplants are performed each year in the United States alone, according to 2015 data from the Organ Procurement and Transplantation Network. Around the world, the total was estimated to be 135,860 in 2016 according to the [Global Observatory on Donation and Transplantation.](http://www.transplant-observatory.org/)\n\nHowever, the demand for donor organs often significantly exceeds the supply, meaning that many patients have to wait for a significant period of time before receiving an acceptable donor organ. Many, tragically, die waiting.\n\nIn response to this problem, multiple efforts are underway around the world to create acceptable donor organs in laboratories. There have been reported successes for simpler tissue structures including [vaginas](https://www.bbc.co.uk/news/health-26885335), [urethras](https://www.bbc.co.uk/news/health-12666171), and [bladders](https://www.bbc.co.uk/news/business-45470799), but so far there have been no attempts in humans for hearts, livers, kidneys or lungs - though [lab-grown lungs have been implanted into pigs](https://www.sciencenews.org/article/scientists-transplant-lab-grown-bioengineered-lungs-pigs) and [functional human \u201cmini-kidneys\u201d](https://www.independent.co.uk/news/health/human-kidney-grown-mouse-stem-cells-urine-medical-first-scientists-functioning-tissue-cells-manchester-university-a8202856.html) capable of filtering blood to produce urine have been grown in mice.",
+    "createdTime": "2024-11-04T15:30:00Z",
+    "createdTimeStr": "2024-11-04",
+    "closeTimeStr": "2024-11-05",
+    "resolutionTime": 1730849400000,
+    "resolveTimeStr": "2024-11-05",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730815548043,
+        "2024-11-05",
+        32,
+        0.03750014180369118
+      ]
+    ]
+  },
+  {
+    "question": "Will Sam Altman leave  OpenAI (again) before 2025?",
+    "background_text": "Sam Altman is back as a CEO in Open AI, but there is a new board, investigation and many open questions about his behavior. \n\n1. Washington Post: [OpenAI leaders warned of abusive behavior before Sam Altman\u2019s ouster](https://www.washingtonpost.com/technology/2023/12/08/open-ai-sam-altman-complaints/)\n2. New York Times: [Inside OpenAI\u2019s Crisis Over the Future of Artificial Intelligence](https://www.nytimes.com/2023/12/09/technology/openai-altman-inside-crisis.html)",
+    "createdTime": "2024-02-03T21:31:00Z",
+    "createdTimeStr": "2024-02-03",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735675200000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1731007216248,
+        "2024-11-07",
+        42,
+        0.038725562996841434
+      ]
+    ]
+  },
+  {
+    "question": "Will a new highly-diamagnetic room-temperature material be found before 2025?",
+    "background_text": "One of the questions surrounding LK-99 replications is whether they merely demonstrate an unusual degree of diamagnetism. Even if not superconducting, this might represent an interesting advance in material science.\n\nThe current strongest known diamagnetic material is pyrolytic graphite, with a magnetic susceptibility of [-4.09e-4](https://en.wikipedia.org/wiki/Diamagnetism).\n\nA room temperature superconductor would be strongly diamagnetic indeed, with a susceptibility of -1.",
+    "createdTime": "2023-08-07T19:00:00Z",
+    "createdTimeStr": "2023-08-07",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735700400000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1732508631033,
+        "2024-11-24",
+        43,
+        0.062140033906227
+      ]
+    ]
+  },
+  {
+    "question": "Will a Democrat win the 2024 US presidential election?",
+    "background_text": "*What would a Trump administration look like? A Harris administration? What would be dramatically different, and what would be the same? Learn more in the [2024 Electoral Consequences series](https://www.metaculus.com/project/us-conditionals/).*\n\nEvery 4 years, the United States elects a president with its unique system of [the Electoral College](https://en.wikipedia.org/wiki/United_States_Electoral_College).  A candidate must secure 270 or more electoral college votes out of 538, or be [selected by Congress](https://www.youtube.com/watch?v=sHEDXzOfENI) if no candidate receives more than 269 votes.\n\nThe [2020 election](https://en.wikipedia.org/wiki/2020_United_States_presidential_election) ended with President Donald Trump losing his run for a second term.  He immediately and repeatedly made claims the election was rigged and fraudulent, which led to the [January 6 storming of the Capitol](https://en.wikipedia.org/wiki/2021_storming_of_the_United_States_Capitol).  Ultimately, the votes were confirmed by Congress and Joe Biden was inaugurated on January 20, 2021.\n\nBiden faces several challenges entering his presidency, including the [COVID-19 pandemic](https://ourworldindata.org/coronavirus) and [an unemployment rate](https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm) of 6.7%, with a [narrow majority](https://en.wikipedia.org/wiki/117th_United_States_Congress) in Congress to pass legislation.  Biden began his presidency with a [historically high disapproval rating](https://projects.fivethirtyeight.com/biden-approval-rating/) of 35%, indicating that we are in a period of high partisanship and [highly competitive elections](https://fivethirtyeight.com/features/why-a-biden-blowout-didnt-happen-and-why-a-2024-blowout-is-unlikely-too/).  On the other hand, politicians generally have an incumbency advantage, which could mean a likely victory for Biden.",
+    "createdTime": "2021-02-08T05:00:00Z",
+    "createdTimeStr": "2021-02-08",
+    "closeTimeStr": "2024-11-05",
+    "resolutionTime": 1730840400000,
+    "resolveTimeStr": "2024-11-05",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730450370347,
+        "2024-11-01",
+        1002,
+        0.4664698709810573
+      ]
+    ]
+  },
+  {
+    "question": "Will Nigeria have a coup before 2025?",
+    "background_text": "Nigeria experienced nine attempted or successful [coups](https://en.wikipedia.org/wiki/Military_coups_in_Nigeria) between 1966 and 1993. The country [exited](https://en.wikipedia.org/wiki/Fourth_Nigerian_Republic) military rule in 1999.\n\nRecent (starting 2021) military coups or coup attempts in Western Africa and the Sahel region have occurred in [Niger](https://en.wikipedia.org/wiki/2021_Nigerien_coup_d%27%C3%A9tat_attempt), [Mali](https://en.wikipedia.org/wiki/2021_Malian_coup_d%27%C3%A9tat), [Guinea](https://en.wikipedia.org/wiki/2021_Guinean_coup_d%27%C3%A9tat), [Sudan](https://en.wikipedia.org/wiki/October_2021_Sudanese_coup_d%27%C3%A9tat), and [Burkina Faso](https://en.wikipedia.org/wiki/2022_Burkinab%C3%A9_coup_d%27%C3%A9tat).\n\nNigeria has been suffering from several [severe issues](https://www.economist.com/leaders/2021/10/23/insurgency-secessionism-and-banditry-threaten-nigeria) in 2021, including jihadist insurgency in the north, kidnapping gangs, as well as resurgent Biafran separatism. In 2021, The Economist called Nigeria \"[ungovernable](https://www.economist.com/middle-east-and-africa/how-kidnappers-zealots-and-rebels-are-making-nigeria-ungovernable/21805737)\" and Foreign Policy called the nation a \"[failed state](https://foreignpolicy.com/2021/05/27/nigeria-is-a-failed-state/)\".",
+    "createdTime": "2022-01-31T05:00:00Z",
+    "createdTimeStr": "2022-01-31",
+    "closeTimeStr": "2024-12-30",
+    "resolutionTime": 1735592400000,
+    "resolveTimeStr": "2024-12-30",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730872004739,
+        "2024-11-05",
+        80,
+        0.04239766148283183
+      ]
+    ]
+  },
+  {
+    "question": "Will OpenAI publish information describing Q* (Q-Star) in 2024?",
+    "background_text": "After the OpenAI board [temporarily removed Sam Altman as CEO](https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt) in November 2023, rumors abounded regarding the reasons behind the decision. One such rumor was that the move was sparked by progress in a new AI system with potentially dangerous capabilities. Citing anonymous sources, [Reuters reported the following](https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/):\n\n>Ahead of OpenAI CEO Sam Altman\u2019s four days in exile, several staff researchers wrote a letter to the board of directors warning of a powerful artificial intelligence discovery that they said could threaten humanity, two people familiar with the matter told Reuters.\n>\n>. . .\n>\n>After being contacted by Reuters, OpenAI, which declined to comment, acknowledged in an internal message to staffers a project called Q\\* and a letter to the board before the weekend's events, one of the people said. An OpenAI spokesperson said that the message, sent by long-time executive Mira Murati, alerted staff to certain media stories without commenting on their accuracy.",
+    "createdTime": "2024-01-01T07:00:00Z",
+    "createdTimeStr": "2024-01-01",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735714800000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730480260091,
+        "2024-11-01",
+        609,
+        0.16345131572060154
+      ]
+    ]
+  },
+  {
+    "question": "Will the US claim that Russia has exceeded New START treaty limits on nuclear weapons before 2025?",
+    "background_text": "",
+    "createdTime": "2023-02-27T17:09:00Z",
+    "createdTimeStr": "2023-02-27",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735700400000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1731169122550,
+        "2024-11-09",
+        33,
+        0.38211704832601107
+      ]
+    ]
+  },
+  {
+    "question": "Will Joe Biden no longer be US President before January 20, 2025?",
+    "background_text": "*Related Questions on Metaculus:*\n\n* [Will Biden be impeached by the US House of Representatives?](https://www.metaculus.com/questions/3419/biden-impeachment-vote-by-house-of-reps/)\n* [Will Kamala Harris be president before inauguration day 2025?](https://www.metaculus.com/questions/5201/will-kamala-harris-be-president-before-2025/)\n\n----\n\nRepublican Congresspeople [Ted Cruz](https://www.texastribune.org/2022/01/04/ted-cruz-joe-biden-impeachment/) and [Jim Jordan](https://www.washingtontimes.com/news/2022/mar/25/jim-jordan-prods-gop-colleagues-consider-impeachin/) have both publicly discussed the possibility of impeaching President Joe Biden if Republicans win control of the House of Representatives following the [2022 midterm elections](https://en.wikipedia.org/wiki/2022_United_States_House_of_Representatives_elections).  Ted Cruz stated on his podcast in [January 2022](https://www.texastribune.org/2022/01/04/ted-cruz-joe-biden-impeachment/):\n\n>Democrats weaponized impeachment [...] they used it for partisan purposes to go after Trump because they disagreed with him. And one of the real disadvantages of doing that \u2026 is the more you weaponize it and turn it into a partisan cudgel, you know, what\u2019s good for the goose is good for the gander.\n\nThroughout his term, Biden has maintained that his plan is to run for re-election, as confirmed by Press Secretary Karine Jean-Pierre in [June 2022](https://twitter.com/PressSec/status/1536477522988343296).",
+    "createdTime": "2022-08-14T04:00:00Z",
+    "createdTimeStr": "2022-08-14",
+    "closeTimeStr": "2025-01-19",
+    "resolutionTime": 1737331200000,
+    "resolveTimeStr": "2025-01-19",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730885207869,
+        "2024-11-06",
+        223,
+        0.10401240498969114
+      ]
+    ]
+  },
+  {
+    "question": "Will WeWork continuously operate through January 1, 2025, without announcing Adam Neumann's return as CEO?",
+    "background_text": "Adam Neumann co-founded WeWork in 2010 and served as its CEO until 2019. \n",
+    "createdTime": "2024-11-20T15:30:00Z",
+    "createdTimeStr": "2024-11-20",
+    "closeTimeStr": "2024-11-21",
+    "resolutionTime": 1732231800000,
+    "resolveTimeStr": "2024-11-21",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1732187595934,
+        "2024-11-21",
+        32,
+        0.8234570619494336
+      ]
+    ]
+  },
+  {
+    "question": "Will Oregon voters approve Measure 118, which would initiate a universal basic income in the state, funded by corporate tax?",
+    "background_text": "Ballotpedia: [Oregon Measure 118, Corporate Tax Revenue Rebate for Residents Initiative (2024)](https://ballotpedia.org/Oregon_Measure_118,_Corporate_Tax_Revenue_Rebate_for_Residents_Initiative_(2024))",
+    "createdTime": "2024-11-04T15:30:00Z",
+    "createdTimeStr": "2024-11-04",
+    "closeTimeStr": "2024-11-05",
+    "resolutionTime": 1730849400000,
+    "resolveTimeStr": "2024-11-05",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730806013681,
+        "2024-11-05",
+        32,
+        0.2380902074349644
+      ]
+    ]
+  },
+  {
+    "question": "Will the US CDC sponsor or support a nationwide metagenomic sequencing program before 2025?",
+    "background_text": "Metagenomic sequencing is an approach that characterizes all of the genetic material (DNA and RNA) that is present in a sample. Recent developments in metagenomics, namely the advent of next-generation sequencing (NGS) technologies, have [enabled](https://www.nature.com/articles/s41576-019-0113-7) billions of base pair reads in a single run \u2014 allowing for a relatively fast and inexpensive analysis of all the genetic content of a sample. Metagenomic next-generation sequencing (mNGS) is different from most other approaches in that it can be untargeted as opposed to involving the targeting of specific pathogens.\n\nAs additional context, the following is a relevant description about mNGS [by](https://asm.org/Articles/2019/November/Metagenomic-Next-Generation-Sequencing-How-Does-It) the American Society for Microbiology:\n> Metagenomic NGS (mNGS) is simply running all nucleic acids in a sample, which may contain mixed populations of microorganisms, and assigning these to their reference genomes to understand which microbes are present and in what proportions. The ability to sequence and identify nucleic acids from multiple different taxa for metagenomic analysis makes this a powerful new platform that can simultaneously identify genetic material from entirely different kingdoms of organisms.\n\nThe purpose of this question is to understand whether untargeted metagenomic next-generation sequencing will be utilized on a large scale in the US for pathogen identification.",
+    "createdTime": "2022-06-09T21:00:00Z",
+    "createdTimeStr": "2022-06-09",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735711200000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1731234922980,
+        "2024-11-10",
+        131,
+        0.011364450561109218
+      ]
+    ]
+  },
+  {
+    "question": "Will the federal minimum wage increase in the United States before 2025?",
+    "background_text": "",
+    "createdTime": "2020-02-11T08:00:00Z",
+    "createdTimeStr": "2020-02-11",
+    "closeTimeStr": "2025-01-01",
+    "resolutionTime": 1735747140000,
+    "resolveTimeStr": "2025-01-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1731477586909,
+        "2024-11-12",
+        223,
+        0.09092315206902973
+      ]
+    ]
+  },
+  {
+    "question": "Will any more of Trump's announced Cabinet picks drop out before January 1, 2025?",
+    "background_text": "Following his recent electoral victory, President-elect Donald Trump has announced all 15 of the federal department heads and 5 more \"Cabinet-level\" officials. Matt Gaetz, who was initially nominated for Attorney General, [withdrew his nomination](https://www.bbc.co.uk/news/articles/c99r2m4y2zro) on November 21, 2024, amid allegations of sexual misconduct. Other nominees, such as [Pete Hegseth and Tulsi Gabbard](https://www.npr.org/2024/11/25/nx-s1-5204486/president-elect-trump-reveals-more-people-he-wants-serving-in-his-cabinet) have also faced scrutiny due to various allegations.",
+    "createdTime": "2024-11-29T19:16:02.876588Z",
+    "createdTimeStr": "2024-11-29",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735675200000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1733235307878,
+        "2024-12-03",
+        32,
+        0.4674663711171128
+      ]
+    ]
+  },
+  {
+    "question": "Will SpaceX's Starship reach orbit in 2024?",
+    "background_text": "[Starship](https://en.wikipedia.org/wiki/SpaceX_Starship) is a two stage launch vehicle being developed by SpaceX consisting of a [Super Heavy booster](https://en.wikipedia.org/wiki/SpaceX_Super_Heavy) as the first stage and the [Starship spacecraft](https://en.wikipedia.org/wiki/SpaceX_Starship_(spacecraft)) as the second stage. [SpaceX describes Starship](https://www.spacex.com/vehicles/starship/) as \"the world\u2019s most powerful launch vehicle ever developed, capable of carrying up to 150 metric tonnes fully reusable and 250 metric tonnes expendable.\"\n\nSo far Starship has undergone [two \"integrated flight tests\"](https://en.wikipedia.org/wiki/SpaceX_Starship#First_integrated_flight_test_(2021%E2%80%932023)) meaning Starship was test launched in its two stage configuration. The first test reached an altitude of 39 kilometers before exploding prior to stage separation, and also causing significant pad damage during liftoff that slowed progress toward the second test launch. The second launch achieved stage separation and reached an altitude of roughly 150 kilometers, though both the booster and second stage were destroyed in flight due to anomalies.\n\nNote that both the [first](https://spacenews.com/starship-lifts-off-on-first-integrated-test-flight-breaks-apart-minutes-later/#:~:text=This%20test%20flight%20was%20not%20designed%20to%20reach%20orbit%20but%20instead%20send%20Starship%20on%20a%20long%20suborbital%20trajectory%2C%20splashing%20down%20near%20Hawaii%2090%20minutes%20after%20liftoff.) and [second](https://spacelaunchnow.me/launch/starship-integrated-flight-test-2/#:~:text=The%20second%20stage%20will%20follow%20a%20suborbital%20trajectory%20and%20perform%20an%20unpowered%20splashdown%20approximately%20100%20km%20off%20the%20northwest%20coast%20of%20Kauai%20(Hawaii).) integrated flight tests were suborbital trajectories.",
+    "createdTime": "2024-01-01T07:00:00Z",
+    "createdTimeStr": "2024-01-01",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735714800000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730472442200,
+        "2024-11-01",
+        711,
+        0.14342614156094238
+      ]
+    ]
+  },
+  {
+    "question": "Will Turkey be a NATO member continuously until January 1, 2025?",
+    "background_text": "The [North Atlantic Treaty Organization](https://en.wikipedia.org/wiki/NATO) is an intergovernmental military alliance between 29 North American and European countries. The organization implements the [North Atlantic Treaty](https://en.wikipedia.org/wiki/North_Atlantic_Treaty) that was signed on 4 April 1949. NATO constitutes a system of collective defence whereby its independent member states agree to mutual defence in response to an attack by any external party. \n\n[In 1952, Turkey joined NATO.](https://www.cvce.eu/en/obj/greece_and_turkey_join_nato_london_22_october_1951-en-c193a825-2f1c-4e12-b26d-d35fabc6559f.html)\n\nIn recent years, Turkey's leader [Recep Tayyip Erdo\u011fan](https://en.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan) has been widely [criticised as an authoritarian.](https://en.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan#Authoritarianism) Further, Turkey's [military incursions into Syria](https://en.wikipedia.org/wiki/2019_Turkish_offensive_into_north-eastern_Syria) have caused some to [ask if Turkey will continue to be a NATO member, or if it could be suspended or expelled.](https://www.justsecurity.org/66574/can-turkey-be-expelled-from-nato/)\n\nHowever, no existing provision in the North Atlantic Treaty provides for the suspension or expulsion of a NATO member.",
+    "createdTime": "2019-10-19T23:00:00Z",
+    "createdTimeStr": "2019-10-19",
+    "closeTimeStr": "2025-01-01",
+    "resolutionTime": 1735718400000,
+    "resolveTimeStr": "2025-01-01",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1733771589983,
+        "2024-12-09",
+        205,
+        0.9642774701527396
+      ]
+    ]
+  },
+  {
+    "question": "Will Donald Trump outperform Marsha Blackburn in Tennessee in the 2024 election?",
+    "background_text": "[Senate Republican candidates are trailing Donald Trump](https://www.washingtonpost.com/politics/2024/09/15/senate-election-trump-republicans/)",
+    "createdTime": "2024-10-31T14:30:00Z",
+    "createdTimeStr": "2024-10-31",
+    "closeTimeStr": "2024-11-01",
+    "resolutionTime": 1730496600000,
+    "resolveTimeStr": "2024-11-01",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1730450755520,
+        "2024-11-01",
+        32,
+        0.6852056336120713
+      ]
+    ]
+  },
+  {
+    "question": "Will the US national average retail price of regular gasoline be greater than $3.080 for the week of December 9, 2024?",
+    "background_text": "According to [EIA](https://www.eia.gov/petroleum/gasdiesel/gas_proc-methods.php), \"Every Monday, EIA collects information on retail prices for regular, midgrade, and premium grades of gasoline from a sample of retail gasoline outlets across the United States using Form EIA-878, Motor Gasoline Price Survey Schedule A. The weekly survey is designed to collect data on the cash price offered at the pump (including taxes) to consumers for each grade of gasoline. The data collected represent the price as of 8:00 a.m. local time on Monday, for the self-serve price except in areas having only full-serve, and the cash price except for outlets accepting only credit cards.\"",
+    "createdTime": "2024-12-04T15:30:00Z",
+    "createdTimeStr": "2024-12-04",
+    "closeTimeStr": "2024-12-05",
+    "resolutionTime": 1733441400000,
+    "resolveTimeStr": "2024-12-05",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1733408638962,
+        "2024-12-05",
+        32,
+        0.41661374903711557
+      ]
+    ]
+  },
+  {
+    "question": "Will someone hold their breath for more than 30 minutes before 2025?",
+    "background_text": "The Guinness World Records reports that freediver Aleix Segura Vendrell currently (as of March 2018) holds the [world record for breath holding](http://www.guinnessworldrecords.com/world-records/longest-time-breath-held-voluntarily-(male)), clocking in at a mind-numbing 24 minutes, 3:45 seconds on February 28, 2016.\n\nThat busted other previous records, such as magician David Blaine\u2019s impressive 17 minute breath hold. Amazing details on Blaine\u2019s feat are available in this [TED Talk](https://www.ted.com/talks/david_blaine_how_i_held_my_breath_for_17_min) \n\nAll very nice. But bioengineering will allow us to push the record up\u2014possibily, way up. Some techniques, like \u201clung packing,\u201d are already being put to use by daredevils. [Per Deadspin](https://deadspin.com/how-long-can-humans-hold-their-breath-1467541916): \n\n> This [lung packing] consists of inhaling the very largest breath possible, and then, without exhaling, puffing your cheeks full of more air and attempting to force that air down into your lungs. You are literally stretching out your lungs so that they can hold more air.\n\nMore exotic ideas, like the so-called [\u201cAquaman Crystal\u201d](http://www.independent.co.uk/news/science/scientists-create-crystal-which-could-allow-us-to-breathe-underwater-9772871.html) are promising.\n\nSome extreme atheletes and freedivers are no doubt experimenting and [pushing the limits](http://www.slate.com/articles/health_and_science/explainer/2013/11/nicholas_mevoli_freediving_death_what_happens_to_people_who_practice_holding.html).\n\nAnd there are documented cases on the record of people surviving without oxygen for long periods of time. As the [BBC reports](http://www.bbc.com/future/story/20140714-how-long-can-you-go-without-air):\n\n> When US toddler Michelle Funk fell into an icy stream in 1986, she survived an estimated 66 minutes underwater, preserved by deep hypothermia that reduced her metabolic rate to almost nothing.\n\nFunk\u2019s case was a freak accident. But by 2025 will a person voluntarily hold his or her breath for more than 30 minutes? (The attempt must comply with Guinness Record standards.)",
+    "createdTime": "2018-03-19T07:00:00Z",
+    "createdTimeStr": "2018-03-19",
+    "closeTimeStr": "2025-01-01",
+    "resolutionTime": 1735747200000,
+    "resolveTimeStr": "2025-01-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730595370978,
+        "2024-11-02",
+        204,
+        0.05818734925452984
+      ]
+    ]
+  },
+  {
+    "question": "Will the winner of the 2024 United States presidential election win the popular vote?",
+    "background_text": "The [2024 United States presidential election](https://en.wikipedia.org/wiki/2024_United_States_presidential_election) is scheduled for November 5th when voters will vote for the President of the United States. \n\nThe election is an indirect election where voters cast votes for members of the [electoral college](https://en.wikipedia.org/wiki/United_States_Electoral_College).\n\n\nIn December the electors will cast their votes for the President. In January, Congress counts and certifies these votes to determine who will be elected president. If no candidate receives a majority of electoral votes the president will be decided by the [United States House of Representatives](https://en.wikipedia.org/wiki/United_States_House_of_Representatives) in a [contingent election](https://en.wikipedia.org/wiki/Contingent_election).\n\nSince the inception of the United States, [five elections](https://en.wikipedia.org/wiki/List_of_United_States_presidential_elections_in_which_the_winner_lost_the_popular_vote) have resulted in the winner losing the popular vote.",
+    "createdTime": "2024-03-11T14:20:00Z",
+    "createdTimeStr": "2024-03-11",
+    "closeTimeStr": "2024-11-04",
+    "resolutionTime": 1730710800000,
+    "resolveTimeStr": "2024-11-04",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1730454538374,
+        "2024-11-01",
+        91,
+        0.7365654723771337
+      ]
+    ]
+  },
+  {
+    "question": "Will the 2024 light duty electric vehicle sales share exceed 11% in the US through November 2024?",
+    "background_text": "Electric vehicles have seen significant sales growth in recent years, with plug-in vehicles (PEVs) making up less than 3% of light duty vehicle (LDV) sales in 2020, a figure that [has grown to above 9%](https://www.anl.gov/esia/light-duty-electric-drive-vehicles-monthly-sales-updates) through November 2023.\n\nPEVs consist of both battery electric vehicles (BEVs) and plug-in hybrid electric vehicles (PHEVs).",
+    "createdTime": "2024-01-01T07:00:00Z",
+    "createdTimeStr": "2024-01-01",
+    "closeTimeStr": "2024-11-30",
+    "resolutionTime": 1733036400000,
+    "resolveTimeStr": "2024-11-30",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730494683896,
+        "2024-11-01",
+        491,
+        0.032559908390302386
+      ]
+    ]
+  },
+  {
+    "question": "Before December 31, 2024, will Tech Crunch report new layoffs at Google or Alphabet?",
+    "background_text": "Google is most recently listed in July 2024, with the blurb saying, \"Is reportedly making large cuts globally across several of its Cloud teams, including teams focused on sustainability, consulting and partner engineering.\" Google has also been mentioned in May, April, and January.",
+    "createdTime": "2024-11-20T15:30:00Z",
+    "createdTimeStr": "2024-11-20",
+    "closeTimeStr": "2024-11-21",
+    "resolutionTime": 1732231800000,
+    "resolveTimeStr": "2024-11-21",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1732187599176,
+        "2024-11-21",
+        32,
+        0.48783730507288997
+      ]
+    ]
+  },
+  {
+    "question": "Will China's youth unemployment rate be greater than 19.0 for October 2024?",
+    "background_text": "China's youth unemployment rate, which measures the percentage of people aged 16 to 24 who are not in school and are unemployed, has been a growing concern for the country's policymakers and economists. In July 2024, the rate [soared to 17.1%](https://www.cnbc.com/2024/08/20/chinas-youth-unemployment-soars-above-17percent-in-july.html), the highest level since the new system of record-keeping began in December 2023.\r\n\r\nThe new calculation method, introduced in late 2023, excludes those who are still in school, as more people in China are pursuing higher education amid a more competitive job market. Under the previous calculation method, the youth unemployment rate had reached a record high of 21.3% in June 2023.\r\n\r\nThe rising youth unemployment rate has been attributed to various factors, including the ongoing economic challenges, the impact of the COVID-19 pandemic, and structural changes in the labor market. As the issue continues to draw attention, this question aims to predict the youth unemployment rate for August 2024, providing insight into the short-term trajectory of this critical economic indicator.",
+    "createdTime": "2024-11-07T15:30:00Z",
+    "createdTimeStr": "2024-11-07",
+    "closeTimeStr": "2024-11-08",
+    "resolutionTime": 1731108600000,
+    "resolveTimeStr": "2024-11-08",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1731076758969,
+        "2024-11-08",
+        32,
+        0.4348210552700389
+      ]
+    ]
+  },
+  {
+    "question": "Will 1 Euro be worth less than 1 US Dollar before 2025?\n",
+    "background_text": "After reaching its maximum of `1.5852` in July 2008 the EUR/USD exchange rate has significantly declined over the years. In September-October 2022 there was a brief period when the price of 1 EUR was less than 1 USD. Since then, the Euro price recovered slightly and reached an exchange rate of `1.1038` US dollar on 01.01.2024.",
+    "createdTime": "2024-11-14T15:30:00Z",
+    "createdTimeStr": "2024-11-14",
+    "closeTimeStr": "2024-11-15",
+    "resolutionTime": 1731713400000,
+    "resolveTimeStr": "2024-11-15",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1731675729840,
+        "2024-11-15",
+        32,
+        0.2988655461769669
+      ]
+    ]
+  },
+  {
+    "question": "Will Ilya Sutskever still lead OpenAI\u2019s Superalignment team at the end of 2024?",
+    "background_text": "OpenAI established the [Superalignment team](https://openai.com/blog/introducing-superalignment) to focus on developing ways to steer, regulate, and govern superintelligent AI systems.\n\nIlya Sutskever, a co-founder and chief scientist at OpenAI, leads this team alongside Jan Leike. The Superalignment team, formed in mid-2023, is a strategic response to the rapid advancements in AI. \n\nOpenAI, recently faced a significant leadership shakeup. Sutskever, serving as the chief scientist and a board member, played a pivotal role in the temporary ousting of CEO Sam Altman. This event raised questions about Sutskever's future role at the company. Although he was instrumental in forming the superalignment team and his contributions remain significant, his current status within OpenAI has been somewhat ambiguous following these events. [Source 1](https://www.technologyreview.com/2023/12/14/1085344/openai-super-alignment-rogue-agi-gpt-4), [Source 2](https://finance.yahoo.com/news/ilya-sutskever-man-center-openai-211351628.html).\n\n[Reports indicate that Sutskever has been less visible within OpenAI.](https://gizmodo.com.au/2023/12/ilya-sutskevers-team-at-openai-built-tools-to-control-a-superhuman-ai/)\u200b. There have been speculations about him potentially leaving the organization, especially considering the recent leadership turmoil and his hiring of a lawyer. However, his exact status and future role at OpenAI remain unconfirmed as of now\u200b.",
+    "createdTime": "2024-01-01T07:00:00Z",
+    "createdTimeStr": "2024-01-01",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735696800000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730748734125,
+        "2024-11-04",
+        448,
+        0.008934231681703108
+      ]
+    ]
+  },
+  {
+    "question": "Will the number of FBI firearms background checks initiated through the NICS exceed 3.0M for November 2024?",
+    "background_text": "In the long term (since the turn of the 21st Century), firearms sales in the US have risen, surging in 2020, with numbers trending downward since. Starting in July 2024, year-over-year monthly numbers have again begun trending upward.",
+    "createdTime": "2024-11-19T15:30:00Z",
+    "createdTimeStr": "2024-11-19",
+    "closeTimeStr": "2024-11-20",
+    "resolutionTime": 1732145400000,
+    "resolveTimeStr": "2024-11-20",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1732114069441,
+        "2024-11-20",
+        32,
+        0.45281756938483336
+      ]
+    ]
+  },
+  {
+    "question": "Will Dogecoin close at below $0.50 a share every day before January 1, 2025?",
+    "background_text": "Dogecoin's intraday price reached $0.43457 on November 12, 2024. See also The Economic Times: [Dogecoin outperforms Bitcoin and Ether, rises 145% since Trump's US election victory](https://economictimes.indiatimes.com/markets/cryptocurrency/dogecoin-outperforms-bitcoin-and-ether-rises-145-since-trumps-us-election-victory/articleshow/115209313.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst)",
+    "createdTime": "2024-12-04T15:30:00Z",
+    "createdTimeStr": "2024-12-04",
+    "closeTimeStr": "2024-12-05",
+    "resolutionTime": 1733441400000,
+    "resolveTimeStr": "2024-12-05",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1733408565674,
+        "2024-12-05",
+        32,
+        0.6741666179806115
+      ]
+    ]
+  },
+  {
+    "question": "Will GB News be broadcasting in 2025?",
+    "background_text": "GB News is a new UK television channel which is being established by a politically conservative group of broadcasters. It will be a free-to-receive digital TV channel and the enterprise is backed by - among others - John Malone, owner of the Liberty Global empire.  \n\nAndrew Neil, its chair, will [host a prime-time show](https://variety.com/2021/tv/global/gb-news-uk-right-wing-fox-news-andrew-neil-1234890375/). Other hires include Nick Ferrari, who is best known as a presenter on LBC, a spoken-word station. They have also hired Julia Hartley-Brewer and Dan Wootton - both from talkRADIO, another speech station. \n\nDespite being trailed as a [British Fox News](https://www.standard.co.uk/insider/gb-news-news-channel-andrew-neil-b900143.html), it will need to stick to the UK's strict impartiality rules and will be regulated by Ofcom, the telecoms regulator. \n\nThe market has not proved lucrative, especially compared to [the situation in the US](https://www.adweek.com/tvnewser/tuesday-jan-26-scoreboard-fox-news-climbs-to-no-1-in-prime-time/469277/). \n\nSky News, perhaps the best model for GB News to emulate, has been broadcasting since 1989 and it managed to \"reach\" 24 per cent of British people over [a four-week spell](https://www.barb.co.uk/viewing-data/weekly-viewing-summary-new/). But even they only manage to pick up 1 per cent of the average daily minutes of viewing.",
+    "createdTime": "2021-05-20T22:00:00Z",
+    "createdTimeStr": "2021-05-20",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735718340000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1730585699609,
+        "2024-11-02",
+        69,
+        0.771211009403457
+      ]
+    ]
+  },
+  {
+    "question": "Will Donald Trump sweep all 7 battleground states in the 2024 election?",
+    "background_text": "Newsweek: [Electoral College Map Projector Flips All Battleground States to Donald Trump](https://www.newsweek.com/donald-trump-kamala-harris-polls-swing-states-1971095)",
+    "createdTime": "2024-10-31T14:30:00Z",
+    "createdTimeStr": "2024-10-31",
+    "closeTimeStr": "2024-11-01",
+    "resolutionTime": 1730496600000,
+    "resolveTimeStr": "2024-11-01",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1730450972282,
+        "2024-11-01",
+        32,
+        0.1354997371053531
+      ]
+    ]
+  },
+  {
+    "question": "In 2024 or 2025, will a dispute which determines the outcome of the 2024 US Presidential Election be decided by the US Supreme Court?",
+    "background_text": "In 2000, the 5-4 decision by the US Supreme Court in [Bush v Gore](https://en.wikipedia.org/wiki/Bush_v._Gore) was widely considered to have decided the outcome of the US election. In 2020, there were numerous attempts (e.g. [here](https://abcnews.go.com/Politics/supreme-court-denies-texas-challenge-overturn-2020-election/story?id=74680935) and [here](https://eu.usatoday.com/story/news/politics/2021/02/22/supreme-court-declines-take-2020-election-case-pennsylvania/6578884002/)) to bring cases regarding the election before the Supreme Court, but all were denied.\n\nThis question asks if the Supreme Court will hear and decide a case in 2024 or 2025 which has the potential to overturn the election results.",
+    "createdTime": "2021-09-02T04:00:00Z",
+    "createdTimeStr": "2021-09-02",
+    "closeTimeStr": "2025-02-01",
+    "resolutionTime": 1738396800000,
+    "resolveTimeStr": "2025-02-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730921612126,
+        "2024-11-06",
+        70,
+        0.056094565300034406
+      ]
+    ]
+  },
+  {
+    "question": "Will China's youth unemployment rate be greater than 18.0 and less than or equal to 19.0 for October 2024?",
+    "background_text": "China's youth unemployment rate, which measures the percentage of people aged 16 to 24 who are not in school and are unemployed, has been a growing concern for the country's policymakers and economists. In July 2024, the rate [soared to 17.1%](https://www.cnbc.com/2024/08/20/chinas-youth-unemployment-soars-above-17percent-in-july.html), the highest level since the new system of record-keeping began in December 2023.\r\n\r\nThe new calculation method, introduced in late 2023, excludes those who are still in school, as more people in China are pursuing higher education amid a more competitive job market. Under the previous calculation method, the youth unemployment rate had reached a record high of 21.3% in June 2023.\r\n\r\nThe rising youth unemployment rate has been attributed to various factors, including the ongoing economic challenges, the impact of the COVID-19 pandemic, and structural changes in the labor market. As the issue continues to draw attention, this question aims to predict the youth unemployment rate for August 2024, providing insight into the short-term trajectory of this critical economic indicator.",
+    "createdTime": "2024-11-07T15:30:00Z",
+    "createdTimeStr": "2024-11-07",
+    "closeTimeStr": "2024-11-08",
+    "resolutionTime": 1731108600000,
+    "resolveTimeStr": "2024-11-08",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1731073395556,
+        "2024-11-08",
+        32,
+        0.3295887327213806
+      ]
+    ]
+  },
+  {
+    "question": "Will South Dakota voters approve Initiated Measure 29, which would legalize recreational marijuana in the state?",
+    "background_text": "Ballotpedia: [South Dakota Initiated Measure 29, Marijuana Legalization Initiative (2024)](https://ballotpedia.org/South_Dakota_Initiated_Measure_29,_Marijuana_Legalization_Initiative_(2024))",
+    "createdTime": "2024-10-31T14:30:00Z",
+    "createdTimeStr": "2024-10-31",
+    "closeTimeStr": "2024-11-01",
+    "resolutionTime": 1730496600000,
+    "resolveTimeStr": "2024-11-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730444541056,
+        "2024-11-01",
+        32,
+        0.3771842575145409
+      ]
+    ]
+  },
+  {
+    "question": "Will there be a US government shutdown before January 1, 2025?",
+    "background_text": "In its article [Q&A: Everything You Should Know About Government Shutdowns](https://www.crfb.org/papers/qa-everything-you-should-know-about-government-shutdowns) the Committee for a Responsible Federal Budget describes government shutdowns as follows:\n\n>Many federal government agencies and programs rely on annual funding appropriations passed by Congress. Every year, Congress must pass, and the President must sign budget legislation for the next fiscal year, consisting of 12 appropriations bills, one for each Appropriations subcommittee. Congress has not yet enacted any of the 12 bills for FY 2023 that make up the discretionary spending budget and has instead been funding the government through a CR that was enacted at the end of September. In a \u201cshutdown,\u201d federal agencies must discontinue all non-essential discretionary functions until new funding legislation is passed and signed into law. Essential services continue to function, as do mandatory spending programs.\n\n>. . .\n\n>Since Congress introduced the modern budget process in 1976, there have been 20 \u201cfunding gaps,\u201d including the 2018-2019 shutdown and the one in January 2018, when funds were not appropriated for at least one day. (The hours-long lapse in appropriations in February 2018, though sometimes characterized as a shutdown, did not result in federal employee furloughs.) However, before 1980, the government did not shut down but rather continued normal operations through six funding gaps. Since 1981, 10 funding gaps of three days or fewer have occurred, mostly over a weekend when government operations were only minimally affected. \n>\n>There have now been four \u201ctrue\u201d shutdowns where operations were affected for more than one business day. The first two happened in the winter of 1995-1996 when President Bill Clinton and the Republican Congress were unable to agree on spending levels and the government shut down twice, for a total of 26 days. The third was in 2013 when a House and Senate standoff over funding for the Affordable Care Act (ACA) resulted in a 16-day shutdown. The fourth shutdown in December 2018 and January 2019, technically only a partial shutdown because five of the 12 appropriations had previously been enacted, centered on a dispute over border wall funding and was the longest-lasting shutdown at 35 days.\n\nThe History, Art & Archives of the US House of Representatives [provides a list](https://history.house.gov/Institution/Shutdown/Government-Shutdowns/) of funding gaps and whether or not they included shutdowns. The US Office of Personnel Management (OPM) maintains [information about shutdown furloughs](https://www.opm.gov/policy-data-oversight/pay-leave/furlough-guidance/#Shutdown-Furlough) as well as [shutdown contingency plans for agencies](https://www.whitehouse.gov/omb/information-for-agencies/agency-contingency-plans/).",
+    "createdTime": "2024-01-01T07:00:00Z",
+    "createdTimeStr": "2024-01-01",
+    "closeTimeStr": "2025-01-01",
+    "resolutionTime": 1735736400000,
+    "resolveTimeStr": "2025-01-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730898286410,
+        "2024-11-06",
+        591,
+        0.061267065790318515
+      ]
+    ]
+  },
+  {
+    "question": "Will space debris kill a human on Earth by 2025?",
+    "background_text": "",
+    "createdTime": "2022-08-07T05:00:00Z",
+    "createdTimeStr": "2022-08-07",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735705200000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730872792703,
+        "2024-11-05",
+        102,
+        0.016379286381905948
+      ]
+    ]
+  },
+  {
+    "question": "Will TikTok become available in the US on both the App Store and Google Play before April 5, 2025?",
+    "background_text": "The United States Congress [passed a law](https://www.cbsnews.com/news/why-is-tiktok-being-banned-supreme-court-congress/) that bans TikTok from the US starting January 20, 2025, but President Trump [issued an executive order](https://apnews.com/article/tiktok-ban-executive-order-trump-0bbae2d2d6f102944f41bb75ad40ce69) delaying the implementation of the ban for 75 days. has claimed that he will overturn the ban. The question is whether or not he will be successful in doing so over the first few months of his presidency.\n\nSee also from Forbes: [When Will TikTok Be Back In App Stores? What Could Happen Without Updates](https://www.forbes.com/sites/monicamercuri/2025/01/22/when-will-tiktok-be-back-in-app-stores-what-could-happen-without-updates/)",
+    "createdTime": "2025-01-24T18:35:58.817644Z",
+    "createdTimeStr": "2025-01-24",
+    "closeTimeStr": "2025-02-14",
+    "resolutionTime": 1739520060000,
+    "resolveTimeStr": "2025-02-14",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1738309559097,
+        "2025-01-30",
+        32,
+        0.4837001528560925
+      ]
+    ]
+  },
+  {
+    "question": "Will an LLM pass an ARA evaluation before 2025?",
+    "background_text": "The [Alignment Research Center](https://www.alignment.org) (ARC) runs a project called [ARC Evals](https://evals.alignment.org) that evaluates AI systems to see if they pose a catastrophic risk to the human species. [Update: [ARC Evals has spun out from ARC](https://metr.org/blog/2023-12-04-metr-announcement/), and has renamed to METR.] As can be seen from [this report](https://evals.alignment.org/blog/2023-08-01-new-report/), ARC has introduced \"methodology for assessing the capacity of LLM agents to acquire resources, create copies of themselves, and adapt to novel challenges they encounter in the wild.\" Also, as noted in the report, OpenAI's GPT-4 and Anthropic's Claude are not currently capable of passing the ARA evaluation.\n\nThis questions aims to determine the likelihood of an AI model passing the autonomous replication and adaptation\u2014ARA\u2014evaluation before 2025, because this would present a worrying development for the capability of an AI model to inflict major harm on human civilization.",
+    "createdTime": "2023-10-04T18:29:00Z",
+    "createdTimeStr": "2023-10-04",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735704000000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1731799354708,
+        "2024-11-16",
+        36,
+        0.0700885346141867
+      ]
+    ]
+  },
+  {
+    "question": "Will a room-temperature and ambient-pressure superconductor be used in a commercial application before 2025?",
+    "background_text": "A paper submitted to arXiv on July 22, 2023, [describes a new material known as LK-99](https://arxiv.org/abs/2307.12008) which the authors claim exhibits [superconducting properties](https://en.wikipedia.org/wiki/Superconductivity) at room temperature and ambient pressure. The [veracity of the results are uncertain](https://www.metaculus.com/questions/18090/room-temp-superconductor-pre-print-replicated/), but if a room temperature and ambient pressure superconductor were to be developed it [could revolutionize the electronics industry](https://theconversation.com/room-temperature-superconductors-could-revolutionize-electronics-an-electrical-engineer-explains-the-materials-potential-201849).\n\nPrevious efforts in [high-temperature superconductivity](https://en.wikipedia.org/wiki/High-temperature_superconductivity#History) have demonstrated superconductivity below 250 Kelvin (-23.15 degrees C; -9.67 degrees F) at 170 [gigapascals](https://en.wikipedia.org/wiki/Pascal_(unit)) (GPa) and [below 138 Kelvin](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9417328/) (-135.15 degrees C; -211.27 degrees F) at atmospheric pressure. Recent [research](https://www.nature.com/articles/s41586-023-05742-0) has claimed to achieve superconductivity at 294 Kelvin (-20.85 degrees C; 69.53 degrees F) at 1 GPa, however the veracity of this claim [has been called into question](https://www.quantamagazine.org/room-temperature-superconductor-discovery-meets-with-resistance-20230308/).\n\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/bb/Timeline_of_Superconductivity_from_1900_to_2015.svg\" alt=\"Timeline of Superconductivity\" />\n*<a href=\"https://commons.wikimedia.org/wiki/File:Timeline_of_Superconductivity_from_1900_to_2015.svg\">PJRay</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons (note that this figure may contain outdated information or research that has not been replicated, see the [file description](https://commons.wikimedia.org/wiki/File:Timeline_of_Superconductivity_from_1900_to_2015.svg) for key)*",
+    "createdTime": "2023-08-01T12:40:00Z",
+    "createdTimeStr": "2023-08-01",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735714800000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1731081456676,
+        "2024-11-08",
+        158,
+        0.01004367093087951
+      ]
+    ]
+  },
+  {
+    "question": "Will a major attack on voting systems in a G20 country be widely attributed to an AI before 2025?",
+    "background_text": "Attacks on voting machines are becoming more common. In Dec 2022, the Brennan Center for Justice wrote that \"In 2016, Russian hackers targeted election systems in all 50 states. No votes were actually changed, but the hackers penetrated at least Illinois\u2019s database deeply enough to have the ability to delete or change voter data. Few election officials even noticed the digital incursions.\n\nIt couldn\u2019t have been a particularly difficult mission for Russia\u2019s army of hackers: Many U.S. voting machines were more than a decade old. Some were so outdated that officials had to buy spare parts on eBay. A few were running Windows 2000.\" In April 2023, it called for funding from DHS, CISA, EAC, and the FBI to direct more resources to combat these threats.\n\nEuropean countries have also expressed concerns, with the European Union Agency for Network and Information Security (ENISA) stating that \"Core electoral\nsystems are being targeted by digital communities, institutions, and actors.\" ([pdf](https://www.enisa.europa.eu/publications/enisa-foresight-cybersecurity-threats-for-2030/@@download/fullReport).\n\nAs of May 2023, no major attacks on voting systems have been directly attributable to AI.",
+    "createdTime": "2023-05-23T18:00:00Z",
+    "createdTimeStr": "2023-05-23",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735704000000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730479979773,
+        "2024-11-01",
+        71,
+        0.0430052779277618
+      ]
+    ]
+  },
+  {
+    "question": "Will Ukraine withdraw from Kursk before December 1, 2024?",
+    "background_text": "On August 6, 2024, [Ukraine sent troops to Russia's Kursk Oblast](https://en.wikipedia.org/wiki/August_2024_Kursk_Oblast_incursion), advancing 10 kilometers and capturing over 100 square kilometers within days. \n\nAfter 5 days, the situation has appeared to stabilize, though the fate of the incursion remains uncertain.",
+    "createdTime": "2024-08-18T11:00:00Z",
+    "createdTimeStr": "2024-08-18",
+    "closeTimeStr": "2024-12-01",
+    "resolutionTime": 1733057940000,
+    "resolveTimeStr": "2024-12-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730473071159,
+        "2024-11-01",
+        34,
+        0.10616206402583561
+      ]
+    ]
+  },
+  {
+    "question": "Will there be at least 1 fatality from a non-test nuclear detonation before 2025?",
+    "background_text": "Weapons in which the energy is provided by nuclear fission or fusion have only twice in history been detonated outside of a controlled test environment, in the Hiroshima and Nagasaki events in World War II.\n\nSince then, the world has nearly gone to nuclear war as a result of international conflict (during the Cuban Missile Crisis) and by accident.  There have also been a number of narrowly-averted accidental nuclear detonations.  See [this timeline](http://futureoflife.org/background/nuclear-close-calls-a-timeline/) for a sobering look at how close we have come.\n\nOn September 21, 2022, Russian President [Vladimir Putin delivered a speech](https://www.bbc.com/news/world-europe-62984985) in which he announced the partial mobilization of reservists and also issued what [media sources have characterized](https://apnews.com/article/russia-ukraine-putin-moscow-nuclear-weapons-e0b9ba6d3eac964b9c0b7192b3adff2e) as a threatened willingness to use nuclear weapons, saying\n\n>When the territorial integrity of our country is threatened, we will certainly use all the means at our disposal to protect Russia and our people. It's not a bluff.",
+    "createdTime": "2023-04-19T14:00:00Z",
+    "createdTimeStr": "2023-04-19",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735696800000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730888614736,
+        "2024-11-06",
+        45,
+        0.023786054704001042
+      ]
+    ]
+  },
+  {
+    "question": "Will Yoon Suk Yeol be President of South Korea on December 31, 2024?",
+    "background_text": "[Reuters](https://www.reuters.com/world/asia-pacific/south-korea-president-yoon-declares-martial-law-2024-12-03/):\n> In South Korea's biggest political crisis in decades, Yoon shocked the nation and declared martial law on Tuesday night to thwart \"anti-state forces\" among his domestic political opponents. But outraged lawmakers unanimously rejected the decree. Yonhap news agency said the cabinet had agreed early on Wednesday to scrap the martial law.\nProtesters outside the National Assembly parliament shouted and clapped. \u201cWe won!\u201d they chanted, and one demonstrator banged on a drum.\n> \n> The main opposition Democratic Party called for Yoon, who has been in office since 2022, to resign or face impeachment. \u201cEven if martial law is lifted, he cannot avoid treason charges. It was clearly revealed to the entire nation that President Yoon could no longer run the country normally. He should step down,\" senior DP member of parliament Park Chan-dae said in a statement.",
+    "createdTime": "2024-12-05T06:38:52Z",
+    "createdTimeStr": "2024-12-05",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735675200000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1733675337606,
+        "2024-12-08",
+        32,
+        0.6977766468270726
+      ]
+    ]
+  },
+  {
+    "question": "Bolsonaro ser\u00e1 denunciado pela Procuradoria-Geral da Rep\u00fablica por suposta tentativa de golpe de Estado no primeiro trimestre de 2025?",
+    "background_text": "Nos \u00faltimos anos, o ex-presidente Jair Bolsonaro enfrentou diversas investiga\u00e7\u00f5es relacionadas ao seu governo, incluindo alega\u00e7\u00f5es de ataques \u00e0s institui\u00e7\u00f5es democr\u00e1ticas brasileiras. Ap\u00f3s os eventos de 8 de janeiro de 2023, quando manifestantes invadiram e depredaram as sedes dos Tr\u00eas Poderes em Bras\u00edlia, surgiram questionamentos sobre o poss\u00edvel envolvimento de Bolsonaro na incita\u00e7\u00e3o ou apoio indireto a esses atos.\n\nDesde ent\u00e3o, a **Procuradoria-Geral da Rep\u00fablica (PGR)** e outros \u00f3rg\u00e3os judiciais t\u00eam investigado figuras p\u00fablicas e apoiadores envolvidos no epis\u00f3dio. Em 2023, Bolsonaro foi inclu\u00eddo em investiga\u00e7\u00f5es relacionadas \u00e0 tentativa de questionar os resultados das elei\u00e7\u00f5es de 2022 e \u00e0 dissemina\u00e7\u00e3o de desinforma\u00e7\u00e3o sobre o sistema eleitoral.\n\nEm Novembro de 2024, Bolsonaro foi indiciado pela Pol\u00edcia Federal junto com outras 36 pessoas,\u00a0[incluindo quatro ex-ministros](https://oglobo.globo.com/politica/noticia/2024/11/21/pf-indicia-quatro-ex-ministros-de-bolsonaro-por-tentativa-de-golpe-de-estado-veja-a-lista.ghtml), pelos crimes de tentativa de golpe de Estado, tentativa de aboli\u00e7\u00e3o do Estado democr\u00e1tico de direito e organiza\u00e7\u00e3o criminosa.\n\n[O Globo](https://oglobo.globo.com/politica/noticia/2024/11/22/bolsonaro-indiciado-pela-pf-entenda-o-inquerito-do-golpe-em-cinco-pontos.ghtml)\n\n[Gazeta do Povo](https://www.gazetadopovo.com.br/republica/apos-cerco-em-2024-bolsonaro-deve-enfrentar-etapas-mais-duras-dos-processos-no-stf-em-2025/)",
+    "createdTime": "2025-01-10T22:36:22Z",
+    "createdTimeStr": "2025-01-10",
+    "closeTimeStr": "2025-02-19",
+    "resolutionTime": 1739955000000,
+    "resolveTimeStr": "2025-02-19",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1737762691182,
+        "2025-01-24",
+        32,
+        0.3584984565470225
+      ]
+    ]
+  },
+  {
+    "question": "Will Benjamin Netanyahu remain Prime Minister of Israel throughout 2024?",
+    "background_text": "*The background information text from this question is taken from this earlier question: [When will Benjamin Netanyahu cease to be Prime Minister of Israel?](https://www.metaculus.com/questions/19813/next-prime-minister-of-israel/)*\n\n---\n\n[Benjamin Netanyahu](https://en.wikipedia.org/wiki/Benjamin_Netanyahu) is the current Prime Minister of Israel, having previously held the office from 1996 to 1999 and again from 2009 to 2021. Netanyahu is the longest-tenured prime minister in the country's history, having served for a total of over 16 years.\n\n[A series of coordinated attacks](https://en.wikipedia.org/wiki/2023_Hamas_attack_on_Israel), conducted by the Palestinian Islamist militant  Hamas, from the Gaza Strip onto bordering areas in Israel, commenced on Saturday 7 October 2023. Israel declared war on Hamas on 8 October, and its response to the attack has seen the most significant military escalation in the region since the Yom Kippur War. \n\nWithin Israel, Netanyahu's government has been [widely condemned](https://thehill.com/opinion/international/4282509-netanyahu-failed-and-must-resign/) for failures to prepare for these attacks.",
+    "createdTime": "2024-01-01T07:00:00Z",
+    "createdTimeStr": "2024-01-01",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735714800000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1730494666860,
+        "2024-11-01",
+        769,
+        0.9378094063769331
+      ]
+    ]
+  },
+  {
+    "question": "Will the undiagnosed disease currently spreading in the Democratic Republic of the Congo be identified as Influenza, RSV, or COVID-19 before January 7, 2025?",
+    "background_text": "According to [WHO](https://www.who.int/emergencies/disease-outbreak-news/item/2024-DON546):\n\n> Between 24 October and 5 December 2024, Panzi health zone in Kwango Province of Democratic Republic of the Congo recorded 406 cases of an undiagnosed disease with symptoms of fever, headache, cough, runny nose and body ache. All severe cases were reported to be severely malnourished. Among the cases, 31 deaths have been registered. The majority of cases reported are among children, particularly those under five years of age. The area is rural and remote, with access further hindered by the ongoing rainy season. Reaching it from Kinshasa by road takes an estimated 48 hours. These challenges, coupled with limited diagnostics in the region, have delayed the identification of the underlying cause. Rapid response teams have been deployed to identify the cause of the outbreak and strengthen the response. The teams are collecting samples for laboratory testing, providing a more detailed clinical characterization of the detected cases, investigating the transmission dynamics, and actively searching for additional cases, both within health facilities and at the community level. The teams are also aiding with the treatment of patients, risk communication and community engagement. Given the clinical presentation and symptoms reported, and a number of associated deaths, acute pneumonia, influenza, COVID-19, measles and malaria are being considered as potential causal factors with malnutrition as a contributing factor. Malaria is a common disease in this area, and it may be causing or contributing to the cases. Laboratory tests are underway to determine the exact cause. At this stage, it is also possible that more than one disease is contributing to the cases and deaths.",
+    "createdTime": "2024-12-12T00:52:03.827565Z",
+    "createdTimeStr": "2024-12-12",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735668000000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1734664043230,
+        "2024-12-19",
+        32,
+        0.02044273553229417
+      ]
+    ]
+  },
+  {
+    "question": "Will any Member State leave the Eurozone before 2025?",
+    "background_text": "",
+    "createdTime": "2019-02-16T00:00:00Z",
+    "createdTimeStr": "2019-02-16",
+    "closeTimeStr": "2025-01-01",
+    "resolutionTime": 1735718400000,
+    "resolveTimeStr": "2025-01-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730451366487,
+        "2024-11-01",
+        307,
+        0.0113380799222239
+      ]
+    ]
+  },
+  {
+    "question": "Will the New Glenn launch vehicle reach an altitude of 100 kilometers in 2024?",
+    "background_text": "Blue Origin's [New Glenn](https://en.wikipedia.org/wiki/New_Glenn) launch vehicle consists of two stages and is planned to be able to [launch 45 metric tons of payload into low Earth orbit](https://www.blueorigin.com/new-glenn). The first launch is [currently planned](https://spacenews.com/nasa-mars-smallsat-mission-to-be-on-first-new-glenn-launch/) to carry a NASA [smallsat](https://en.wikipedia.org/wiki/Small_satellite) in August of 2024.",
+    "createdTime": "2024-01-01T07:00:00Z",
+    "createdTimeStr": "2024-01-01",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735714800000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730480273573,
+        "2024-11-01",
+        355,
+        0.32770582355468214
+      ]
+    ]
+  },
+  {
+    "question": "Will Spain announce a snap general election before January 2025?",
+    "background_text": "Spanish democracy has a mechanism where the president can call a [snap election](https://en.wikipedia.org/wiki/Snap_election#Spain), described in Section 115 of the [Spanish constitution](https://www.lamoncloa.gob.es/documents/constitucion_inglescorregido.pdf). The [last election](https://en.wikipedia.org/wiki/2023_Spanish_general_election) was held July 23, 2023, after [snap elections were called](https://www.cnbc.com/2023/05/29/spanish-prime-minister-calls-for-early-general-election.html). The [next Spanish general election](https://en.wikipedia.org/wiki/Next_Spanish_general_election) is scheduled to be held by August of 2027, but potentially could be called much earlier.",
+    "createdTime": "2024-03-23T16:04:00Z",
+    "createdTimeStr": "2024-03-23",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735714800000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1731067928546,
+        "2024-11-08",
+        44,
+        0.056073607591414894
+      ]
+    ]
+  },
+  {
+    "question": "Before January 1, 2025, will at least two public health agencies claim that COVID-19 more likely than not originated in a laboratory?",
+    "background_text": "The beginning of 2020 has seen the emergence of COVID-19 outbreak caused by a novel coronavirus. The majority of the cases were epidemiologically linked to seafood, poultry and live wildlife market (Huanan Seafood Wholesale Market) in Jianghan District of Hubei Province. This suggests that the novel coronavirus has a possible zoonotic origin. [Some](https://www.biorxiv.org/content/10.1101/2020.02.08.939660v2.full.pdf) [evidence](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200211-sitrep-22-ncov.pdf) suggests the virus might have originated from bat sub-species. So far, scientists have been unable to conclusively determine the zoological origins of COVID-19.\n\nIn a [recent (but undated) preprint](https://drive.google.com/file/d/1WEf2GYT_eh4zErSMd9eIwo1Uo_m0PRZk/view?usp=sharing), two Chinese scientists claim that the COVID-19 strain of coronavirus probably originated from a laboratory in Wuhan:\n\n> In summary, somebody was entangled with the evolution of 2019-nCoV coronavirus. In addition to origins of natural recombination and intermediate host, the killer coronavirus probably originated from a laboratory in Wuhan.\n\nThe preprint implicates the Wuhan Institute of Virology, the only BSL-4 virology lab in China. [Scientists have previously expressed concerns](https://www.nature.com/news/inside-the-chinese-lab-poised-to-study-world-s-most-dangerous-pathogens-1.21487) about the organisation's ability to monitor the lab.\n\nOther scientists, such as Trevor Bedford, of the Fred Hutchinson Cancer Research Center in Seattle has disputed the theory of the laboratory origins of COVID-19, [claiming](https://www.ft.com/content/a6392ee6-4ec6-11ea-95a0-43d18ec715f5): \"There is no evidence whatsoever of genetic engineering that we can find\". *ETA (2021-07-06) to clarify, this doesn't 'dispute all lab-origins, just those that involve genetic modification.*",
+    "createdTime": "2020-02-19T00:00:00Z",
+    "createdTimeStr": "2020-02-19",
+    "closeTimeStr": "2025-01-01",
+    "resolutionTime": 1735718400000,
+    "resolveTimeStr": "2025-01-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730507037856,
+        "2024-11-01",
+        578,
+        0.06599724024149928
+      ]
+    ]
+  },
+  {
+    "question": "Will there be a bilateral cease-fire or peace agreement in the Russo-Ukraine conflict in 2024?",
+    "background_text": "As of December 2023, the situation in the Russo-Ukrainian conflict remains complex and dynamic, with no clear indications of an imminent bilateral ceasefire or peace agreement. The war, which began when Russia invaded Ukraine on February 24, 2022, has continued with varying intensity.\n\nRecent developments include ongoing hostilities in various regions, including Kherson and the industrial city of Avdiivka, indicating that the conflict remains active with no significant moves towards a ceasefire or peace talks. The Ukrainian military has adopted a more defensive posture after failing to achieve a major breakthrough in their months-long counteroffensive, as [noted by the United Kingdom\u2019s Defence Ministry](https://abcnews.go.com/International/wireStory/analysts-ukraines-forces-pivoting-defense-after-russia-held-105807988).",
+    "createdTime": "2024-01-01T07:00:00Z",
+    "createdTimeStr": "2024-01-01",
+    "closeTimeStr": "2025-01-01",
+    "resolutionTime": 1735718400000,
+    "resolveTimeStr": "2025-01-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730625817543,
+        "2024-11-03",
+        1117,
+        0.0355944639670512
+      ]
+    ]
+  },
+  {
+    "question": "Will the domestic opening weekend box office revenue of Mufasa: The Lion King exceed that of Sonic the Hedgehog 3?",
+    "background_text": "[*Mufasa: The Lion King*](https://www.imdb.com/title/tt13186482/) is an upcoming American musical drama film directed by Barry Jenkins. It serves as a prequel to the 2019 adaptation of *The Lion King*, which grossed $191 million domestically in its opening weekend, ranking among the top 10 of all time. [*Sonic the Hedgehog 3*](https://www.imdb.com/title/tt18259086/) is an upcoming action-adventure comedy film based on the Sega video game series. The original *Sonic the Hedgehog* earned $58 million in its domestic opening weekend, while its sequel, *Sonic the Hedgehog 2*, made $72 million.\n\nBoth films are based in intellectual properties from the early 90s and are set for release on December 20, 2024. Despite the differences in the box office performances of the previous installments in their respective franchises, projections for both films [appear to be similarly strong](https://boxofficetheory.com/5-week-tracking-forecasts-mufasa-the-lion-king-and-sonic-the-hedgehog-3s-early-box-office-ranges-plus-wicked-gladiator-ii-and-moana-2-updates/).\n\nBox Office Mojo generally [defines](https://help.imdb.com/article/imdbpro/industry-research/box-office-mojo-by-imdbpro-faq/GCWTV4MQKGWRAUAP#domesticinternational) \"domestic\" as gross box-office revenue from North America (U.S., Canada, and Puerto Rico). According to the [Box Office by IMDbPro Glossary](https://help.imdb.com/article/imdbpro/industry-research/box-office-by-imdbpro-glossary/GN8HA87MT4597FSW?ref_=mojo_ftr_glossary#boxofficetracking):\n\n>Box office tracking refers to theatrical box office earnings. Additional sources of revenue, such as home entertainment sales and rentals, television rights, product placement fees, etc. are not included.\n\n>Gross refers to gross earnings in U.S. dollars. On average, a movie's distributor receives a little more than half of the final gross (often referred to as the \"rentals\") with the remainder going to the exhibitor (i.e. movie theater). The money split varies from movie to movie, but, generally, the contract favors the distributor in early weeks and shifts to the exhibitor later on.\n\n>Weekend box office charts show gross receipts for a given weekend, which is Friday through Sunday unless otherwise noted. Studio estimates for the weekend are reported on Sunday mornings, generally between 9 a.m. and 10 a.m. Pacific Time and reflect estimated Friday and Saturday box office receipts plus a projection for Sunday.",
+    "createdTime": "2024-11-20T19:51:24.166930Z",
+    "createdTimeStr": "2024-11-20",
+    "closeTimeStr": "2024-12-19",
+    "resolutionTime": 1734678000000,
+    "resolveTimeStr": "2024-12-19",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1732445826352,
+        "2024-11-24",
+        32,
+        0.7326354240238993
+      ]
+    ]
+  },
+  {
+    "question": "Will the US see a large-scale riot in 2023 or 2024?",
+    "background_text": "[Incidents of civil unrest](https://en.wikipedia.org/wiki/List_of_incidents_of_civil_unrest_in_the_United_States) are not terribly uncommon in the United States, but large-scale rioting is quite rare. One of the most severe incidents in recent history was the [1992 Los Angeles riots](https://en.wikipedia.org/wiki/1992_Los_Angeles_riots), during which more than 60 people were killed, more than 2,350 people were injured, and more than 12,000 people were arrested. \n\nA more recent, albeit less severe, example of a riot (or civil unrest) is the [January 6 United States Capitol attack](https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack) which cuminated in a coordinated attack on the US Capitol building by far-right, pro-Trump militias resulting in 5 deaths and injuries exceeding 100 persons.\n\nThis question asks: **Will the United States experience an incident of a large-scale riot in 2023 or 2024?**",
+    "createdTime": "2023-09-15T16:43:00Z",
+    "createdTimeStr": "2023-09-15",
+    "closeTimeStr": "2025-01-01",
+    "resolutionTime": 1735718400000,
+    "resolveTimeStr": "2025-01-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730916800177,
+        "2024-11-06",
+        67,
+        0.12990198406334916
+      ]
+    ]
+  },
+  {
+    "question": "Will the International Criminal Court bring charges against Benjamin Netanyahu before 2026?",
+    "background_text": "On October 7th, 2023, Palestinians militants launched rockets at Israel and 3,000 militants breached the Gaza-Israel border. More than 1,000 Israelis were killed in Kibbutzims, military bases, and at a [music festival](https://en.wikipedia.org/wiki/Re%27im_music_festival_massacre), and over 200 hostages were abducted and taken into the Gaza Strip.\n\nThe next day on October 8th, Israeli Prime Minister Benjamin Netanyahu declared war. Israel responded by bombing Gaza dropping 6,000 bombs in the first 6 days, and then a ground invasion of the Gaza Strip in late October. \n\nThe United Nations High Commissioner for Human Rights has [accused both sides of war crimes](https://www.reuters.com/world/middle-east/un-rights-chief-says-war-crimes-committed-both-sides-israel-hamas-conflict-2023-11-08/#:~:text=Israel%20has%20bombarded%20Gaza%20unrelentingly,including%20many%20women%20and%20children.).\n\n>CAIRO, Nov 8 (Reuters) - The United Nations High Commissioner for Human Rights said on Wednesday war crimes had been committed by both Israel and Hamas in the conflict that erupted just over a month ago.\n\n>\"The atrocities perpetrated by Palestinian armed groups on 7 October were heinous, they were war crimes - as is the continued holding of hostages,\" Volker Turk said at the Rafah crossing in Egypt on the border with Gaza.\n\n>\"The collective punishment by Israel of Palestinian civilians is also a war crime, as is unlawful forcible evacuation of civilians,\" he added.\n\nThe [International Criminal Court](https://www.icc-cpi.int/), headquartered in The Hague, Netherlands, is an independent judicial institution empowered to prosecute individuals for international crimes, such as genocide, crimes against humanity, war crimes, and the crime of aggression. It is distinct from the United Nations and does not possess universal jurisdiction, relying instead on the ratification of the [Rome Statute](https://en.wikipedia.org/wiki/Rome_Statute) by individual states, which confers the Court's jurisdiction. Israel is not a member state of the ICC, but the ICC's top prosecutor has [claimed jurisdiction](https://www.reuters.com/world/middle-east/hamas-attack-would-fall-under-jurisdiction-war-crimes-court-prosecutor-2023-10-12/#:~:text=THE%20HAGUE%2C%20Netherlands%2C%20Oct%2012,prosecutor%20told%20Reuters%20on%20Thursday.) over any war crimes carrier out in the Gaza conflict, [writing](https://www.theguardian.com/commentisfree/2023/nov/10/law-israel-hamas-international-criminal-court-icc)\n\n> My office has ongoing jurisdiction in relation to any alleged crimes committed on the territory of the State of Palestine by any party. This includes jurisdiction over current events in Gaza and in the West Bank.\n\n> Israel has clear obligations in relation to its war with Hamas: not just moral obligations, but legal obligations that it has to comply with the laws of armed conflict. These laws are clearly outlined in the Rome statute and the Geneva conventions.\n\nOn November 16, 2023, South Africa [referred Israel to the ICC](https://abcnews.go.com/International/wireStory/south-africa-refers-israel-icc-gaza-attacks-pressure-104937581). South African President Cyril Ramaphosa said:\n\n> \u201cAs South Africa we have accordingly, together with many other countries across the world, referred this whole Israeli government action to the International Criminal Court,\" Ramaphosa said Wednesday during a state visit to Qatar.\n\n> \u201cWe have put through a referral because we believe that war crimes are being committed there. And of course we do not condone the actions that were taken by Hamas earlier, but similarly we condemn the actions that are currently underway and believe that they warrant an investigation by the ICC,\u201d he added.",
+    "createdTime": "2023-11-17T18:46:00Z",
+    "createdTimeStr": "2023-11-17",
+    "closeTimeStr": "2024-11-21",
+    "resolutionTime": 1732214700000,
+    "resolveTimeStr": "2024-11-21",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1730505056587,
+        "2024-11-01",
+        152,
+        0.8193162182813415
+      ]
+    ]
+  },
+  {
+    "question": "Will North Dakota voters approve Initiated Measure 5, which would legalize recreational marijuana in the state?",
+    "background_text": "Ballotpedia: [North Dakota Initiated Measure 5, Marijuana Legalization Initiative (2024)](https://ballotpedia.org/North_Dakota_Initiated_Measure_5,_Marijuana_Legalization_Initiative_(2024))",
+    "createdTime": "2024-10-31T14:30:00Z",
+    "createdTimeStr": "2024-10-31",
+    "closeTimeStr": "2024-11-01",
+    "resolutionTime": 1730496600000,
+    "resolveTimeStr": "2024-11-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730450660727,
+        "2024-11-01",
+        32,
+        0.40283257364990166
+      ]
+    ]
+  },
+  {
+    "question": "Will there be any reported human-to-human transmission of highly pathogenic avian influenza H5N1 globally before 2025?",
+    "background_text": "On April 1, 2024, the US Centers for Disease Control and Prevention (CDC) [reported](https://www.cdc.gov/media/releases/2024/p0401-avian-flu.html) that an individual in Texas had been infected with [highly pathogenic avian influenza (HPAI) type A subtype H5N1](https://en.wikipedia.org/wiki/Influenza_A_virus_subtype_H5N1). The individual had been infected after exposure to dairy cattle that were presumed to be infected. The infection marks the first reported case in humans the United States since an infection in Colorado in 2022.\n\n[CDC describes](https://www.cdc.gov/flu/avianflu/reported-human-infections.htm) H5N1 infections in humans as follows:\n\n>HPAI A(H5N1) virus infections have been reported in more than 890 people with approximately 50% case fatality proportion since 1997, including 20 cases and 7 deaths in Hong Kong during 1997-2003, and more than 870  cases reported in 22 countries since November 2003. Mild upper respiratory tract symptoms, lower respiratory tract disease, severe pneumonia with respiratory failure, encephalitis, and multi-organ failure have been reported. One case of asymptomatic infection was reported in Vietnam in 2011, and another asymptomatic case was reported in the United Kingdom that occurred in late 2021. The spectrum of illness caused by human infection with current H5N1 bird flu viruses is unknown. Since 2016, a small number of sporadic infections have been reported each year globally. Illness in humans from all bird flu virus infections has ranged in severity from no symptoms or mild illness to severe disease that resulted in death. [Total case counts reported](https://www.cdc.gov/flu/avianflu/chart-epi-curve-ah5n1.html) since 1997 are available.\n\nCDC maintains a [Current Situation Summary](https://www.cdc.gov/flu/avianflu/avian-flu-summary.htm) for H5N1 influenza, where as of April 11, 2024, detections in the US are listed as widespread for wild birds, sporadic for poultry flocks and mammals, and a total of two cases in humans in the US. It also describes person-to-person spread as \"None\" and a low current public health risk.\n\nIn its [Current U.S. Bird Flu Situation in Humans](https://www.cdc.gov/flu/avianflu/inhumans.htm#:~:text=No%20known%20human%2Dto%2Dhuman,the%20United%20States%20and%20globally.) publication, CDC states:\n\n>No known human-to-human spread has occurred with the contemporary A(H5N1) viruses that are currently circulating in birds in the United States and globally.",
+    "createdTime": "2024-04-12T20:00:00Z",
+    "createdTimeStr": "2024-04-12",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735714800000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730499557253,
+        "2024-11-01",
+        103,
+        0.09165538245026109
+      ]
+    ]
+  },
+  {
+    "question": "Will Kevin Stefanski be the Cleveland Browns head coach on January 1, 2025?",
+    "background_text": "Cleveland 19 News: [Will Cleveland Browns\u2019 Kevin Stefanski be 1st coach fired this NFL season?](https://www.cleveland19.com/2024/09/12/first-coach-fired/)",
+    "createdTime": "2024-10-31T14:30:00Z",
+    "createdTimeStr": "2024-10-31",
+    "closeTimeStr": "2024-11-01",
+    "resolutionTime": 1730496600000,
+    "resolveTimeStr": "2024-11-01",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1730464743876,
+        "2024-11-01",
+        32,
+        0.6863612590723159
+      ]
+    ]
+  },
+  {
+    "question": "Will Twitter flag any tweet by the New York Times as misinformation before 2025?",
+    "background_text": "On July 30, [Nate Silver](https://twitter.com/NateSilver538/status/1421230734686228489) of [FiveThirtyEight](https://fivethirtyeight.com/) retweeted [Ben Wakana](https://twitter.com/benwakana46/status/1421182153224818694) of the White House COVID response team.  Wakana was critical of a [tweet by the New York Times](https://twitter.com/nytimes/status/1420972977005412354) that implied that vaccinated people were just as likely to spread the delta variant of COVID-19 as unvaccinated people.  Nate Silver suggested that twitter should flag the New York Times tweet for being misinformation.",
+    "createdTime": "2021-08-18T07:00:00Z",
+    "createdTimeStr": "2021-08-18",
+    "closeTimeStr": "2025-01-01",
+    "resolutionTime": 1735732800000,
+    "resolveTimeStr": "2025-01-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730893542126,
+        "2024-11-06",
+        140,
+        0.2906708716968076
+      ]
+    ]
+  },
+  {
+    "question": "Will there be faithless electors in the 2024 US Presidential election?",
+    "background_text": "In US presidential elections, voters vote for [electors](https://en.wikipedia.org/wiki/United_States_Electoral_College) who then cast votes for the president and vice president. Typically, electors are pledged to vote for a specific candidate, but in principle it is possible (though illegal in some states) for elector to vote for any candidate.\n\nAn elector who votes for a candidate other than the one that they are pledged to is known as a [faithless elector](https://en.wikipedia.org/wiki/Faithless_elector).\n\nIn 2016, there were [ten](https://en.wikipedia.org/wiki/Faithless_electors_in_the_2016_United_States_presidential_election) faithless electors, seven of which were not invalidated; this resulted in one electoral vote for Bernie Sanders, one for Faith Spotted Eagle, three for Colin Powell, one for Ron Paul, and one for John Kasich.",
+    "createdTime": "2024-01-01T07:00:00Z",
+    "createdTimeStr": "2024-01-01",
+    "closeTimeStr": "2024-12-16",
+    "resolutionTime": 1734400800000,
+    "resolveTimeStr": "2024-12-16",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730748689257,
+        "2024-11-04",
+        466,
+        0.49110273797596554
+      ]
+    ]
+  },
+  {
+    "question": "Will there be a serious radiation incident at any nuclear plant in Ukraine before 2025?",
+    "background_text": "According to [Wikipedia](https://en.wikipedia.org/wiki/Nuclear_and_radiation_accidents_and_incidents):\n\n> \"A nuclear and radiation accident is defined by the International Atomic Energy Agency (IAEA) as \"an event that has led to significant consequences to people, the environment or the facility. Examples include lethal effect to individuals, large radioactivity release to the environment, reactor core melt.\" The prime example of a \"major nuclear accident\" is one in which a reactor core is damaged and significant amounts of radioactive isotopes are released, such as in the Chernobyl disaster in 1986 and Fukushima nuclear disaster in 2011.\n\n\nThe situation regarding Russian control of Ukrainian nuclear reactors, particularly the Zaporizhzhia Nuclear Power Plant (ZNPP), has been a [focal point of concern](https://www.world-nuclear.org/ukraine-information/ukraine-russia-war-and-nuclear-energy.aspx) since the onset of the Russia-Ukraine conflict. The ZNPP, Europe's largest nuclear plant with six reactors, has been under Russian occupation since the early stages of the invasion in February 2022. The plant came under armed attack in March 2022, marking the first instance of an operating civil nuclear power plant being attacked during an active conflict. This attack led to a projectile hitting a training building and resulted in a fire, but essential equipment and the reactors remained unaffected\u200b\u200b.\n\nSince the conflict began, the [operation of the reactors has varied](https://www.npr.org/2023/09/06/1197574725/russia-ukraine-war-nuclear-power-plants), with some being taken offline or put online as needed, depending on the stability of external power supplies and conditions around the plants\u200b\u200b.\n\n> There are six reactors at Zaporizhzhia maintained by Energoatom personnel, according to Kotin, but Russia controls the plant. Those reactors are currently offline. Meanwhile, Ukraine is operating nine reactors generating electricity at three other locations around the country.\n\nIn June 2023, Russia and Ukraine accused each other of [plotting to stage an attack on ZNPP](https://www.reuters.com/world/europe/russia-ukraine-accuse-each-other-plotting-imminent-attack-nuclear-station-2023-07-04/).",
+    "createdTime": "2024-01-01T07:00:00Z",
+    "createdTimeStr": "2024-01-01",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735704000000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730480124510,
+        "2024-11-01",
+        509,
+        0.035172241954651295
+      ]
+    ]
+  },
+  {
+    "question": "Will Hawaii voters approve the constitutional amendment on the ballot in 2024, which would repeal the state's ban on same-sex marriage?",
+    "background_text": "Ballotpedia: [Hawaii Remove Legislature Authority to Limit Marriage to Opposite-Sex Couples Amendment (2024)](https://ballotpedia.org/Hawaii_Remove_Legislature_Authority_to_Limit_Marriage_to_Opposite-Sex_Couples_Amendment_(2024))",
+    "createdTime": "2024-10-31T14:30:00Z",
+    "createdTimeStr": "2024-10-31",
+    "closeTimeStr": "2024-11-01",
+    "resolutionTime": 1730496600000,
+    "resolveTimeStr": "2024-11-01",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1730444521061,
+        "2024-11-01",
+        32,
+        0.7888733468449796
+      ]
+    ]
+  },
+  {
+    "question": "Will US Attorney General Merrick Garland be impeached before the 2024 federal election?",
+    "background_text": "To date, no sitting Attorney General of the United States of America has ever been impeached.  The closest case was in 1922, when [Attorney General Harry M. Daugherty faced an impeachment investigation](https://en.wikipedia.org/wiki/List_of_impeachment_investigations_of_United_States_federal_officials#Attorney_General_Harry_M._Daugherty_(Republican)).  Now, in response to potential mishandling of criminal cases related to sitting President Joseph Biden's son Hunter Biden, the Speaker of the House of Representatives has said that [Attorney General Merrick Garland's impeachment is being considered](https://abcnews.go.com/Politics/mccarthy-considers-impeachment-inquiry-ag-merrick-garland-hunter/story?id=100393665).\n\n>House Speaker Kevin McCarthy is considering launching an impeachment inquiry over Attorney General Merrick Garland's handling of the investigation into President Joe Biden's son, Hunter Biden.\n\n>McCarthy tweeted on Sunday that he wants Trump-appointed U.S. Attorney David Weiss to provide answers to the House Judiciary Committee regarding accusations made by two former IRS agents about Weiss' probe of the younger Biden, on which they worked.\n\n>\"If the whistleblowers' allegations are true, this will be a significant part of a larger impeachment inquiry into Merrick Garland's weaponization of DOJ,\" McCarthy wrote. (An inquiry would be a precursor to the House potentially voting on specific articles of impeachment on Garland.)\n\n>On Monday, McCarthy said on Fox News: \"If it comes true what the IRS whistleblower is saying, we're going to start impeachment inquiries on the attorney general.\"\n\nThe impeachment of Merrick Garland would be notable not only for having been the first impeachment of an Attorney General in United States history, but also for its potential political impact on the 2024 Presidential election.",
+    "createdTime": "2023-06-28T21:40:00Z",
+    "createdTimeStr": "2023-06-28",
+    "closeTimeStr": "2024-11-04",
+    "resolutionTime": 1730718000000,
+    "resolveTimeStr": "2024-11-04",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730476892047,
+        "2024-11-01",
+        51,
+        0.013779688429486717
+      ]
+    ]
+  },
+  {
+    "question": "Will Republicans win control of the US House of Representatives in 2024?",
+    "background_text": "In 2020, Republicans gained seats in the House of Representatives despite losing the White House, leaving the Democrats with the thinnest margin in decades. Historically, there is often a backlash against the winner of the presidential election during the first term, so majority control could flip. However, redistricting following the 2020 Census will have its effect too.\n\nIf Republicans win 218* seats or more in 2024, they will secure a majority in the house. Will that happen?\n\n435* seats will be contested in 2024 (most in November, but some runoffs are possible). The question resolves after enough races have been called by reliable media reports to give a majority to one party or another. In case of ongoing ambiguity, the question can resolve when the Congress convenes in January 2025 and certifies its membership.",
+    "createdTime": "2021-09-01T04:00:00Z",
+    "createdTimeStr": "2021-09-01",
+    "closeTimeStr": "2024-11-05",
+    "resolutionTime": 1730840400000,
+    "resolveTimeStr": "2024-11-05",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1730485782176,
+        "2024-11-01",
+        136,
+        0.4529394864974766
+      ]
+    ]
+  },
+  {
+    "question": "Will the US national average retail price of regular gasoline between $3.020 and $3.080 (inclusive) for the week of December 9, 2024?",
+    "background_text": "According to [EIA](https://www.eia.gov/petroleum/gasdiesel/gas_proc-methods.php), \"Every Monday, EIA collects information on retail prices for regular, midgrade, and premium grades of gasoline from a sample of retail gasoline outlets across the United States using Form EIA-878, Motor Gasoline Price Survey Schedule A. The weekly survey is designed to collect data on the cash price offered at the pump (including taxes) to consumers for each grade of gasoline. The data collected represent the price as of 8:00 a.m. local time on Monday, for the self-serve price except in areas having only full-serve, and the cash price except for outlets accepting only credit cards.\"",
+    "createdTime": "2024-12-04T15:30:00Z",
+    "createdTimeStr": "2024-12-04",
+    "closeTimeStr": "2024-12-05",
+    "resolutionTime": 1733441400000,
+    "resolveTimeStr": "2024-12-05",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1733408598339,
+        "2024-12-05",
+        32,
+        0.4860638450719909
+      ]
+    ]
+  },
+  {
+    "question": "Will Apple announce Apple Glasses before 2025?",
+    "background_text": "See a compilation of rumors, news, and patents on such a device in [Tom's Guide.](https://www.tomsguide.com/news/apple-glasses).",
+    "createdTime": "2023-04-22T14:55:00Z",
+    "createdTimeStr": "2023-04-22",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735704000000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730479949436,
+        "2024-11-01",
+        49,
+        0.019996094492469713
+      ]
+    ]
+  },
+  {
+    "question": "Will the US Supreme Court's 538 approval rating be greater than or equal to 41.0% on December 30, 2024?",
+    "background_text": "Please find 538's methodology [here](https://abcnews.go.com/538/polling-averages-work/story?id=109364028).",
+    "createdTime": "2024-11-27T15:30:00Z",
+    "createdTimeStr": "2024-11-27",
+    "closeTimeStr": "2024-11-28",
+    "resolutionTime": 1732836600000,
+    "resolveTimeStr": "2024-11-28",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1732803158293,
+        "2024-11-28",
+        32,
+        0.468397344723318
+      ]
+    ]
+  },
+  {
+    "question": "Will there be greater than or equal to 3,900 emojis on December 31, 2024?",
+    "background_text": "July 17th is World Emoji Day. This day is typically used by platform vendors to announce new emojis supported on their platform. \n\nEmojis are a subsection of the Unicode standard, and by World Emoji Day, the upcoming version of the yearly Unicode standard is in a very stable state, so that the total number of Emojis can be determined.\n\nThe number of Emojis has increased steadily since [Unicode v11.0 in 2018 when it was at 2789](https://unicode.org/emoji/charts-11.0/emoji-counts.html) to [3633 in Unicode v14.0, published 2021](https://unicode.org/emoji/charts-14.0/emoji-counts.html).\n\nWhat will be the growth trend of Emojis in the next five years and how many emojis will be there in Unicode 19.0, expected in 2026?",
+    "createdTime": "2024-11-01T14:30:00Z",
+    "createdTimeStr": "2024-11-01",
+    "closeTimeStr": "2024-11-02",
+    "resolutionTime": 1730583000000,
+    "resolveTimeStr": "2024-11-02",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730530839499,
+        "2024-11-02",
+        32,
+        0.29891567800964247
+      ]
+    ]
+  },
+  {
+    "question": "Before December 31, 2024, will Tech Crunch report new layoffs at Tesla?",
+    "background_text": "Tesla is most recently listed in April 2024, with the blurb saying, \"Has gutted its charging team in a new round of layoffs, CEO Elon Musk announced in an overnight email to executives.\" ",
+    "createdTime": "2024-11-20T15:30:00Z",
+    "createdTimeStr": "2024-11-20",
+    "closeTimeStr": "2024-11-21",
+    "resolutionTime": 1732231800000,
+    "resolveTimeStr": "2024-11-21",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1732194862293,
+        "2024-11-21",
+        32,
+        0.36609065258437323
+      ]
+    ]
+  },
+  {
+    "question": "Will a third-party or independent candidate win at least 15% of the popular vote in the 2024 US presidential election?",
+    "background_text": "Although [large numbers of Americans consistently say they want a third party](https://news.gallup.com/poll/244094/majority-say-third-party-needed.aspx), electoral performance of parties other than the Democratic and Republican parties has historically been poor. For example, no non-Democrat non-Republican has won a presidential election since [1848](https://en.wikipedia.org/wiki/1848_United_States_presidential_election).\n\nThe most recent time a non-Democrat non-Republican received over 10%  of the national popular vote was 1992, with Perot-Stockdale winning 19%. (Perot-Choate came close in 1996, with 8%.)",
+    "createdTime": "2023-11-17T18:54:00Z",
+    "createdTimeStr": "2023-11-17",
+    "closeTimeStr": "2024-11-04",
+    "resolutionTime": 1730775600000,
+    "resolveTimeStr": "2024-11-04",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730517403338,
+        "2024-11-01",
+        48,
+        0.011081174508657877
+      ]
+    ]
+  },
+  {
+    "question": "Will the U.S. phase out per-country caps on employment-based visas before 2025?",
+    "background_text": "In the U.S., immigration visas are limited to 140k per year.   Of those, a maximum of 7% from the same country are permitted.  For countries such as China and India, this means there are backlogs that can exceed the lifetime of an applicant.\n\nThe proposed [2021 EAGLE Act](https://www.congress.gov/bill/117th-congress/house-bill/3648) would have [removed the 7% per-country cap](https://immigrationforum.org/article/bill-summary-the-eagle-act/) for employment-based visas.  The bill would also raise per-country caps for family-based green card petitions from 7% to 15%.  This question is focused on the employment-based visa per-country limit.",
+    "createdTime": "2021-12-21T00:00:00Z",
+    "createdTimeStr": "2021-12-21",
+    "closeTimeStr": "2025-01-01",
+    "resolutionTime": 1735736400000,
+    "resolveTimeStr": "2025-01-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1733473034225,
+        "2024-12-06",
+        35,
+        0.08481453801543572
+      ]
+    ]
+  },
+  {
+    "question": "Will a theft of >$10M of intellectual property be widely attributed to an AI cyberattack before 2025?",
+    "background_text": "In January 2023, a report by the World Intellectual Property Organization (WIPO) found that the theft of IP (intellectual property) is a growing problem. The report found that the value of stolen IP is estimated to be between $2 trillion and $6 trillion per year. None, however, have been attributed to AI systems that probe for weaknesses. Recent high-profile examples of non-AI-based theft of IP include:\n\nIn 2022, a [Chinese national was arrested in the United States](https://www.justice.gov/usao-edpa/pr/former-glaxosmithkline-scientist-pleads-guilty-stealing-trade-secrets-benefit-chinese) for stealing trade secrets from GSK.\n\nIn January 2023, Riot Games, the developer of well-known video games League of Legends and Valorant, [said that hackers recently stole the source code](https://www.axios.com/2023/01/24/riot-games-league-of-legends-source-code-cyberattack) for some of its most popular games in a recent breach.",
+    "createdTime": "2023-05-23T18:00:00Z",
+    "createdTimeStr": "2023-05-23",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735704000000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730444751633,
+        "2024-11-01",
+        63,
+        0.09519176164663681
+      ]
+    ]
+  },
+  {
+    "question": "Will a crewed Artemis II flight approach the moon in 2024?",
+    "background_text": "NASA's [Artemis program](https://www.nasa.gov/specials/artemis/) is a series of missions to explore the moon. The first mission, [Artemis I](https://en.wikipedia.org/wiki/Artemis_1), was launched on November 16, 2022, and performed an uncrewed flyby of the moon.\n\nThe second mission, [Artemis II](https://en.wikipedia.org/wiki/Artemis_2#Mission), is planned to be the first crewed mission to fly by the moon since [humans last left low Earth orbit with the Apollo 17 mission in 1972](https://airandspace.si.edu/stories/editorial/why-50-years-since-humans-went-moon). Its launch is [scheduled to be no earlier than November of 2024](https://www.nasa.gov/mission/artemis-ii/).\n\n<img src=\"https://www.nasa.gov/wp-content/uploads/2023/02/artemis-2-map-october-2021.jpeg\" alt=\"Artemis II Mission Plan\" />\n*[Image published by NASA](https://www.nasa.gov/missions/artemis/artemis-ii-map/)*",
+    "createdTime": "2024-01-01T07:00:00Z",
+    "createdTimeStr": "2024-01-01",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735714800000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1731082041636,
+        "2024-11-08",
+        327,
+        0.011055600996830502
+      ]
+    ]
+  },
+  {
+    "question": "Will West Virginia have 1.4 million or more residents living in drought on December 31, 2024?",
+    "background_text": "[West Virginia facing worst drought in at least two decades](https://www.climate.gov/news-features/event-tracker/west-virginia-facing-worst-drought-least-two-decades)",
+    "createdTime": "2024-11-07T15:30:00Z",
+    "createdTimeStr": "2024-11-07",
+    "closeTimeStr": "2024-11-08",
+    "resolutionTime": 1731108600000,
+    "resolveTimeStr": "2024-11-08",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1731073429565,
+        "2024-11-08",
+        32,
+        0.7474854060744611
+      ]
+    ]
+  },
+  {
+    "question": "Will any of the winners of BARDA's mask innovation challenge be sold on Amazon and cost less than $1 per unit before 2025?",
+    "background_text": "The COVID-19 pandemic has prompted innovation in face masks, including [through](https://www.science.org/content/article/hate-your-face-mask-there-s-hope) a US BARDA [mask innovation challenge](https://drive.hhs.gov/mask_challenge.html). \n\nAccording to BARDA's [target product profile](https://www.challenge.gov/?challenge=mask-innovation-challenge-phase2&tab=resources), the main performance measures for its challenge are:\n>\n- Thermal Burden & Moisture Retention\n- Breathability\n- Leakage Ratio\n- Filter Efficiency\n\nOn June 6, 2022, BARDA [announced](https://www.medicalcountermeasures.gov/stories/maskfinalists/) the 10 finalists of the second phase of its mask innovation challenge. The final phase will result in two top winning designs and two runner-ups. BARDA [plans](https://www.science.org/content/article/hate-your-face-mask-there-s-hope) on announcing these in October.\n\nThe purpose of this question is to understand whether the winning designs of BARDA's mask innovation challenge will be commercially available and affordable to the general public. This may inform the need for further mask innovation.",
+    "createdTime": "2022-06-09T21:00:00Z",
+    "createdTimeStr": "2022-06-09",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735711200000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730572969872,
+        "2024-11-02",
+        141,
+        0.04771755257185667
+      ]
+    ]
+  },
+  {
+    "question": "Will the US and Iran be primary actors on opposite sides of a war before 2025?",
+    "background_text": "On October 7, 2023, [Hamas launched a surprise attack on Israel](https://www.foreignaffairs.com/middle-east/martin-indyk-why-hamas-attacked-and-why-israel-was-taken-surprise). Some reports have suggested that Iran was closely involved in planning the attack. The [Wall Street Journal reported](https://www.wsj.com/world/middle-east/iran-israel-hamas-strike-planning-bbe07b25):\n\n>Iranian security officials helped plan Hamas\u2019s Saturday surprise attack on Israel and gave the green light for the assault at a meeting in Beirut last Monday, according to senior members of Hamas and Hezbollah, another Iran-backed militant group.\n>\n>Officers of Iran\u2019s Islamic Revolutionary Guard Corps had worked with Hamas since August to devise the air, land and sea incursions\u2014the most significant breach of Israel\u2019s borders since the 1973 Yom Kippur War\u2014those people said.\n\nHowever, Iran has [denied that it was involved](https://www.timesofisrael.com/iran-denies-it-had-role-in-hamas-attack-on-israel-claims-accusation-is-political/) and [US Secretary of State Anthony Blinken has stated](https://www.cnn.com/2023/10/08/politics/us-intelligence-iran-connection-israel-attack/index.html):\n\n>In this specific instance, we have not yet seen evidence that Iran directed or was behind this particular attack. That\u2019s something we\u2019re looking at very carefully, and we\u2019ve got to see where the facts lead.\n\nTensions between the US and Iran have been high in recent years following the [US withdrawal from the Iran nuclear deal](https://en.wikipedia.org/wiki/Joint_Comprehensive_Plan_of_Action#U.S._denies_recertification_and_then_withdraws_(2017%E2%80%93present)) in 2017, the [US assassination of Iranian general Qasem Soleimani in 2020](https://en.wikipedia.org/wiki/Assassination_of_Qasem_Soleimani), and Iran's [enrichment of uranium](https://www.nbcnews.com/news/world/iran-enriching-uranium-weapons-grade-nuclear-iaea-rcna72753) to levels approaching those needed to create a nuclear weapon. Some observers [have expressed fears of war](https://www.usip.org/publications/2020/01/are-us-and-iran-really-brink-war) between the two countries.\n\nThe [Uppsala Conflict Data Program](https://www.pcr.uu.se/research/ucdp/) (UCDP) has been collecting data on organized violence for nearly 40 years. The UCDP tracks and categorizes conflicts and conflict deaths according to a [specific set of definitions](https://www.pcr.uu.se/research/ucdp/definitions/). The following sample of conflicts involving the US illustrate some of the different categorizations (note that these categorizations may not necessarily correspond to those specified in the resolution criteria):\n\n* The [2003 Iraq war](https://ucdp.uu.se/conflict/420) involved Australia, the UK, and the US [as primary parties on one side of the conflict](https://ucdp.uu.se/additionalinfo/420/1), with Iraq as the primary party on the other side.\n* In the [conflict between Yugoslavia and Kosovo](https://ucdp.uu.se/conflict/412) the NATO member countries, including the US, [are listed individually in 1999 as secondary warring parties](https://ucdp.uu.se/additionalinfo/412/1) reflecting NATO's [bombing of Yugoslavia](https://en.wikipedia.org/wiki/NATO_bombing_of_Yugoslavia).\n* In the [conflict between Iran and Israel](https://ucdp.uu.se/conflict/14609) the United States is [listed as a secondary warring party](https://ucdp.uu.se/additionalinfo/14609/1#2020) starting in 2020 when the US assassinated Soleimani and [Iran's retaliatory attack](https://en.wikipedia.org/wiki/Assassination_of_Qasem_Soleimani#IRGC_retaliatory_strike) against US military bases in Iraq.",
+    "createdTime": "2023-10-16T22:30:00Z",
+    "createdTimeStr": "2023-10-16",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735714800000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730480211963,
+        "2024-11-01",
+        203,
+        0.06826718267453494
+      ]
+    ]
+  },
+  {
+    "question": "Will former First Lady of Pakistan Bushra Bibi be arrested before January 1, 2025?",
+    "background_text": "Bushra Bibi is the wife of former Pakistani Prime Minister Imran Khan. Mr. Khan was ousted through a no-confidence vote in Parliament in April 2022 and sentenced to three years in a  \u00a3190 million graft case. He was later found guilty of revealing official secrets and sentenced to a further 10 years in prison. In November 2024, Bushra Bibi led protests for the release of her husband. Bibi herself has been involved in the graft case and on November 22, a court issued a non-bailable warrant for her arrest as she failed to appear in eight court hearings. On November 23, the police attempted to arrest her, but they were unsuccessful as she was not present at her residence.",
+    "createdTime": "2024-12-05T06:19:41.129137Z",
+    "createdTimeStr": "2024-12-05",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735675200000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1734216487559,
+        "2024-12-14",
+        32,
+        0.6282530832246831
+      ]
+    ]
+  },
+  {
+    "question": "Will Apple Watch feature a blood pressure monitor before 2025?",
+    "background_text": "Apple reportedly wants to include [blood pressure monitoring within the Apple Watch](https://9to5mac.com/2021/09/01/apple-watch-blood-pressure-temperature-more/). Bloomberg [wrote in April 2022](https://www.bloomberg.com/news/articles/2022-04-12/apple-targets-watch-blood-pressure-feature-for-2024-after-snags?leadSource=uverify%20wall) that the feature was \"two years away from hitting the market and may slip until 2025.\"",
+    "createdTime": "2023-01-31T15:00:00Z",
+    "createdTimeStr": "2023-01-31",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735700400000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730796503264,
+        "2024-11-05",
+        59,
+        0.4642056827813355
+      ]
+    ]
+  },
+  {
+    "question": "Will Nord Stream 2 be completed before 2025?",
+    "background_text": "",
+    "createdTime": "2020-10-15T22:00:00Z",
+    "createdTimeStr": "2020-10-15",
+    "closeTimeStr": "2025-01-01",
+    "resolutionTime": 1735736400000,
+    "resolveTimeStr": "2025-01-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730494279685,
+        "2024-11-01",
+        304,
+        0.020500530513752786
+      ]
+    ]
+  },
+  {
+    "question": "Will \"slaughterbots\" kill at least 50 people outside a military conflict by 2025?\n\n",
+    "background_text": "\"Slaughterbots\" is a term used to describe drones that use artificial intelligence and facial recognition to target people with lethal force.\n\nThe term was brought into the popular lexicon by an [arms-control advocacy video](https://www.youtube.com/watch?v=O-2tpwW0kmU) created in 2017 by the Future of Life Institute (FLI) and Stuart Russell, who is a professor of computer science at UC Berkeley.\n\nWhile defense analyst Paul Scharre criticized the video as fear mongering [\"science fiction,\"](https://spectrum.ieee.org/why-you-shouldnt-fear-slaughterbots) the team behind the campaign continue to argue that [\"autonomous weapons are potentially scalable weapons of mass destruction (WMDs); essentially unlimited numbers can be launched by a small number of people. \"](https://spectrum.ieee.org/why-you-should-fear-slaughterbots-a-response)\n\nMax Tegmark, a professor at MIT and president of FLI, also warned that these weapons could be used by cartels and political dissents to carry out [targeted assassinations.](https://thenextweb.com/news/slaughterbots-are-a-step-away-from-your-neighborhood-and-we-need-a-ban)\n\n[In 2021 a resolution to ban autonomous lethal weapons failed to pass at the United Nations.](https://www.cnbc.com/2021/12/22/un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.html)",
+    "createdTime": "2024-11-04T15:30:00Z",
+    "createdTimeStr": "2024-11-04",
+    "closeTimeStr": "2024-11-05",
+    "resolutionTime": 1730849400000,
+    "resolveTimeStr": "2024-11-05",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730814546876,
+        "2024-11-05",
+        32,
+        0.06528643180865365
+      ]
+    ]
+  },
+  {
+    "question": "Will we detect an exoplanet atmosphere with >5% oxygen atmosphere before 2025?\n",
+    "background_text": "Despite [Kepler\u2019s recent](http://www.nasa.gov/kepler) end of mission [the search](http://sci.esa.int/gaia/) [for exoplanets](https://www.jpl.nasa.gov/cubesat/missions/asteria.php) [continues](https://tess.gsfc.nasa.gov). While their orbits and properties vary, ranging from double our Moon\u2019s mass to thirty times Jupiter\u2019s, their atmospheres\u2019 compositions are harder to detect.\n\nAs of this writing this means we have mostly data from exoplanets we detected by transition and occlusion methods, but also other kind of exoplanets. However we only found *what* is in their air, not *how much* or its ratio in the atmosphere. What we did detect of their atmospheres was often hydrogen, sodium, water vapour, carbon monoxide and dioxide, methane, and even oxygen, depending on the respective exoplanet.\n\nSadly, the presence of O2 isn\u2019t the smoking gun for extraterrestrial life some media like to report it for. There are atmospheric and geological processes that produce detectable\u2014[or even massive](https://www.liebertpub.com/doi/full/10.1089/ast.2014.1231)\u2014amounts of oxygen, keeping the mere presence of O2 from being a robust biomarker. On the flip side, too much oxygen is also possible, and may prevent or hamper the development of life. \n\nSo far we lack a method that would determine the composition percentages of exoplanet atmospheres, but that doesn\u2019t mean someone clever won\u2019t come up with a way. And once we do, finding an atmosphere with a sizeable fraction of O2 might very well be a good indicator for extraterrestrial life.",
+    "createdTime": "2024-11-20T15:30:00Z",
+    "createdTimeStr": "2024-11-20",
+    "closeTimeStr": "2024-11-21",
+    "resolutionTime": 1732231800000,
+    "resolveTimeStr": "2024-11-21",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1732187598539,
+        "2024-11-21",
+        32,
+        0.048461814289038625
+      ]
+    ]
+  },
+  {
+    "question": "Will there be 100 or more military conflict deaths between Ethiopia and Eritrea in 2024?",
+    "background_text": "Eritrea gained independence from Ethiopia [in 1993](https://en.wikipedia.org/wiki/Eritrean%E2%80%93Ethiopian_border_conflict), following a [lengthy war for independence](https://en.wikipedia.org/wiki/Eritrean_War_of_Independence). Independence was followed by a [major war between the two nations in 1998](https://en.wikipedia.org/wiki/Eritrean%E2%80%93Ethiopian_border_conflict#Major_combat_phase_(1998%E2%80%932000)) and ongoing conflict until the two sides [announced a peace declaration in 2018](https://en.wikipedia.org/wiki/Eritrean%E2%80%93Ethiopian_border_conflict#2018_Eritrea%E2%80%93Ethiopia_summit).\n\nHowever, in October of 2023 the Ethiopian president raised concerns of a renewal of conflict when he discussed the importance of landlocked Ethiopia securing access to a port. [According to Africanews](https://www.africanews.com/2023/11/14/ethiopian-pm-affirms-no-plans-for-invasion-over-red-sea-ports-access//):\n\n>In a televised speech on October 13, Abiy said that landlocked Ethiopia \"is a nation whose existence is tied to the Red Sea\", a key waterway for global trade.\n>\n>He said Africa's second most populous country needed access to a port, adding: \"If we plan to live together in peace, we have to find a way to mutually share with each other in a balanced manner.\"\n>\n>Since then, Abiy has sought to alleviate regional fears, telling a military parade two weeks later that \"Ethiopia will not pursue its interests through war. We are committed to mutual interest through dialogue and negotiation.\"",
+    "createdTime": "2024-01-01T07:00:00Z",
+    "createdTimeStr": "2024-01-01",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735714800000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730472566081,
+        "2024-11-01",
+        408,
+        0.05990177641845405
+      ]
+    ]
+  },
+  {
+    "question": "Will the Federal Register list exactly zero executive orders by President Joe Biden for December 2024? ",
+    "background_text": "Ballotpedia: [Joe Biden's executive orders and actions](https://ballotpedia.org/Joe_Biden%27s_executive_orders_and_actions)",
+    "createdTime": "2024-11-18T15:30:00Z",
+    "createdTimeStr": "2024-11-18",
+    "closeTimeStr": "2024-11-19",
+    "resolutionTime": 1732059000000,
+    "resolveTimeStr": "2024-11-19",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1732026494651,
+        "2024-11-19",
+        32,
+        0.15156141285387598
+      ]
+    ]
+  },
+  {
+    "question": "If Joe Biden is elected president of the US in 2020, will the highest tax bracket be restored to its original 39.6% or higher before 2025?",
+    "background_text": "In the Tax Cuts and Jobs Act of 2017, Republicans and President Trump advocated for lower taxes and reduced the highest tax bracket from 39.6% to 37% effective the 2018 tax year.",
+    "createdTime": "2020-09-27T23:00:00Z",
+    "createdTimeStr": "2020-09-27",
+    "closeTimeStr": "2025-01-01",
+    "resolutionTime": 1735779600000,
+    "resolveTimeStr": "2025-01-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730956316278,
+        "2024-11-06",
+        137,
+        0.03988967664045613
+      ]
+    ]
+  },
+  {
+    "question": "Will a third-party or independent candidate win at least 5% of the popular vote in the 2024 US presidential election?",
+    "background_text": "Although [large numbers of Americans consistently say they want a third party](https://news.gallup.com/poll/244094/majority-say-third-party-needed.aspx), electoral performance of parties other than the Democratic and Republican parties has historically been poor. For example, no non-Democrat non-Republican has won a presidential election since [1848](https://en.wikipedia.org/wiki/1848_United_States_presidential_election).\n\nThe most recent time a non-Democrat non-Republican received over 10%  of the national popular vote was 1992, with Perot-Stockdale winning 19%. (Perot-Choate came close in 1996, with 8%.)",
+    "createdTime": "2021-02-19T08:00:00Z",
+    "createdTimeStr": "2021-02-19",
+    "closeTimeStr": "2024-11-04",
+    "resolutionTime": 1730764800000,
+    "resolveTimeStr": "2024-11-04",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730479310675,
+        "2024-11-01",
+        209,
+        0.034371047759337664
+      ]
+    ]
+  },
+  {
+    "question": "Will Ukraine sever the land bridge between Crimea and Russia before 2025?",
+    "background_text": "In late February and March 2014, following the Euromaidan uprising and removal of pro-Russian Ukrainian President Viktor Yanukovych, thinly disguised Russian military and paramilitary forces seized control of the Crimean peninsula in the far South of Ukraine and of most of the provinces of Donetsk and Luhansk in its East, leading to a protracted conflict.\n\nIn February 2022, Russia launched its full-scale conventional invasion of Ukraine. One of its first objectives was to seize the band of territory in Ukraine's southeast, between the Azov Sea and the Dnipro river, which connects Crimea in the south and Donetsk and Luhansk in the East.\n\nThrough the Spring and Summer of 2022, Ukraine achieved a series of counteroffensive victories and expelled Russian forces from a large area of the country. In September, Zaluzhny, the commander-in-chief of the Armed Forces of Ukraine (AFU), in his [programmatic article](https://www.ukrinform.ua/rubric-ato/3566162-ak-zabezpeciti-voennu-kampaniu-u-2023-roci-ukrainskij-poglad.html) on Ukraine\u2019s coming campaign of 2023, called Crimea the \"*center of gravity of the enemy*\" and advised planning operations to seize it. Removing the Russian protective belt around the peninsula would be the first step towards achieving this goal. If executed simultaneously with destroying the Crimean bridge near Kerch it would cut off Crimea from supplies by land. Already in August, Arestovych, an advisor to president Zelensky, had [floated the idea]( https://www.unian.net/war/arestovich-schitaet-uspeh-v-melitopole-strategicheski-vazhnym-dlya-vsu-novosti-vtorzheniya-rossii-na-ukrainu-11935857.html) of an offensive on Melitopol, a key transportation hub on the land bridge, and opined that its success would collapse the entire Russian frontline. \n\nIn November 2022, with their supply lines in serious danger from Ukrainian artillery, the Russian occupiers fled Kherson for the left (eastern) bank of the Dnipro, leaving the southeastern land bridge as the obvious next objective. Several Russian military bloggers predicted a land bridge offensive, with variations in timing, possible tactics and the exact direction of attack, e.g. [Dimitriev](https://t.me/russ_orientalist/12458), [MIG]( https://t.me/mig41/22148), [Moscow Calling]( https://t.me/m0sc0wcalling/14259), [Nesmiyan]( https://t.me/RSaponkov/3947) and [Saponkov]( https://t.me/RSaponkov/3947).\n\nOn the Ukrainian side, the [New York Times cited](https://www.nytimes.com/2022/11/12/world/europe/ukraine-war-strategy-russia.html) \"*hints from the troops on the ground and volunteers close to them*\" that preparations for such an offensive were in the works. Russian forces were said to be aware of the danger and [to have been reinforcing their units and fortifying their lines]( https://ria.ru/20221019/svo-1825016250.html) in the Southeast for some time.\n\nThere is some flexibility with the direction of the offensive. Ukraine can strike in the east, towards Mariupol, in the center, towards Berdyansk or Melitopol (the most discussed option), or even in the west, from the newly captured Kherson towards Henichesk. Cutting the land bridge in two could be a first step to reoccupying it entirely, leaving Russia with no more territory than it started with, and potentially bringing the war closer to its termination.\n\nThe Ukrainian offensive [began in June 2022](https://www.washingtonpost.com/world/2023/06/08/russia-ukraine-war-news-counteroffensive/), but as of December 2023, it does not appear close to severing the land bridge, and in fact there are [significant doubts about its chances](https://www.washingtonpost.com/world/2023/12/04/ukraine-counteroffensive-us-planning-russia-war/) [of](https://www.nytimes.com/2023/12/11/us/politics/us-ukraine-war-strategy.html)  [success](https://www.washingtonpost.com/opinions/2023/12/07/ukraine-counteroffensive-russia-war-drones-stalemate/). Even so, [Ukraine will still get F-16s and other weapon systems](https://www.msn.com/en-us/news/world/ukraines-imminent-f-16s-arrival-only-part-of-broader-defense-talks-mod-reveals/ar-AA1ldR3c), and [Zelenzky appears determined to keep fighting](https://www.cbsnews.com/news/ukraine-russia-war-zelenskyy-counteroffensive-results-ap-interview/), [despite](https://www.bbc.com/news/world-europe-67636302) political difficulties for providing military aid.",
+    "createdTime": "2023-12-13T16:23:00Z",
+    "createdTimeStr": "2023-12-13",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735711140000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730886542719,
+        "2024-11-06",
+        212,
+        0.09197806839837443
+      ]
+    ]
+  },
+  {
+    "question": "Will North Korea perform its seventh nuclear test before 2025?",
+    "background_text": "North Korea's nuclear program has a long history, but the [first North Korean nuclear test](https://en.wikipedia.org/wiki/2006_North_Korean_nuclear_test) was conducted in 2006. Its max yield was smaller than expected, with most sources estimating it as less than 1 kiloton of TNT. Since then, North Korea has conducted five more tests, with [the last one](https://en.wikipedia.org/wiki/2017_North_Korean_nuclear_test) taking place in 2017 and having a max yield between 50 and 260 kilotons. \n\nRecent reports suggest that North Korea is planning a seventh nuclear test to coincide with the 2024 US Presidential Election. According to [Bloomberg](https://www.bloomberg.com/news/articles/2024-09-26/north-korea-looking-at-nuke-test-near-us-vote-spy-agency-says):\n\n> Detonating a nuclear device would send a strong signal that no matter who wins the US presidential race, North Korea will press ahead with its atomic ambitions as it develops weapons that have the ability to strike America and its allies.",
+    "createdTime": "2024-10-15T18:32:28.218789Z",
+    "createdTimeStr": "2024-10-15",
+    "closeTimeStr": "2024-11-08",
+    "resolutionTime": 1731135600000,
+    "resolveTimeStr": "2024-11-08",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730447830657,
+        "2024-11-01",
+        52,
+        0.13495000239229565
+      ]
+    ]
+  },
+  {
+    "question": "Will Ali Khamenei cease to be supreme leader of Iran in 2024?",
+    "background_text": "[Ali Khamenei](https://en.wikipedia.org/wiki/Ali_Khamenei) has been Supreme Leader of Iran since 1989. His predecessor, Ruhollah Khomeini, the first Supreme Leader of Iran, had formally selected a successor in 1985, four years before his death in 1989. However, after falling out with his chosen successor he selected Ali Khamenei in 1989. Ali Khamenei [has yet to publicly name a successor](https://agsiw.org/khameneis-succession-dilemma-to-name-or-not-to-name-a-successor-designate/).\n\nIn late 2022 and early 2023, [large scale protests](https://en.wikipedia.org/wiki/Mahsa_Amini_protests) and unrest took place in Iran, sparked by the death of Mahsa Amini in police custody after she was arrested for violating the hijab law. The protests [had largely ended](https://www.nbcnews.com/news/world/irans-protests-crushed-mahsa-aminis-death-still-felt-year-later-world-rcna105003) after the spring of 2023.",
+    "createdTime": "2024-01-01T07:00:00Z",
+    "createdTimeStr": "2024-01-01",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735714800000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730472448091,
+        "2024-11-01",
+        500,
+        0.048548323661794256
+      ]
+    ]
+  },
+  {
+    "question": "Before January 5, 2025, will the KP lineage constitute less than 50% of the COVID-19 variants monitored in the US?",
+    "background_text": "As of the CDC's [variant proportions Nowcast](https://covid.cdc.gov/covid-data-tracker/#variant-proportions) for October 26, 2024,  the KP lineage had a combined estimate of 68% of sequenced variants in the United States for the two-week period ending on that date. As an [offshoot](https://abcnews.go.com/Health/kp2-now-dominant-covid-variant-experts-us-summer/story?id=110166187) of the [omicron variant](https://en.wikipedia.org/wiki/SARS-CoV-2_Omicron_variant), KP (specifically KP.2 at the time) [first reached](https://www.cdc.gov/mmwr/volumes/73/wr/mm7342a1.htm) >10% prevalence in April 2024. KP.3.1.1 [became](https://www.cdc.gov/ncird/whats-new/kp-3-1-1-is-the-predominant-variant.html) the predominant variant in August 2024. \n\nRecently another new COVID variant has been rapidly [growing](https://www.goerie.com/story/news/2024/10/22/what-is-covid-19-variant-xec-spreading-in-pennsylvania/75794702007/) in the United States, the XEC variant, which is estimated at 17% according to the October 26th Nowcast. This is a sharp increase from the two-week period ended September 14, 2024, when it was 2%. Even at 17% following its rapid gains, XEC is still a distant second to KP.3.1.1, which is 57% according to the Nowcast. However, results from [one recent study](https://www.biorxiv.org/content/10.1101/2024.10.16.618773v1) \"suggest that XEC has the potential to outcompete the other major lineage including KP.3.1.1.\"\n\nAt the time of this question, CDC estimates variant proportions using two-week periods, using two different calculations: weighted estimates and Nowcast estimates. According [to CDC](https://covid.cdc.gov/covid-data-tracker/#variant-proportions):\n\n>Weighted estimates (provided for all two-week periods except the most recent two, two-week periods) are variant proportions that are based on empirical (observed) genomic sequencing data. These estimates are not available for the most recent two-week periods because of the time it takes to generate the sequencing data, including sample collection, specimen treatment, shipping, analysis, and upload into public databases.\n\n>Lineages with weighted estimates less than 1% of all circulating variants are combined with their parent lineage. When the weighted estimate of a lineage crosses the 1% threshold and has substitutions in the spike protein that could affect vaccine efficacy, transmission, or severity, it may be separated from its parent lineage and displayed on its own in the variant proportions data.\n\nIn contrast:\n\n>Nowcast estimates (provided for the most recent two two-week periods when the \"Nowcast on\" option is selected below) are model-based projections of variant proportions for the most recent two-week periods to enable timely public health action. CDC uses the Nowcast to forecast variant proportions before the weighted estimates are available for a given two-week period.\n\nDue to the greater reliability,  verifiability, and empirical basis of the Weighted estimate, this question resolves based on that figure.",
+    "createdTime": "2024-11-04T15:30:00Z",
+    "createdTimeStr": "2024-11-04",
+    "closeTimeStr": "2024-11-05",
+    "resolutionTime": 1730849400000,
+    "resolveTimeStr": "2024-11-05",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1730818457789,
+        "2024-11-05",
+        32,
+        0.6152611306619854
+      ]
+    ]
+  },
+  {
+    "question": "Will the IMF approve debt service relief for the US before 2025?",
+    "background_text": "The US' national debt has [grown significantly](https://fred.stlouisfed.org/series/GFDEBTN/), particularly during the 2008 global financial crisis and the COVID-19 pandemic.  Concerns over a potential debt crisis have been voiced repeatedly, particularly during [reoccurring legislative debates to raise the debt ceiling](https://en.wikipedia.org/wiki/United_States_debt_ceiling#Legislative_history).  Despite this, the US has had [very low interest rates](https://en.wikipedia.org/wiki/National_debt_of_the_United_States#Negative_real_interest_rates) since 2010, both encouraging the US to continue borrowing at cheap rates, and signalling that lenders consider the US government to be a reliable and safe borrower.\n\nIf this were to escalate into a criss, the US could be so far behind on its debt that the IMF would be called upon to forgive some of their debt.  Notably, the IMF provided debt service [for Greece in 2011](https://en.wikipedia.org/wiki/Greek_government-debt_crisis) and for [multiple Latin American Nations](https://en.wikipedia.org/wiki/Latin_American_debt_crisis) in the 1980s.",
+    "createdTime": "2021-10-30T23:00:00Z",
+    "createdTimeStr": "2021-10-30",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735693200000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730479776930,
+        "2024-11-01",
+        47,
+        0.0184587114985397
+      ]
+    ]
+  },
+  {
+    "question": "Will more than 500 combatants die as a result of an armed conflict in the Balkans by 2025?",
+    "background_text": "Since the start of the war in Ukraine, the Western Balkan region has seen a flare up in tension both in [Kosovo](https://www.rferl.org/a/kosovo-serbia-border-corssing-blocked-tensions/31967812.html) and in [Republika Srpska](https://www.aljazeera.com/news/2022/2/21/eu-mulls-ways-to-ease-tensions-in-bosnia-to-prevent-break-up), prompting some commentators to speculate that this may result in a war / civil war. This question aims to ascertain the probability of an armed conflict of at least a medium magnitude in the region. To avoid any possible conflict on the definition of 'war' or 'civil war', the question is stated in terms of casualties of armed conflict.",
+    "createdTime": "2022-08-12T21:00:00Z",
+    "createdTimeStr": "2022-08-12",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735711140000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730480142665,
+        "2024-11-01",
+        74,
+        0.04157204430786345
+      ]
+    ]
+  },
+  {
+    "question": "Will Lebanon come under French rule again before 2025?",
+    "background_text": "",
+    "createdTime": "2020-08-13T13:00:00Z",
+    "createdTimeStr": "2020-08-13",
+    "closeTimeStr": "2025-01-01",
+    "resolutionTime": 1735768800000,
+    "resolveTimeStr": "2025-01-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730735173912,
+        "2024-11-04",
+        209,
+        0.004790000628741489
+      ]
+    ]
+  },
+  {
+    "question": "Will any two countries out of the US, UK, Germany, Canada, France, or Australia curtail diplomatic ties with Israel before 2025, citing Israel\u2019s military actions in Gaza?",
+    "background_text": "*This forecasting question is associated with the Verity controversy: [Will Israel Lose International Support for Its Campaign in Gaza?](https://www.verity.news/controversy/Will-Israel-Lose-International-Support-for-its-Campaign-Against-Hamas)*\n\n---\n\nSince its establishment in 1948, Israel has seen [growing international recognition](https://en.wikipedia.org/wiki/Foreign\\_relations\\_of\\_Israel), though is still not universally recognized due to the longstanding [conflict between Israel and a number of the Arab countries](https://en.wikipedia.org/wiki/Arab%E2%80%93Israeli\\_conflict). In particular, the [United States has been a close ally of Israel](https://www.vox.com/world-politics/23916266/us-israel-support-ally-gaza-war-aid), with the US having provided [at least $158 billion](https://sgp.fas.org/crs/mideast/RL33222.pdf) in bilateral assistance and missile defense funding since Israel was established.\n\nIn the wake of the October 7, 2023, Hamas attack against Israel \u2014 which saw [nearly 1,200 people killed](https://www.cfr.org/backgrounder/what-hamas\\#chapter-title-0-8) and [over 250 taken hostage](https://www.bbc.com/news/world-middle-east-67053011) \u2014  many friendly countries [expressed support for Israel](https://en.wikipedia.org/wiki/International\\_reactions\\_to\\_the\\_Israel%E2%80%93Hamas\\_war). However, Israel\u2019s responding military campaign against Hamas in Gaza led a [number of countries to sever relations](https://www.axios.com/2023/11/16/israel-gaza-war-countries-against-cease-fire-diplomats) due to the humanitarian situation, which has seen nearly [40,000 Palestinians killed](https://www.ochaopt.org/) as of August 2024 according to the Gaza Ministry of Health (though this number is disputed by Israel), and close to two million Gazans displaced. The US, Germany, Italy, the UK, and Canada have supplied Israel with weapons since the beginning of the war, though Canada, Italy, and the Netherlands [halted arms sales to Israel in early 2024](https://www.reuters.com/world/who-are-israels-main-weapons-suppliers-who-has-halted-exports-2024-05-09/).\n\nBut as the war approaches one year of duration and Israel has [expanded into other regions in Gaza](https://thehill.com/policy/defense/4660135-israel-moves-deeper-into-rafah/), the international mood may be shifting against Israel. In March of 2024, the US abstained on a [UN Security Council Resolution demanding a ceasefire](https://www.cnbc.com/2024/03/26/israel-gaza-us-abstention-on-un-cease-fire-vote-triggers-netanyahu-rage.html), allowing it to pass against the wishes of Israel. And in May 2024 the International Criminal Court (ICC) [sought arrest warrants](https://www.newsweek.com/israel-losing-diplomatic-war-palestine-united-nations-europe-1904064) for Israeli Prime Minister Benjamin Netanyahu and Defense Minister Yoav Gallant. Additionally, a number of countries have now granted diplomatic recognition to Palestine in response to the conflict. These actions have [caused some to argue](https://time.com/6963032/israel-netanyahu-allies-global-standing/) that the world is turning against Israel over its operation in Gaza.\n\nThe countries of the United States, the United Kingdom, Germany, Canada, France, and Australia make up a subset of the [G20](https://en.wikipedia.org/wiki/G20), and are among the ten member states of the G20 that [do not recognize Palestine](https://en.wikipedia.org/wiki/International\\_recognition\\_of\\_the\\_State\\_of\\_Palestine\\#:\\~:text=while%20ten%20countries%20(Australia%2C%20Canada%2C%20France%2C%20Germany%2C%20Italy%2C%20Japan%2C%20Mexico%2C%20South%20Korea%2C%20the%20United%20Kingdom%2C%20and%20the%20United%20States)%20have%20not).",
+    "createdTime": "2024-08-19T16:45:00Z",
+    "createdTimeStr": "2024-08-19",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735714800000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1731311547859,
+        "2024-11-10",
+        43,
+        0.011908583040804954
+      ]
+    ]
+  },
+  {
+    "question": "Will cannabis be removed from Schedule I of the Controlled Substance Act before 2025?",
+    "background_text": "As of the end of 2023, the legal landscape for cannabis in the United States has undergone significant changes, marking a departure from previous years. Recreational marijuana is now legal in 24 states and the District of Columbia. This represents a substantial increase from the earlier status when it was legal in only 9 states and DC. Additionally, medical marijuana has been legalized in 40 states and the District of Columbia.\n\nWill this changing landscape at the state level influence federal policy? The Schedule I classification, as defined by the Controlled Substances Act, is reserved for substances with a high potential for abuse, no currently accepted medical use in treatment in the United States, and a lack of accepted safety for use under medical supervision. Given the growing acceptance and legalization of cannabis at the state level, there is increasing debate and speculation about potential changes to its federal classification.",
+    "createdTime": "2024-01-01T07:00:00Z",
+    "createdTimeStr": "2024-01-01",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735657200000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730550010141,
+        "2024-11-02",
+        521,
+        0.1551651496224737
+      ]
+    ]
+  },
+  {
+    "question": "Will a nuclear weapon detonation kill at least 10 people in 2024?",
+    "background_text": "The threat of nuclear weapons has loomed over the world since over one hundred thousand were killed when the United States [dropped nuclear bombs on Hiroshima and Nagasaki](https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki) in August of 1945. More recently, the Russian invasion of Ukraine has [elevated the risk](https://www.metaculus.com/questions/12591/nuclear-detonation-in-ukraine-by-2023/) of a nuclear detonation as Russia is one of [nine states](https://fas.org/initiative/status-world-nuclear-forces/) known to possess nuclear weapons.",
+    "createdTime": "2024-01-01T07:00:00Z",
+    "createdTimeStr": "2024-01-01",
+    "closeTimeStr": "2024-12-31",
+    "resolutionTime": 1735714800000,
+    "resolveTimeStr": "2024-12-31",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730495163737,
+        "2024-11-01",
+        949,
+        0.049619676892423366
+      ]
+    ]
+  },
+  {
+    "question": "Will the IAU rework its definition of planetary status by Jan 1, 2025?",
+    "background_text": "",
+    "createdTime": "2019-12-27T23:00:00Z",
+    "createdTimeStr": "2019-12-27",
+    "closeTimeStr": "2025-01-01",
+    "resolutionTime": 1735740060000,
+    "resolveTimeStr": "2025-01-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1731001813241,
+        "2024-11-07",
+        62,
+        0.13831584579007208
+      ]
+    ]
+  },
+  {
+    "question": "Will Astro Bot win in any of these categories at the 2024 Golden Joystick Awards?\n",
+    "background_text": "[Voting Is Now Open in the 42nd Golden Joystick Awards](https://www.gamespress.com/Voting-Is-Now-Open-in-the-42nd-Golden-Joystick-Awards)",
+    "createdTime": "2024-11-07T15:30:00Z",
+    "createdTimeStr": "2024-11-07",
+    "closeTimeStr": "2024-11-08",
+    "resolutionTime": 1731108600000,
+    "resolveTimeStr": "2024-11-08",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1731073452139,
+        "2024-11-08",
+        32,
+        0.6231985542728933
+      ]
+    ]
+  },
+  {
+    "question": "Will Blue Origin launch its New Glenn rocket before January 1, 2025?",
+    "background_text": "Aerospace company [Blue Origin](https://www.blueorigin.com/), founded by [Jeff Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos), is preparing for the [inaugural launch](https://arstechnica.com/space/2024/12/intrigue-swirls-as-blue-origin-races-toward-year-end-deadline-for-new-glenn/) of its highly anticipated [New Glenn](https://en.wikipedia.org/wiki/New_Glenn) rocket. This heavy-lift orbital launch vehicle, named after astronaut John Glenn, represents a key step in the company\u2019s mission to advance commercial spaceflight and compete with other aerospace giants such as SpaceX. The rocket features a 7-meter-diameter payload fairing, providing significant capacity compared to conventional boosters, and is designed for both government and commercial customers.\n\nThe rocket is currently at Launch Complex-36 in Florida, with Blue Origin targeting a first flight by the end of 2024. However, a hot-fire test, a critical step before liftoff, has faced [repeated delays](https://www.bnnbloomberg.ca/business/company-news/2024/08/21/bezos-blue-origin-suffers-fiery-setback-building-new-rocket/), and final regulatory approvals are pending from the Federal Aviation Administration. However, the company has publicly signaled that the rocket is \"[on track](https://techcrunch.com/2024/12/09/blue-origin-says-new-glenn-on-track-to-launch-before-end-of-2024/?guccounter=1)\" for its maiden flight.",
+    "createdTime": "2024-12-12T00:52:26.306297Z",
+    "createdTimeStr": "2024-12-12",
+    "closeTimeStr": "2025-01-01",
+    "resolutionTime": 1735747140000,
+    "resolveTimeStr": "2025-01-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1734371107347,
+        "2024-12-16",
+        32,
+        0.3084656695874754
+      ]
+    ]
+  },
+  {
+    "question": "Will Republicans win the most votes in the 2024 elections for the House of Representatives?",
+    "background_text": "[[Wikipedia article](https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections)]\n\nAll 50 U.S. States will vote on November 5, 2024 to elect the 435 members of the House of Representatives for the 119th Congress; seats are allocated to States in proportion to population, but always at least one. If the delegation has two members or more, States are divided into single-member districts. Most states elect their representatives by the plurality method, where voters cast a vote for one candidate and the one with the highest number of votes wins.\n\nThe U.S. has a strong two-party system, with the Republicans (GOP) and Democrats taking center stage in the country's political life and other parties having little influence.\n\nOf the past 10 House elections, in 3 of them the party winning the popular vote across all districts did not win the majority of House seats:\n\n| Election | Popular vote won by GOP | Seats won by GOP (out of 435) |\n|----------|-------------------------|------------------------|\n| 2022     | 50.6%                   | 222                    |\n| 2020     | 47.2%                   | 213                    |\n| 2018     | 44.8%                   | 199                    |\n| 2016     | 49.1%*                   | 241*                    |\n| 2014     | 51.2%                   | 247                    |\n| 2012     | 47.7%*                   | 234*                    |\n| 2010     | 51.7%                   | 242                    |\n| 2008     | 42.6%                   | 178                    |\n| 2006     | 44.3%                   | 202                    |\n| 2004     | 49.4%*                   | 232*                    |\n\n*Election in which the popular vote winner did not achieve a House majority.",
+    "createdTime": "2024-05-23T14:30:00Z",
+    "createdTimeStr": "2024-05-23",
+    "closeTimeStr": "2024-12-03",
+    "resolutionTime": 1733223600000,
+    "resolveTimeStr": "2024-12-03",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1731421770510,
+        "2024-11-12",
+        32,
+        0.9526223568576083
+      ]
+    ]
+  },
+  {
+    "question": "Will there be fewer than 6 conservative justices on the SCOTUS on January 20, 2025?",
+    "background_text": "Define a conservative Supreme Court of the United States justice as a justice appointed by a Republican president. As of January 14th 2021, there are [6 conservative Supreme Court justices](https://en.wikipedia.org/wiki/List_of_justices_of_the_Supreme_Court_of_the_United_States): John Roberts, Clarence Thomas, Samuel Alito, Neil Gorsuch, Brett Kavanaugh, and Amy Coney Barrett.",
+    "createdTime": "2021-01-17T08:00:00Z",
+    "createdTimeStr": "2021-01-17",
+    "closeTimeStr": "2025-01-20",
+    "resolutionTime": 1737388800000,
+    "resolveTimeStr": "2025-01-20",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730676483888,
+        "2024-11-03",
+        92,
+        0.15668465321496694
+      ]
+    ]
+  },
+  {
+    "question": "Will Tether collapse before 2025?",
+    "background_text": "[Tether](https://en.wikipedia.org/wiki/Tether_(cryptocurrency)) is an asset-backed cryptocurrency stablecoin. Tether Limited, the company behind it, has stated that it maintains USD $1 of asset reserves for each USDT 1 issued, but has been fined by regulators for failing to do this and has failed to present audits showing sufficient asset reserves.",
+    "createdTime": "2023-01-05T17:00:00Z",
+    "createdTimeStr": "2023-01-05",
+    "closeTimeStr": "2025-01-01",
+    "resolutionTime": 1735804740000,
+    "resolveTimeStr": "2025-01-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730925346680,
+        "2024-11-06",
+        74,
+        0.05759978048874668
+      ]
+    ]
+  },
+  {
+    "question": "Will MDMA be FDA-approved for the treatment of PTSD before 2025?",
+    "background_text": "*Related Question on Metaculus:*\n\n* [Will MDMA be approved for the treatment of PTSD by 2025?](https://www.metaculus.com/questions/1384/qualia-research-institute-question-series-will-mdma-be-approved-for-the-treatment-of-ptsd-by-2025/) *[closed]*\n\n----\n\n3,4-Methyl\u200benedioxy\u200bmethamphetamine (MDMA), also known as the club drug 'Ecstasy,' has properties long recognized as potentially useful for medical psychotherapists. Most research to date on MDMA-assisted psychotherapy has focused on the treatment of Post-Traumatic Stress Disorder, where results are broadly very promising despite some known dangers and pitfalls.\n\nIn July 2022, [a letter from the U.S. Department of Health and Human Services](https://maps.org/2022/07/27/statement-biden-administration-preparing-for-potential-fda-approval-of-mdma-assisted-therapy-for-ptsd/) was made public describing the Food and Drug Administration\u2019s \u201canticipated approval\u2026within approximately 24 months\u201d of MDMA as a legally prescribed adjunct to psychotherapy for PTSD.",
+    "createdTime": "2022-10-04T04:00:00Z",
+    "createdTimeStr": "2022-10-04",
+    "closeTimeStr": "2025-01-01",
+    "resolutionTime": 1735736340000,
+    "resolveTimeStr": "2025-01-01",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1730615284001,
+        "2024-11-02",
+        88,
+        0.11204964770175263
+      ]
+    ]
+  }
+]

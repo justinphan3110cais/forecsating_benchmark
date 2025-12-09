@@ -1,0 +1,5284 @@
+[
+  {
+    "id": "qowwepu7nBfpaNyTIzPK",
+    "question": "Will GPT-4.5 be released in January?",
+    "background_text": "Can be private or alpha or on a waitlist as long as some official announcement is made. Previous GPT-4.5 speculations:    ",
+    "tags": [
+      "gpt5-speculation",
+      "gpt4",
+      "gpt4-speculation"
+    ],
+    "resolution": false,
+    "createdTime": 1705158878663,
+    "createdTimeStr": "2024-01-13",
+    "resolutionTime": 1707064046115,
+    "resolutionTimeStr": "2024-02-04",
+    "lastBetTime": 1706739823776,
+    "lastBetTimeStr": "2024-01-31",
+    "crowd_pred": [
+      [
+        1705539912153,
+        "2024-01-17",
+        0.05209602559917179
+      ],
+      [
+        1705920945643,
+        "2024-01-22",
+        0.0744598506240844
+      ],
+      [
+        1706301979134,
+        "2024-01-26",
+        0.028356884274526564
+      ],
+      [
+        1706683012624,
+        "2024-01-30",
+        0.008627368400231601
+      ],
+      [
+        1707064046115,
+        "2024-02-04",
+        0.008310382340405783
+      ]
+    ],
+    "uniqueBettorCount": 116,
+    "volume": 46057.35344241279
+  },
+  {
+    "id": "NSDctuGXiUpmN7VOy3nS",
+    "question": "Will Gaza have a ceasefire before the beginning of Ramadan, 2024?",
+    "background_text": "This year, Ramadan is expected to begin in the evening on ",
+    "tags": [
+      "israelhamas-conflict-2023",
+      "israel",
+      "arabisraeli-conflict",
+      "religion",
+      "palestine",
+      "ceasefire",
+      "islam"
+    ],
+    "resolution": false,
+    "createdTime": 1706779053603,
+    "createdTimeStr": "2024-02-01",
+    "resolutionTime": 1710052662663,
+    "resolutionTimeStr": "2024-03-09",
+    "lastBetTime": 1710052567980,
+    "lastBetTimeStr": "2024-03-09",
+    "crowd_pred": [
+      [
+        1707433775415,
+        "2024-02-08",
+        0.23568833385339732
+      ],
+      [
+        1708088497227,
+        "2024-02-16",
+        0.2756770459815849
+      ],
+      [
+        1708743219039,
+        "2024-02-23",
+        0.1687369084755812
+      ],
+      [
+        1709397940851,
+        "2024-03-02",
+        0.15918021175387806
+      ],
+      [
+        1710052662663,
+        "2024-03-09",
+        0.007222105832881521
+      ]
+    ],
+    "uniqueBettorCount": 120,
+    "volume": 55292.66362983058
+  },
+  {
+    "id": "CTmSTurj7VbDtYR5guZm",
+    "question": "Will Nikki Haley have at least 15% on 538's Republican Primary 2024 page at the end of Groundhog Day? (Feb 2)",
+    "background_text": "Info: ",
+    "tags": [
+      "us-politics",
+      "politics-default",
+      "2024-us-presidential-election",
+      "magaland",
+      "united-states",
+      "2024-republican-primaries",
+      "nikki-haley",
+      "fivethirtyeight",
+      "holidays",
+      "ron-desantis"
+    ],
+    "resolution": true,
+    "createdTime": 1705958885745,
+    "createdTimeStr": "2024-01-22",
+    "resolutionTime": 1706977167488,
+    "resolutionTimeStr": "2024-02-03",
+    "lastBetTime": 1706920667538,
+    "lastBetTimeStr": "2024-02-02",
+    "crowd_pred": [
+      [
+        1706162542093,
+        "2024-01-24",
+        0.24000000000000013
+      ],
+      [
+        1706366198442,
+        "2024-01-27",
+        0.8426018636789707
+      ],
+      [
+        1706569854790,
+        "2024-01-29",
+        0.8109491025196831
+      ],
+      [
+        1706773511139,
+        "2024-01-31",
+        0.966626281255864
+      ],
+      [
+        1706977167488,
+        "2024-02-03",
+        0.9957742128419578
+      ]
+    ],
+    "uniqueBettorCount": 102,
+    "volume": 40978.90941373446
+  },
+  {
+    "id": "LlPiJmkZ6hG5SIJUKNhT",
+    "question": "Will Israel and Iran be engaged in full scale war by the end of June 2024?",
+    "background_text": "",
+    "tags": [
+      "israel",
+      "global-macro",
+      "middle-east",
+      "iran"
+    ],
+    "resolution": false,
+    "createdTime": 1704410952944,
+    "createdTimeStr": "2024-01-04",
+    "resolutionTime": 1719809391162,
+    "resolutionTimeStr": "2024-06-30",
+    "lastBetTime": 1719797752878,
+    "lastBetTimeStr": "2024-06-30",
+    "crowd_pred": [
+      [
+        1707490640587,
+        "2024-02-09",
+        0.10266979113781283
+      ],
+      [
+        1710570328231,
+        "2024-03-15",
+        0.1463265846163203
+      ],
+      [
+        1713650015874,
+        "2024-04-20",
+        0.0881385117285632
+      ],
+      [
+        1716729703518,
+        "2024-05-26",
+        0.06590445614985549
+      ],
+      [
+        1719809391162,
+        "2024-06-30",
+        0.019812144135698023
+      ]
+    ],
+    "uniqueBettorCount": 202,
+    "volume": 45876.52382175158
+  },
+  {
+    "id": "u0U1vvCI6eW0nQLYjylK",
+    "question": "Will Biden and Trump have a public debate in 2024 before the election?",
+    "background_text": "",
+    "tags": [
+      "us-politics",
+      "politics-default",
+      "2024-us-presidential-election",
+      "the-life-of-biden",
+      "donald-trump",
+      "debate",
+      "united-states"
+    ],
+    "resolution": true,
+    "createdTime": 1710171577343,
+    "createdTimeStr": "2024-03-11",
+    "resolutionTime": 1719539184911,
+    "resolutionTimeStr": "2024-06-27",
+    "lastBetTime": 1719534165308,
+    "lastBetTimeStr": "2024-06-27",
+    "crowd_pred": [
+      [
+        1712045098856,
+        "2024-04-02",
+        0.6630007159810718
+      ],
+      [
+        1713918620370,
+        "2024-04-23",
+        0.5599999999999999
+      ],
+      [
+        1715792141883,
+        "2024-05-15",
+        0.8611002723583409
+      ],
+      [
+        1717665663397,
+        "2024-06-06",
+        0.8661942778670523
+      ],
+      [
+        1719539184911,
+        "2024-06-27",
+        0.9862258390916477
+      ]
+    ],
+    "uniqueBettorCount": 99,
+    "volume": 22509.2028383994
+  },
+  {
+    "id": "7uEuxICTkk6SguTdf8jo",
+    "question": "[short-fuse \ud83d\udca3] Does *my* mom know who Sam Altman is?",
+    "background_text": "Does MY mom know who Sam Altman is? I will talk to my mom on Thursday and ask her a simple question, \u201cMom, who is Sam Altman?\u201d. If she says, \u201cThe CEO of OpenAI\u201d, easy YES. If she says, \u201cI have no idea\u201d, easy NO.  How much of a household name is SamA? Some facts that may influence your betting: This market is duplicated from a @mattyb market.",
+    "tags": [
+      "personal",
+      "short-fuse",
+      "ai",
+      "technology-default",
+      "sam-altman"
+    ],
+    "resolution": false,
+    "createdTime": 1713736120362,
+    "createdTimeStr": "2024-04-21",
+    "resolutionTime": 1714190629002,
+    "resolutionTimeStr": "2024-04-26",
+    "lastBetTime": 1714184983436,
+    "lastBetTimeStr": "2024-04-26",
+    "crowd_pred": [
+      [
+        1713827022090,
+        "2024-04-22",
+        0.6654638211979657
+      ],
+      [
+        1713917923818,
+        "2024-04-23",
+        0.7174655642259662
+      ],
+      [
+        1714008825546,
+        "2024-04-24",
+        0.8010366795956018
+      ],
+      [
+        1714099727274,
+        "2024-04-25",
+        0.7121486733663057
+      ],
+      [
+        1714190629002,
+        "2024-04-26",
+        0.6500722881011599
+      ]
+    ],
+    "uniqueBettorCount": 116,
+    "volume": 5108.304519549957
+  },
+  {
+    "id": "jK1p8R0jGXLhLcUQoAtc",
+    "question": "Will Jason have a 2+ hour stream on Friday?",
+    "background_text": "",
+    "tags": [
+      "jasontheween"
+    ],
+    "resolution": true,
+    "createdTime": 1712740437403,
+    "createdTimeStr": "2024-04-10",
+    "resolutionTime": 1712994651285,
+    "resolutionTimeStr": "2024-04-13",
+    "lastBetTime": 1712957806375,
+    "lastBetTimeStr": "2024-04-12",
+    "crowd_pred": [
+      [
+        1712791280179,
+        "2024-04-10",
+        0.8799106571052318
+      ],
+      [
+        1712842122955,
+        "2024-04-11",
+        0.8459371035347454
+      ],
+      [
+        1712892965732,
+        "2024-04-11",
+        0.8969063231008895
+      ],
+      [
+        1712943808508,
+        "2024-04-12",
+        0.9441816062564109
+      ],
+      [
+        1712994651285,
+        "2024-04-13",
+        0.9553316797381851
+      ]
+    ],
+    "uniqueBettorCount": 70,
+    "volume": 3896.9026298268673
+  },
+  {
+    "id": "F2fy7J7Oa8GRBXeQgLrZ",
+    "question": "Will Lantern Bioworks be accepted to the next cohort of YCombinator?",
+    "background_text": "Lantern is planning to apply to YCombinator. Question resolves as \"no\" if they don't.",
+    "tags": [
+      "science-default",
+      "biotech",
+      "lantern-bioworks",
+      "technology-default"
+    ],
+    "resolution": false,
+    "createdTime": 1712849842634,
+    "createdTimeStr": "2024-04-11",
+    "resolutionTime": 1717385341663,
+    "resolutionTimeStr": "2024-06-02",
+    "lastBetTime": 1717385336170,
+    "lastBetTimeStr": "2024-06-02",
+    "crowd_pred": [
+      [
+        1713756942439,
+        "2024-04-21",
+        0.17573798648845534
+      ],
+      [
+        1714664042245,
+        "2024-05-02",
+        0.22374517742784505
+      ],
+      [
+        1715571142051,
+        "2024-05-12",
+        0.25996558209564363
+      ],
+      [
+        1716478241857,
+        "2024-05-23",
+        0.14344445770774425
+      ],
+      [
+        1717385341663,
+        "2024-06-02",
+        0.056096153137757045
+      ]
+    ],
+    "uniqueBettorCount": 300,
+    "volume": 841211.7251101224
+  },
+  {
+    "id": "iI8j5AHygn2ud8C55143",
+    "question": "Will Nikki Haley still be in the GOP presidential race at the end of this week?",
+    "background_text": "Resolves YES if Nikki Haley is still running for the GOP nomination for president at the end of Jan. 27.",
+    "tags": [
+      "2024-republican-primaries",
+      "new-hampshire-primary",
+      "nikki-haley"
+    ],
+    "resolution": true,
+    "createdTime": 1705880125578,
+    "createdTimeStr": "2024-01-21",
+    "resolutionTime": 1706423924847,
+    "resolutionTimeStr": "2024-01-27",
+    "lastBetTime": 1706419511858,
+    "lastBetTimeStr": "2024-01-27",
+    "crowd_pred": [
+      [
+        1705988885431,
+        "2024-01-22",
+        0.35483457616767394
+      ],
+      [
+        1706097645285,
+        "2024-01-24",
+        0.9381506885147176
+      ],
+      [
+        1706206405139,
+        "2024-01-25",
+        0.9516339352501312
+      ],
+      [
+        1706315164993,
+        "2024-01-26",
+        0.9878545886471384
+      ],
+      [
+        1706423924847,
+        "2024-01-27",
+        0.9951498552716567
+      ]
+    ],
+    "uniqueBettorCount": 90,
+    "volume": 36433.2946447318
+  },
+  {
+    "id": "zX320t6B0TMjCa9GPzze",
+    "question": "Will Neuralink implant a device into a human\u2019s brain by the end of 2024?",
+    "background_text": "Resolves YES if a Neuralink device is implanted into a human brain via a clinical trial study (as they advertised). To ensure source legitimacy and the market\u2019s integrity, it will RESOLVE YES when an official announcement of the Neuralink human implantation is published on a legitimate channel like a company announcement or clinical trials reference result (which should not be a problem if the milestone was achieved and will be out shortly like their previous announcements, with ",
+    "tags": [
+      "braincomputer-interface",
+      "neuroscience"
+    ],
+    "resolution": true,
+    "createdTime": 1704161093355,
+    "createdTimeStr": "2024-01-01",
+    "resolutionTime": 1710976307291,
+    "resolutionTimeStr": "2024-03-20",
+    "lastBetTime": 1710973490321,
+    "lastBetTimeStr": "2024-03-20",
+    "crowd_pred": [
+      [
+        1705524136142,
+        "2024-01-17",
+        0.6811576398835886
+      ],
+      [
+        1706887178929,
+        "2024-02-02",
+        0.9911062175757434
+      ],
+      [
+        1708250221716,
+        "2024-02-18",
+        0.9797802199219732
+      ],
+      [
+        1709613264503,
+        "2024-03-04",
+        0.9788205560051003
+      ],
+      [
+        1710976307291,
+        "2024-03-20",
+        0.9971094367887067
+      ]
+    ],
+    "uniqueBettorCount": 159,
+    "volume": 177152.19801850888
+  },
+  {
+    "id": "08wROc3lxFdt48cySoEU",
+    "question": "Will OpenAI announce something product-related tomorrow (3/14)?",
+    "background_text": "OpenAI released GPT-4 on 3/14/23. Will they announce anything tomorrow? Very lenient on what it could be. Updated GPT-4, Jukebox V2, release date for GPT-5, whatever. As long as it's directly related to a product and not, eg, something about a lawsuit, the board, partnerships with news organizations.  I won't bet in this market, except for the last bet right before resolution if resolution is obvious.",
+    "tags": [
+      "ai",
+      "openai",
+      "technology-default"
+    ],
+    "resolution": false,
+    "createdTime": 1710375067957,
+    "createdTimeStr": "2024-03-13",
+    "resolutionTime": 1710486301812,
+    "resolutionTimeStr": "2024-03-15",
+    "lastBetTime": 1710484140449,
+    "lastBetTimeStr": "2024-03-14",
+    "crowd_pred": [
+      [
+        1710397314728,
+        "2024-03-13",
+        0.31471819246423766
+      ],
+      [
+        1710419561499,
+        "2024-03-14",
+        0.13892212445947166
+      ],
+      [
+        1710441808270,
+        "2024-03-14",
+        0.09993234801255839
+      ],
+      [
+        1710464055041,
+        "2024-03-14",
+        0.023970765787700517
+      ],
+      [
+        1710486301812,
+        "2024-03-15",
+        0.008419913353175424
+      ]
+    ],
+    "uniqueBettorCount": 113,
+    "volume": 37860.52186739598
+  },
+  {
+    "id": "8N5fdSmv5haPupI8DKg3",
+    "question": "Will GPT-5 not be announced in the month of April?",
+    "background_text": "OpenAI has recently made some hints that there may be an April release, however, if GPT-5 truly is the behemoth it is proclaimed to be, then these hints would be a bit underwhelming for the announcement that is yet to come. ",
+    "tags": [
+      "openai",
+      "world-default",
+      "science-default",
+      "politics-default",
+      "ai"
+    ],
+    "resolution": false,
+    "createdTime": 1713693469136,
+    "createdTimeStr": "2024-04-21",
+    "resolutionTime": 1714738927469,
+    "resolutionTimeStr": "2024-05-03",
+    "lastBetTime": 1714662772499,
+    "lastBetTimeStr": "2024-05-02",
+    "crowd_pred": [
+      [
+        1713902560802,
+        "2024-04-23",
+        0.04967390176768634
+      ],
+      [
+        1714111652469,
+        "2024-04-25",
+        0.03937653495402792
+      ],
+      [
+        1714320744135,
+        "2024-04-28",
+        0.015803275581366377
+      ],
+      [
+        1714529835802,
+        "2024-04-30",
+        0.010000000000000018
+      ],
+      [
+        1714738927469,
+        "2024-05-03",
+        0.095139059100517
+      ]
+    ],
+    "uniqueBettorCount": 123,
+    "volume": 22067.92159434114
+  },
+  {
+    "id": "3lF8NW6wdDAqHCMBpn2N",
+    "question": "Will Israel and Hamas enter a cease-fire before March 1, 2024?",
+    "background_text": "",
+    "tags": [
+      "israel",
+      "arabisraeli-conflict",
+      "israelhamas-conflict-2023",
+      "politics-default"
+    ],
+    "resolution": false,
+    "createdTime": 1705843330853,
+    "createdTimeStr": "2024-01-21",
+    "resolutionTime": 1709406330209,
+    "resolutionTimeStr": "2024-03-02",
+    "lastBetTime": 1709316128736,
+    "lastBetTimeStr": "2024-03-01",
+    "crowd_pred": [
+      [
+        1706555930724,
+        "2024-01-29",
+        0.594045383709533
+      ],
+      [
+        1707268530595,
+        "2024-02-06",
+        0.35498981325341533
+      ],
+      [
+        1707981130466,
+        "2024-02-14",
+        0.19522075208708345
+      ],
+      [
+        1708693730337,
+        "2024-02-23",
+        0.1057803782701892
+      ],
+      [
+        1709406330209,
+        "2024-03-02",
+        0.0035058686715855525
+      ]
+    ],
+    "uniqueBettorCount": 112,
+    "volume": 43531.32131372153
+  },
+  {
+    "id": "tnr67dSj32xMXa2lLDQa",
+    "question": "Will I make IMO 2024?",
+    "background_text": "I am in the 2024 USA TST group. Will I qualify for the IMO team? Distribution: TST day 1 - 772 TST day 2 - 771 RMM day 1 - 771 APMO - 77000 USAMO day 1 - 717 (predicted) USAMO day 2 - 770 (predicted)",
+    "tags": [
+      "competition-math",
+      "imo"
+    ],
+    "resolution": false,
+    "createdTime": 1706633712041,
+    "createdTimeStr": "2024-01-30",
+    "resolutionTime": 1713829137542,
+    "resolutionTimeStr": "2024-04-22",
+    "lastBetTime": 1713828359015,
+    "lastBetTimeStr": "2024-04-22",
+    "crowd_pred": [
+      [
+        1708072797141,
+        "2024-02-16",
+        0.7508042082480231
+      ],
+      [
+        1709511882241,
+        "2024-03-03",
+        0.7974788220293786
+      ],
+      [
+        1710950967341,
+        "2024-03-20",
+        0.4311735168132436
+      ],
+      [
+        1712390052441,
+        "2024-04-06",
+        0.3903513412835441
+      ],
+      [
+        1713829137542,
+        "2024-04-22",
+        0.09812908009791615
+      ]
+    ],
+    "uniqueBettorCount": 75,
+    "volume": 46398.400659130835
+  },
+  {
+    "id": "vjidut1soy",
+    "question": "Will France beat Belgium? | Euro 2024",
+    "background_text": "At match conclusion (regular, extra, penalty shoot-out) will France have beat Belgium?",
+    "tags": "",
+    "resolution": true,
+    "createdTime": 1719448648667,
+    "createdTimeStr": "2024-06-26",
+    "resolutionTime": 1719856282806,
+    "resolutionTimeStr": "2024-07-01",
+    "lastBetTime": 1719856261123,
+    "lastBetTimeStr": "2024-07-01",
+    "crowd_pred": [
+      [
+        1719530175494,
+        "2024-06-27",
+        0.7605011367293342
+      ],
+      [
+        1719611702322,
+        "2024-06-28",
+        0.7478431483611556
+      ],
+      [
+        1719693229150,
+        "2024-06-29",
+        0.6864266340906956
+      ],
+      [
+        1719774755978,
+        "2024-06-30",
+        0.7146053095200228
+      ],
+      [
+        1719856282806,
+        "2024-07-01",
+        0.9896641607753148
+      ]
+    ],
+    "uniqueBettorCount": 80,
+    "volume": 433511.23589421454
+  },
+  {
+    "id": "CBLzjgr87nKzWZYay12F",
+    "question": "Will the Singaporean government work with Manifold to make prediction markets by March 31st?",
+    "background_text": "Same as this ^ market, but with with a close date 1 month later. Yes, the Singaporean government has actually sent Manifold an email asking about that, see  Here's the email they received, according to Manifold (I suspect some parts are comments from Manifold, but I'm not too sure): Resolves YES if there is evidence of markets being created before the closing date about Singapore on behalf of the organization referred to in this email.",
+    "tags": [
+      "manifold-6748e065087e",
+      "singapore",
+      "manifold-business-future"
+    ],
+    "resolution": false,
+    "createdTime": 1709163308955,
+    "createdTimeStr": "2024-02-28",
+    "resolutionTime": 1711905837921,
+    "resolutionTimeStr": "2024-03-31",
+    "lastBetTime": 1711895243853,
+    "lastBetTimeStr": "2024-03-31",
+    "crowd_pred": [
+      [
+        1709711814748,
+        "2024-03-05",
+        0.4633397757886435
+      ],
+      [
+        1710260320541,
+        "2024-03-12",
+        0.4201210545111234
+      ],
+      [
+        1710808826334,
+        "2024-03-18",
+        0.5168367315927987
+      ],
+      [
+        1711357332127,
+        "2024-03-25",
+        0.1985035308557008
+      ],
+      [
+        1711905837921,
+        "2024-03-31",
+        0.013173703682271252
+      ]
+    ],
+    "uniqueBettorCount": 70,
+    "volume": 10416.299507343929
+  },
+  {
+    "id": "SJOZw5qWC7Xm35hdkak9",
+    "question": "Will Google offer a paid subscription-based chatbot by June 2024?",
+    "background_text": "Resolves YES as soon as any paid subscription is publicly available, or NO if no subscription is available by the end of May 2024. The chatbot does not have to be developed by Google, as long as the subscriptions are marketed and sold by them. If there are multiple tiers of access, resolves YES as long as at least one of them requires a paid subscription.",
+    "tags": [
+      "ai",
+      "technology-default",
+      "google-ef2cf716540e"
+    ],
+    "resolution": true,
+    "createdTime": 1706995534545,
+    "createdTimeStr": "2024-02-03",
+    "resolutionTime": 1707460196630,
+    "resolutionTimeStr": "2024-02-08",
+    "lastBetTime": 1707459013404,
+    "lastBetTimeStr": "2024-02-08",
+    "crowd_pred": [
+      [
+        1707088466962,
+        "2024-02-04",
+        0.8204361603736746
+      ],
+      [
+        1707181399379,
+        "2024-02-05",
+        0.7559619571317052
+      ],
+      [
+        1707274331796,
+        "2024-02-06",
+        0.852900195501554
+      ],
+      [
+        1707367264213,
+        "2024-02-07",
+        0.829989778479422
+      ],
+      [
+        1707460196630,
+        "2024-02-08",
+        0.9953198232843536
+      ]
+    ],
+    "uniqueBettorCount": 96,
+    "volume": 34319.66700534551
+  },
+  {
+    "id": "21LPJKf1bBYXUTvCkUHf",
+    "question": "Will Nikki Haley drop out before the Michigan Primary? (February 27)",
+    "background_text": "Resolves YES if Nikki Haley drops out before February 27, the date of the Michigan Republican Primary. ",
+    "tags": [
+      "us-politics",
+      "politics-default",
+      "new-hampshire-primary",
+      "2024-republican-primaries",
+      "nikki-haley"
+    ],
+    "resolution": false,
+    "createdTime": 1706066006910,
+    "createdTimeStr": "2024-01-23",
+    "resolutionTime": 1709039200848,
+    "resolutionTimeStr": "2024-02-27",
+    "lastBetTime": 1709011662399,
+    "lastBetTimeStr": "2024-02-26",
+    "crowd_pred": [
+      [
+        1706660645697,
+        "2024-01-30",
+        0.4503557044597261
+      ],
+      [
+        1707255284485,
+        "2024-02-06",
+        0.25644984305627533
+      ],
+      [
+        1707849923272,
+        "2024-02-13",
+        0.25019492609040794
+      ],
+      [
+        1708444562060,
+        "2024-02-20",
+        0.19999999999999998
+      ],
+      [
+        1709039200848,
+        "2024-02-27",
+        0.011368019654281449
+      ]
+    ],
+    "uniqueBettorCount": 87,
+    "volume": 15324.179840922116
+  },
+  {
+    "id": "xA5k0OoRuGyVgZ7TrGJ1",
+    "question": "Trump vs Biden Odds: Will Republicans lead in the Election Betting Odds party average on June 15th?",
+    "background_text": "Resolution Source: This market resolves on the ElectionBettingOdds average of each party's odds to win the US Presidential Election in 2024. This is currently an average of Polymarket, Betfair, PredictIt, and Smarkets.  If the Republican Party odds are above the Democratic Party odds for the entirety of June 15th (In Pacific Time), this market resolves YES. Otherwise, this market resolves NO. Display errors, bugs, etc will be disregarded. However, updates to the average due to deliberate methodological changes and markets being added or removed from the average will still count for resolution. If the entire page becomes indefinitely unavailable for some reason, the average for the resolution date will be manually calculated by Manifold.",
+    "tags": [
+      "2024-us-presidential-election",
+      "the-life-of-biden",
+      "politics-default",
+      "us-politics",
+      "donald-trump"
+    ],
+    "resolution": true,
+    "createdTime": 1716418138184,
+    "createdTimeStr": "2024-05-22",
+    "resolutionTime": 1718632284584,
+    "resolutionTimeStr": "2024-06-17",
+    "lastBetTime": 1718433733709,
+    "lastBetTimeStr": "2024-06-14",
+    "crowd_pred": [
+      [
+        1716860967464,
+        "2024-05-27",
+        0.8375532556858003
+      ],
+      [
+        1717303796744,
+        "2024-06-01",
+        0.8363823399035953
+      ],
+      [
+        1717746626024,
+        "2024-06-07",
+        0.8983182142359829
+      ],
+      [
+        1718189455304,
+        "2024-06-12",
+        0.9526988055499519
+      ],
+      [
+        1718632284584,
+        "2024-06-17",
+        0.9762095723170879
+      ]
+    ],
+    "uniqueBettorCount": 441,
+    "volume": 534252.6438052813
+  },
+  {
+    "id": "1PUOjhx6ClT1z2ex2IRS",
+    "question": "Will Destiny visit Israel in 2024?",
+    "background_text": "",
+    "tags": [
+      "destinygg"
+    ],
+    "resolution": true,
+    "createdTime": 1709661022735,
+    "createdTimeStr": "2024-03-05",
+    "resolutionTime": 1717249456200,
+    "resolutionTimeStr": "2024-06-01",
+    "lastBetTime": 1717249415024,
+    "lastBetTimeStr": "2024-06-01",
+    "crowd_pred": [
+      [
+        1711178709428,
+        "2024-03-23",
+        0.8367862206747485
+      ],
+      [
+        1712696396121,
+        "2024-04-09",
+        0.7589214132908396
+      ],
+      [
+        1714214082814,
+        "2024-04-27",
+        0.7670704679068496
+      ],
+      [
+        1715731769507,
+        "2024-05-14",
+        0.8955600133069361
+      ],
+      [
+        1717249456200,
+        "2024-06-01",
+        0.9836237674977087
+      ]
+    ],
+    "uniqueBettorCount": 78,
+    "volume": 30827.705312356306
+  },
+  {
+    "id": "1ZkwaWfKaFC9RVcB9BQO",
+    "question": "Will the state of New York collapse before the end of February?",
+    "background_text": "The state of New York is starting to fall , crime is up criminals are not prosecuted Illegal migrants are flooding the streets and protest are daily.  Corruption, rains free. Law abiding citizens are punished. What are the chances everything fails and the state Falls victim to its own policy? \u201c Clarification on 'State Collapse' for Market Resolution In the context of the poll titled \"Will the state of New York collapse before the end of February?\", the term \"state collapse\" refers to a significant failure in the government's core functions, which would manifest in the following ways: 1.  2.  3.  4.  5.  For the state of New York to be considered \"collapsed\" by the end of February for the purposes of this market, a clear and undeniable occurrence of one or more of these conditions would need to be evident to the average observer. Note --- Jimy \ud83d\ude0a",
+    "tags": [
+      "economics-default",
+      "us-politics",
+      "nyc",
+      "politics-default"
+    ],
+    "resolution": false,
+    "createdTime": 1708660536416,
+    "createdTimeStr": "2024-02-22",
+    "resolutionTime": 1709277426121,
+    "resolutionTimeStr": "2024-02-29",
+    "lastBetTime": 1709275217451,
+    "lastBetTimeStr": "2024-02-29",
+    "crowd_pred": [
+      [
+        1708783914357,
+        "2024-02-24",
+        0.08027277537376606
+      ],
+      [
+        1708907292298,
+        "2024-02-25",
+        0.03553489749778755
+      ],
+      [
+        1709030670239,
+        "2024-02-27",
+        0.03879848589597037
+      ],
+      [
+        1709154048180,
+        "2024-02-28",
+        0.011692367857757261
+      ],
+      [
+        1709277426121,
+        "2024-02-29",
+        0.049999999999999906
+      ]
+    ],
+    "uniqueBettorCount": 87,
+    "volume": 22074.49082743915
+  },
+  {
+    "id": "Pl76sez0clYZiVwPDgWs",
+    "question": "Will the Kansas City Chiefs tomahawk the Miami Dolphins? \ud83c\udfc8 Wild Card",
+    "background_text": "",
+    "tags": [
+      "nfl",
+      "sports-default",
+      "kansas-city-chiefs",
+      "football",
+      "miami-dolphins"
+    ],
+    "resolution": true,
+    "createdTime": 1704688277049,
+    "createdTimeStr": "2024-01-07",
+    "resolutionTime": 1705205894730,
+    "resolutionTimeStr": "2024-01-13",
+    "lastBetTime": 1705205338038,
+    "lastBetTimeStr": "2024-01-13",
+    "crowd_pred": [
+      [
+        1704791800585,
+        "2024-01-09",
+        0.5885332986189465
+      ],
+      [
+        1704895324121,
+        "2024-01-10",
+        0.6260289307792984
+      ],
+      [
+        1704998847657,
+        "2024-01-11",
+        0.6599999999999999
+      ],
+      [
+        1705102371193,
+        "2024-01-12",
+        0.6633244954303157
+      ],
+      [
+        1705205894730,
+        "2024-01-13",
+        0.9985269470081748
+      ]
+    ],
+    "uniqueBettorCount": 93,
+    "volume": 82650.28035302658
+  },
+  {
+    "id": "cXRS6L91I6lKdGppBjF1",
+    "question": "Will Congress pass a new Ukraine aid package by the end of March 2024?",
+    "background_text": "This is similar to  I got very curious about this after the border/foreign assistance bill and the clean Israel aid both failed to pass. February may be too soon, but we'll see about March! From Domer's question:",
+    "tags": [
+      "ukrainerussia-war",
+      "ukraine",
+      "wars",
+      "politics-default",
+      "geopolitics",
+      "us-politics",
+      "118th-congress",
+      "us-congress"
+    ],
+    "resolution": false,
+    "createdTime": 1707328198335,
+    "createdTimeStr": "2024-02-07",
+    "resolutionTime": 1711957743983,
+    "resolutionTimeStr": "2024-04-01",
+    "lastBetTime": 1711937206826,
+    "lastBetTimeStr": "2024-03-31",
+    "crowd_pred": [
+      [
+        1708254107464,
+        "2024-02-18",
+        0.6859885879594321
+      ],
+      [
+        1709180016594,
+        "2024-02-28",
+        0.5946294549743277
+      ],
+      [
+        1710105925723,
+        "2024-03-10",
+        0.49081568542848936
+      ],
+      [
+        1711031834853,
+        "2024-03-21",
+        0.07211438458011708
+      ],
+      [
+        1711957743983,
+        "2024-04-01",
+        0.012682918985350298
+      ]
+    ],
+    "uniqueBettorCount": 116,
+    "volume": 25773.565412148047
+  },
+  {
+    "id": "GoP1FlA8p0NHZDaLwFdH",
+    "question": "Will this poll end higher than 60%?",
+    "background_text": "",
+    "tags": [
+      "internet",
+      "statistics",
+      "mathematics",
+      "selfresolving",
+      "nonpredictive",
+      "unsubsidized"
+    ],
+    "resolution": true,
+    "createdTime": 1708993318167,
+    "createdTimeStr": "2024-02-26",
+    "resolutionTime": 1709682898506,
+    "resolutionTimeStr": "2024-03-05",
+    "lastBetTime": 1709625535628,
+    "lastBetTimeStr": "2024-03-04",
+    "crowd_pred": [
+      [
+        1709131234234,
+        "2024-02-28",
+        0.49837514955779116
+      ],
+      [
+        1709269150302,
+        "2024-02-29",
+        0.2688338095518861
+      ],
+      [
+        1709407066370,
+        "2024-03-02",
+        0.24067079707844202
+      ],
+      [
+        1709544982438,
+        "2024-03-04",
+        0.3600000000000001
+      ],
+      [
+        1709682898506,
+        "2024-03-05",
+        0.8219523254543499
+      ]
+    ],
+    "uniqueBettorCount": 71,
+    "volume": 7179.571804044441
+  },
+  {
+    "id": "9QzweWo5172IaMlrml57",
+    "question": "Will Travis Kelce & Taylor Swift kiss on the field at the Superbowl If KC Chiefs Win.",
+    "background_text": "Resolves Yes if they are on the broadcast kissing while on the field. Resolves No if they are not shown kissing during the broadcast while on the field. Resolves No if Taylor Swift is not there. Resolves No if Kansas City Loses Superbowl. Broadcast=Start of game at kickoff until end of Trophy presentation and CBS starts airing a different show.",
+    "tags": [
+      "kansas-city-chiefs",
+      "nfl",
+      "entertainment",
+      "travis-kelce",
+      "taylor-swift"
+    ],
+    "resolution": true,
+    "createdTime": 1706960252475,
+    "createdTimeStr": "2024-02-03",
+    "resolutionTime": 1707711914637,
+    "resolutionTimeStr": "2024-02-11",
+    "lastBetTime": 1707710965673,
+    "lastBetTimeStr": "2024-02-11",
+    "crowd_pred": [
+      [
+        1707110584907,
+        "2024-02-04",
+        0.5000000000000001
+      ],
+      [
+        1707260917339,
+        "2024-02-06",
+        0.46163978283819235
+      ],
+      [
+        1707411249772,
+        "2024-02-08",
+        0.39594546253683627
+      ],
+      [
+        1707561582204,
+        "2024-02-10",
+        0.42972820521641614
+      ],
+      [
+        1707711914637,
+        "2024-02-11",
+        0.9928865518589985
+      ]
+    ],
+    "uniqueBettorCount": 100,
+    "volume": 23509.59512116789
+  },
+  {
+    "id": "QlHiHT6GoFQHSI1mHZZL",
+    "question": "Will OpenAI announce an update on Monday that allows ChatGPT to call users?",
+    "background_text": "Resolves yes if openai announces an update allowing chatgpt to call users. It doesn\u2019t matter when and how the feature will be rolled out. If OpenAI announces the feature, this would be enough to resolve the market. ",
+    "tags": [
+      "openai",
+      "ai",
+      "chatgpt"
+    ],
+    "resolution": false,
+    "createdTime": 1715460883486,
+    "createdTimeStr": "2024-05-11",
+    "resolutionTime": 1715757933106,
+    "resolutionTimeStr": "2024-05-15",
+    "lastBetTime": 1715619086944,
+    "lastBetTimeStr": "2024-05-13",
+    "crowd_pred": [
+      [
+        1715520293410,
+        "2024-05-12",
+        0.16679842100173498
+      ],
+      [
+        1715579703334,
+        "2024-05-12",
+        0.34279645654373203
+      ],
+      [
+        1715639113258,
+        "2024-05-13",
+        0.23837463274560755
+      ],
+      [
+        1715698523182,
+        "2024-05-14",
+        0
+      ],
+      [
+        1715757933106,
+        "2024-05-15",
+        0
+      ]
+    ],
+    "uniqueBettorCount": 83,
+    "volume": 2456.538603184332
+  },
+  {
+    "id": "785XgA5NZ5OVZP6qtS6P",
+    "question": "Will Israel control Rafah by the end of May?",
+    "background_text": "This question will resolve YES if there is a media consensus that Israel controls the vast majority of Rafah by the end of May.",
+    "tags": [
+      "wars",
+      "israel",
+      "gaza",
+      "israelhamas-conflict-2023",
+      "arabisraeli-conflict"
+    ],
+    "resolution": false,
+    "createdTime": 1711813595604,
+    "createdTimeStr": "2024-03-30",
+    "resolutionTime": 1717267400892,
+    "resolutionTimeStr": "2024-06-01",
+    "lastBetTime": 1717216673736,
+    "lastBetTimeStr": "2024-05-31",
+    "crowd_pred": [
+      [
+        1712904356661,
+        "2024-04-11",
+        0.271041866350774
+      ],
+      [
+        1713995117719,
+        "2024-04-24",
+        0.28215494681250397
+      ],
+      [
+        1715085878776,
+        "2024-05-07",
+        0.2759963507730289
+      ],
+      [
+        1716176639834,
+        "2024-05-19",
+        0.059585017170159744
+      ],
+      [
+        1717267400892,
+        "2024-06-01",
+        0.03170891609744422
+      ]
+    ],
+    "uniqueBettorCount": 90,
+    "volume": 13032.169814706474
+  },
+  {
+    "id": "OjBeKDFtb0FLbW0ocwW1",
+    "question": "Will Israel conduct a retaliatory strike on Iranian military or nuclear facilities before the 1st of May?",
+    "background_text": "Intelligence communities are split on whether Israel will carry out any form of strike against Iran. The facilities in question are likely to be non-civilian targets, and would, if executed, target Iran's nuclear weapons program and other aspects of their military.  Nuclear facilities - Any facility speculated to be doing research on nuclear weapons or nuclear technology. ",
+    "tags": [
+      "politics-default",
+      "world-default",
+      "iran",
+      "israelhamas-conflict-2023",
+      "israel"
+    ],
+    "resolution": true,
+    "createdTime": 1713274449736,
+    "createdTimeStr": "2024-04-16",
+    "resolutionTime": 1713563297902,
+    "resolutionTimeStr": "2024-04-19",
+    "lastBetTime": 1713563237900,
+    "lastBetTimeStr": "2024-04-19",
+    "crowd_pred": [
+      [
+        1713332219369,
+        "2024-04-16",
+        0.346115747007699
+      ],
+      [
+        1713389989002,
+        "2024-04-17",
+        0.22999999999999982
+      ],
+      [
+        1713447758635,
+        "2024-04-18",
+        0.15233027035231028
+      ],
+      [
+        1713505528268,
+        "2024-04-18",
+        0.9600585335605367
+      ],
+      [
+        1713563297902,
+        "2024-04-19",
+        0.9793935987656823
+      ]
+    ],
+    "uniqueBettorCount": 93,
+    "volume": 18883.176478625566
+  },
+  {
+    "id": "B4HbGfhBUeMluS6StUXD",
+    "question": "Will India beat Pakistan? \ud83c\udfcf 2024 T20 Cricket World Cup",
+    "background_text": "",
+    "tags": [
+      "sports-default",
+      "sports-betting",
+      "cricket-world-cup-2024",
+      "cricket",
+      "india"
+    ],
+    "resolution": true,
+    "createdTime": 1709181137816,
+    "createdTimeStr": "2024-02-28",
+    "resolutionTime": 1717961934044,
+    "resolutionTimeStr": "2024-06-09",
+    "lastBetTime": 1717961865778,
+    "lastBetTimeStr": "2024-06-09",
+    "crowd_pred": [
+      [
+        1710937297061,
+        "2024-03-20",
+        0.7580669633844453
+      ],
+      [
+        1712693456307,
+        "2024-04-09",
+        0.7846605165701267
+      ],
+      [
+        1714449615552,
+        "2024-04-29",
+        0.7549866311361816
+      ],
+      [
+        1716205774798,
+        "2024-05-20",
+        0.7973213951386396
+      ],
+      [
+        1717961934044,
+        "2024-06-09",
+        0.9899999999999999
+      ]
+    ],
+    "uniqueBettorCount": 72,
+    "volume": 54507.53955718897
+  },
+  {
+    "id": "upY89XsDvq0uJLK0mOlS",
+    "question": "Will Dean Phillips get more than 20% of votes at the New Hampshire primary?",
+    "background_text": "https://projects.fivethirtyeight.com/polls/president-primary-d/2024/new-hampshire/",
+    "tags": [
+      "us-politics",
+      "politics-default",
+      "2024-us-presidential-election",
+      "new-hampshire-primary"
+    ],
+    "resolution": false,
+    "createdTime": 1705587407805,
+    "createdTimeStr": "2024-01-18",
+    "resolutionTime": 1706142598476,
+    "resolutionTimeStr": "2024-01-24",
+    "lastBetTime": 1706142540083,
+    "lastBetTimeStr": "2024-01-24",
+    "crowd_pred": [
+      [
+        1705698445939,
+        "2024-01-19",
+        0.89
+      ],
+      [
+        1705809484073,
+        "2024-01-20",
+        0.8645065297993766
+      ],
+      [
+        1705920522207,
+        "2024-01-22",
+        0.7075770116917196
+      ],
+      [
+        1706031560341,
+        "2024-01-23",
+        0.5971314762140659
+      ],
+      [
+        1706142598476,
+        "2024-01-24",
+        0.007880719484797852
+      ]
+    ],
+    "uniqueBettorCount": 77,
+    "volume": 26297.99003849405
+  },
+  {
+    "id": "WorF3phzmwOozIhEb6Ca",
+    "question": "Will Trump get a higher percentage in New Hampshire than he got in Iowa?",
+    "background_text": "",
+    "tags": [
+      "us-politics",
+      "new-hampshire-primary",
+      "donald-trump",
+      "new-hampshire"
+    ],
+    "resolution": true,
+    "createdTime": 1705380522484,
+    "createdTimeStr": "2024-01-15",
+    "resolutionTime": 1706072770053,
+    "resolutionTimeStr": "2024-01-23",
+    "lastBetTime": 1719287509413,
+    "lastBetTimeStr": "2024-06-24",
+    "crowd_pred": [
+      [
+        1705518971997,
+        "2024-01-17",
+        0.2936883586260727
+      ],
+      [
+        1705657421511,
+        "2024-01-19",
+        0.5499978837848042
+      ],
+      [
+        1705795871025,
+        "2024-01-20",
+        0.6903104845920386
+      ],
+      [
+        1705934320539,
+        "2024-01-22",
+        0.9170182212387836
+      ],
+      [
+        1706072770053,
+        "2024-01-23",
+        0.8858534708112837
+      ]
+    ],
+    "uniqueBettorCount": 141,
+    "volume": 12845.18805048331
+  },
+  {
+    "id": "Cj0CPk63Wfwst1y1noo2",
+    "question": "Will the International Criminal Court issue an arrest warrant for Benjamin Netanyahu by the end of May 2024?",
+    "background_text": " ",
+    "tags": [
+      "world-default",
+      "wars",
+      "bibi-netanyahu",
+      "politics-default",
+      "israel"
+    ],
+    "resolution": false,
+    "createdTime": 1714349376040,
+    "createdTimeStr": "2024-04-28",
+    "resolutionTime": 1717201569761,
+    "resolutionTimeStr": "2024-05-31",
+    "lastBetTime": 1717201557162,
+    "lastBetTimeStr": "2024-05-31",
+    "crowd_pred": [
+      [
+        1714919814784,
+        "2024-05-05",
+        0.16191978066269938
+      ],
+      [
+        1715490253528,
+        "2024-05-11",
+        0.07085497279770041
+      ],
+      [
+        1716060692272,
+        "2024-05-18",
+        0.06885849732697827
+      ],
+      [
+        1716631131016,
+        "2024-05-25",
+        0.08298700814598313
+      ],
+      [
+        1717201569761,
+        "2024-05-31",
+        0.023514312096139016
+      ]
+    ],
+    "uniqueBettorCount": 108,
+    "volume": 28451.485025599377
+  },
+  {
+    "id": "AAYXWb9dRBFuBzDnthuo",
+    "question": "Will Kung Fu Panda 4 (2024) be the lowest grossing of the series?",
+    "background_text": "Kung Fu Panda 4 (2024) Will Kung Fu Panda 4 make less money than Panda 3, the lowest grossing film in the series, at the global box office? This will Resolve when Kung Fu Panda 4 passes the third film at the worldwide box office, when Panda 4 is out of theatres, or when this is deemed to be mathematically impossible. Also bet on",
+    "tags": [
+      "movies",
+      "television-film",
+      "boxoffice",
+      "animals",
+      "cartoons-animations",
+      "animated-movies",
+      "martial-arts",
+      "pandas",
+      "dreamworks"
+    ],
+    "resolution": false,
+    "createdTime": 1705110424887,
+    "createdTimeStr": "2024-01-12",
+    "resolutionTime": 1715448464469,
+    "resolutionTimeStr": "2024-05-11",
+    "lastBetTime": 1715408591317,
+    "lastBetTimeStr": "2024-05-10",
+    "crowd_pred": [
+      [
+        1707178032803,
+        "2024-02-05",
+        0.7592487223946697
+      ],
+      [
+        1709245640719,
+        "2024-02-29",
+        0.7956895516334155
+      ],
+      [
+        1711313248636,
+        "2024-03-24",
+        0.6280505432663538
+      ],
+      [
+        1713380856552,
+        "2024-04-17",
+        0.3068132119829799
+      ],
+      [
+        1715448464469,
+        "2024-05-11",
+        0.010000000000000007
+      ]
+    ],
+    "uniqueBettorCount": 83,
+    "volume": 21421.50403524069
+  },
+  {
+    "id": "VKRJAdhjuhGRZmbglX2T",
+    "question": "Will terrorist attack in Moscow be used as a pretext to escalate the War in Ukraine?",
+    "background_text": "The market will resolve as YES if within the next 30 days (until April 22nd) Russian authorities will use March 22nd terrorist attack in Moscow as a justification for an escalation of the war against Ukraine. This could include one of the following: The possible escalation has to be explicitly linked to the terrorist attack in an official statement of Russian president, Ministry of foreign affairs or a similar entity. An answer at a press conference counts. Speculations by Russian propagandists don't. Related question:  I do not bet on my own questions.",
+    "tags": [
+      "russia",
+      "wars",
+      "terrorism",
+      "ukrainerussia-war",
+      "crocus-city-hall-attack"
+    ],
+    "resolution": false,
+    "createdTime": 1711191270516,
+    "createdTimeStr": "2024-03-23",
+    "resolutionTime": 1713862626446,
+    "resolutionTimeStr": "2024-04-23",
+    "lastBetTime": 1713817846085,
+    "lastBetTimeStr": "2024-04-22",
+    "crowd_pred": [
+      [
+        1711725541702,
+        "2024-03-29",
+        0.2474490151375426
+      ],
+      [
+        1712259812888,
+        "2024-04-04",
+        0.14841206604851578
+      ],
+      [
+        1712794084074,
+        "2024-04-10",
+        0.05696832852932461
+      ],
+      [
+        1713328355260,
+        "2024-04-16",
+        0.018837180919553238
+      ],
+      [
+        1713862626446,
+        "2024-04-23",
+        0.010080357250812749
+      ]
+    ],
+    "uniqueBettorCount": 88,
+    "volume": 19261.77495355358
+  },
+  {
+    "id": "Esol0j1ubxf77iMxD33V",
+    "question": "Will the Buffalo Bills trample the Pittsburgh Steelers? \ud83c\udfc8 Wild Card",
+    "background_text": "",
+    "tags": [
+      "nfl",
+      "football",
+      "buffalo-bills",
+      "pittsburgh-steelers",
+      "sports-default"
+    ],
+    "resolution": true,
+    "createdTime": 1704688153711,
+    "createdTimeStr": "2024-01-07",
+    "resolutionTime": 1705365843873,
+    "resolutionTimeStr": "2024-01-15",
+    "lastBetTime": 1705365789038,
+    "lastBetTimeStr": "2024-01-15",
+    "crowd_pred": [
+      [
+        1704823691743,
+        "2024-01-09",
+        0.792798322758403
+      ],
+      [
+        1704959229775,
+        "2024-01-10",
+        0.8000000000000002
+      ],
+      [
+        1705094767808,
+        "2024-01-12",
+        0.8000000000000003
+      ],
+      [
+        1705230305840,
+        "2024-01-14",
+        0.8181911389355703
+      ],
+      [
+        1705365843873,
+        "2024-01-15",
+        0.9989113927858229
+      ]
+    ],
+    "uniqueBettorCount": 70,
+    "volume": 123130.95714747957
+  },
+  {
+    "id": "CsBU8et9ydQjZFyyGg56",
+    "question": "Will there be an Israel-Hamas ceasefire announced before the end of May 24?",
+    "background_text": "Resolves YES if Israel and Hamas agree to a ceasefire deal on both sides. Market ends at the end of day for Israel, using Israel time zone.",
+    "tags": [
+      "israelhamas-conflict-2023",
+      "world-default",
+      "palestine",
+      "israel",
+      "wars"
+    ],
+    "resolution": false,
+    "createdTime": 1714105641482,
+    "createdTimeStr": "2024-04-25",
+    "resolutionTime": 1716586167010,
+    "resolutionTimeStr": "2024-05-24",
+    "lastBetTime": 1716586111533,
+    "lastBetTimeStr": "2024-05-24",
+    "crowd_pred": [
+      [
+        1714601746587,
+        "2024-05-01",
+        0.250133139245017
+      ],
+      [
+        1715097851693,
+        "2024-05-07",
+        0.33089870492535306
+      ],
+      [
+        1715593956798,
+        "2024-05-13",
+        0.07818976950894055
+      ],
+      [
+        1716090061904,
+        "2024-05-18",
+        0.03893682587857989
+      ],
+      [
+        1716586167010,
+        "2024-05-24",
+        0.010044991123362214
+      ]
+    ],
+    "uniqueBettorCount": 170,
+    "volume": 54281.46706809637
+  },
+  {
+    "id": "qKsqWW0SVwMoCdyMD28I",
+    "question": "Trump has agreed to debate Pres. Biden on June 27, but will he show up?",
+    "background_text": "Closes the day before the debate to prevent sniping; or when Trump says he's bagging out.  I'm tempted to ask another question: What excuse will Trump give for bagging out?",
+    "tags": [
+      "the-life-of-biden",
+      "magaland",
+      "donald-trump",
+      "debate"
+    ],
+    "resolution": true,
+    "createdTime": 1715799648908,
+    "createdTimeStr": "2024-05-15",
+    "resolutionTime": 1719545943025,
+    "resolutionTimeStr": "2024-06-27",
+    "lastBetTime": 1719455636050,
+    "lastBetTimeStr": "2024-06-26",
+    "crowd_pred": [
+      [
+        1716548907731,
+        "2024-05-24",
+        0.8259959915560039
+      ],
+      [
+        1717298166554,
+        "2024-06-01",
+        0
+      ],
+      [
+        1718047425378,
+        "2024-06-10",
+        0.9
+      ],
+      [
+        1718796684201,
+        "2024-06-19",
+        0.9
+      ],
+      [
+        1719545943025,
+        "2024-06-27",
+        0.9667388617591812
+      ]
+    ],
+    "uniqueBettorCount": 94,
+    "volume": 18110.879394030024
+  },
+  {
+    "id": "bRxy3MPq8fAlbP8Mw7JH",
+    "question": "Do I (Holly Elmore) currently have COVID?",
+    "background_text": "I have a sore throat. My husband tested positive for COVID two days ago while I was away on a trip. My travel was delayed two days, most of which I spent in crowded airports. The sore throat emerged the day after my return, after being exposed to my COVID+ husband. I tested positive for COVID in October 2023. A few weeks before that I had a cold that tested negative for COVID. I had flu (clinical diagnosis based on symptoms and recent COVID) in November. I was boosted with the Moderna spikevax two weeks ago. Day 1 rapid test: negative  Day 2 rapid test: negative Day 3 rapid test: negative Day 4 rapid test: negative Day 5 rapid test: negative Day 6 rapid test: forgot to take \ud83d\ude2c, but symptoms continue to improve ",
+    "tags": [
+      "personal",
+      "science-default",
+      "covid-d7a9361d772d"
+    ],
+    "resolution": false,
+    "createdTime": 1705350162334,
+    "createdTimeStr": "2024-01-15",
+    "resolutionTime": 1705898529912,
+    "resolutionTimeStr": "2024-01-21",
+    "lastBetTime": 1705822341881,
+    "lastBetTimeStr": "2024-01-20",
+    "crowd_pred": [
+      [
+        1705459835849,
+        "2024-01-16",
+        0.29242652979559713
+      ],
+      [
+        1705569509365,
+        "2024-01-18",
+        0.3530518710249562
+      ],
+      [
+        1705679182880,
+        "2024-01-19",
+        0.123930679688284
+      ],
+      [
+        1705788856396,
+        "2024-01-20",
+        0.07206290791773282
+      ],
+      [
+        1705898529912,
+        "2024-01-21",
+        0.06000000000000005
+      ]
+    ],
+    "uniqueBettorCount": 82,
+    "volume": 7481.601560507758
+  },
+  {
+    "id": "08diTOMf3eFzDU4zTTF0",
+    "question": "Will GPT-5 be announced in March 2024?",
+    "background_text": "Resolves NA if I get fewer than 20 traders. PST time if it matters. Any official announcement confirming it exists counts, even if nobody except OpenAI can access it.",
+    "tags": [
+      "gpt5",
+      "gpt5-speculation",
+      "gpt4-speculation"
+    ],
+    "resolution": false,
+    "createdTime": 1708743029302,
+    "createdTimeStr": "2024-02-23",
+    "resolutionTime": 1711976194265,
+    "resolutionTimeStr": "2024-04-01",
+    "lastBetTime": 1711951661402,
+    "lastBetTimeStr": "2024-03-31",
+    "crowd_pred": [
+      [
+        1709389662294,
+        "2024-03-02",
+        0
+      ],
+      [
+        1710036295287,
+        "2024-03-09",
+        0.21
+      ],
+      [
+        1710682928279,
+        "2024-03-17",
+        0.1263830202934619
+      ],
+      [
+        1711329561272,
+        "2024-03-24",
+        0.023936014160479566
+      ],
+      [
+        1711976194265,
+        "2024-04-01",
+        0.010176006347241237
+      ]
+    ],
+    "uniqueBettorCount": 316,
+    "volume": 146909.65913520587
+  },
+  {
+    "id": "sNvW83UKz56mRDfUBvZQ",
+    "question": "Will there be an Israel-Hamas ceasefire announced before the end of July 4th?",
+    "background_text": "End of day Israel time zone Must be agreed upon by both sides",
+    "tags": [
+      "world-default",
+      "israel",
+      "wars",
+      "palestine",
+      "israelhamas-conflict-2023"
+    ],
+    "resolution": false,
+    "createdTime": 1715966988039,
+    "createdTimeStr": "2024-05-17",
+    "resolutionTime": 1720146001279,
+    "resolutionTimeStr": "2024-07-04",
+    "lastBetTime": 1720082260553,
+    "lastBetTimeStr": "2024-07-04",
+    "crowd_pred": [
+      [
+        1716802790687,
+        "2024-05-27",
+        0.22619030873098467
+      ],
+      [
+        1717638593335,
+        "2024-06-05",
+        0.17999999999999994
+      ],
+      [
+        1718474395983,
+        "2024-06-15",
+        0.0967781733213671
+      ],
+      [
+        1719310198631,
+        "2024-06-25",
+        0.07268842256311299
+      ],
+      [
+        1720146001279,
+        "2024-07-04",
+        0.01248109420496888
+      ]
+    ],
+    "uniqueBettorCount": 144,
+    "volume": 34023.87777938434
+  },
+  {
+    "id": "iRn5khcEyIDKYCOs8EmC",
+    "question": "Will Claude 3 turn out to be better than or equal to GPT-4 in perceived performance?",
+    "background_text": "I will try it myself and decide by the end of the month.",
+    "tags": [
+      "openai",
+      "ai",
+      "gpt4-speculation",
+      "anthropic"
+    ],
+    "resolution": true,
+    "createdTime": 1709564753743,
+    "createdTimeStr": "2024-03-04",
+    "resolutionTime": 1716574813302,
+    "resolutionTimeStr": "2024-05-24",
+    "lastBetTime": 1716409371850,
+    "lastBetTimeStr": "2024-05-22",
+    "crowd_pred": [
+      [
+        1710966765654,
+        "2024-03-20",
+        0.7525549453362073
+      ],
+      [
+        1712368777566,
+        "2024-04-05",
+        0.8659311829113622
+      ],
+      [
+        1713770789478,
+        "2024-04-22",
+        0
+      ],
+      [
+        1715172801390,
+        "2024-05-08",
+        0
+      ],
+      [
+        1716574813302,
+        "2024-05-24",
+        0.8624373082465402
+      ]
+    ],
+    "uniqueBettorCount": 97,
+    "volume": 5963.782567218833
+  },
+  {
+    "id": "GaFNHQuLoiwX25Zjxlby",
+    "question": "Will Marques Brownlee (MKBHD) release a review of the Rabbit R1 before the end of April 2024?",
+    "background_text": "Link: ",
+    "tags": [
+      "ai",
+      "youtube",
+      "entertainment-12ba84d9b720",
+      "hardware",
+      "rabbit-r1"
+    ],
+    "resolution": true,
+    "createdTime": 1712674350428,
+    "createdTimeStr": "2024-04-09",
+    "resolutionTime": 1714438797155,
+    "resolutionTimeStr": "2024-04-29",
+    "lastBetTime": 1714438450080,
+    "lastBetTimeStr": "2024-04-29",
+    "crowd_pred": [
+      [
+        1713027239773,
+        "2024-04-13",
+        0.6632358721668281
+      ],
+      [
+        1713380129118,
+        "2024-04-17",
+        0.48000000000000004
+      ],
+      [
+        1713733018464,
+        "2024-04-21",
+        0.6073453562672807
+      ],
+      [
+        1714085907809,
+        "2024-04-25",
+        0.9129406391575108
+      ],
+      [
+        1714438797155,
+        "2024-04-29",
+        0.9890525991720056
+      ]
+    ],
+    "uniqueBettorCount": 163,
+    "volume": 49347.53531555474
+  },
+  {
+    "id": "aRuklZCAHScS9FHllksk",
+    "question": "Will Israel invade Rafah in May 2024?",
+    "background_text": "Resolves as Yes if an official IDF spokesperson declares the IDF has entered the city of Rafah en masse in Gaza. Surgical raids of limited scope will not count, only a large scale clearing operation. If there is no announcement by the IDF but there is overwhelming video evidence, that will be sufficient for Yes. If resolution is very murky as the month ends, up to a week will be taken after market close to wait for clearer evidence. If Rafah is invaded in April, this market will resolve N/A. Please read the pinned comments and stay updated there.",
+    "tags": [
+      "gaza",
+      "palestine",
+      "israel",
+      "arabisraeli-conflict",
+      "israelhamas-conflict-2023",
+      "wars"
+    ],
+    "resolution": true,
+    "createdTime": 1711383750664,
+    "createdTimeStr": "2024-03-25",
+    "resolutionTime": 1715921260616,
+    "resolutionTimeStr": "2024-05-16",
+    "lastBetTime": 1715913636647,
+    "lastBetTimeStr": "2024-05-16",
+    "crowd_pred": [
+      [
+        1712291252654,
+        "2024-04-04",
+        0
+      ],
+      [
+        1713198754644,
+        "2024-04-15",
+        0
+      ],
+      [
+        1714106256635,
+        "2024-04-25",
+        0
+      ],
+      [
+        1715013758625,
+        "2024-05-06",
+        0
+      ],
+      [
+        1715921260616,
+        "2024-05-16",
+        0.9690186842697543
+      ]
+    ],
+    "uniqueBettorCount": 361,
+    "volume": 175048.7329014712
+  },
+  {
+    "id": "rlKwKh2HtATRRymu5Wf9",
+    "question": "Will Trump beat Biden again in the next New York Times/Sienna national poll?",
+    "background_text": "The NY Times/Sienna poll is often considered to be the gold standard of national polling. They are at the top of 538's pollster rankings, with a  Their previous poll in  If Trump beats Biden in the next released national Times/Sienna poll, this market resolves YES. If Biden is tied with or ahead of Trump, this market resolves NO. See also:  You can find more questions like this in the ",
+    "tags": [
+      "donald-trump",
+      "magaland",
+      "2024-us-presidential-election"
+    ],
+    "resolution": true,
+    "createdTime": 1709405627034,
+    "createdTimeStr": "2024-03-02",
+    "resolutionTime": 1713020350294,
+    "resolutionTimeStr": "2024-04-13",
+    "lastBetTime": 1713017280094,
+    "lastBetTimeStr": "2024-04-13",
+    "crowd_pred": [
+      [
+        1710128571686,
+        "2024-03-10",
+        0.7698573796105708
+      ],
+      [
+        1710851516338,
+        "2024-03-19",
+        0.6541162076975392
+      ],
+      [
+        1711574460990,
+        "2024-03-27",
+        0.7203946900207447
+      ],
+      [
+        1712297405642,
+        "2024-04-04",
+        0.6819857025991096
+      ],
+      [
+        1713020350294,
+        "2024-04-13",
+        0.9716568191655242
+      ]
+    ],
+    "uniqueBettorCount": 75,
+    "volume": 19987.8541678553
+  },
+  {
+    "id": "vuJ05i8uaXDeauJbyKnx",
+    "question": "Will Nikki Haley drop out of the race for President by March 20?",
+    "background_text": "Nikki Haley has vowed to stay in the race till Super Tuesday. One turning point could be March 19, where she may be mathematically eliminated from contention.  Will she drop out then? (includes March 20 to allow for a speech announcing it)  drop out before Mar 31",
+    "tags": [
+      "2024-us-presidential-election",
+      "us-politics",
+      "politics-default"
+    ],
+    "resolution": true,
+    "createdTime": 1708450784729,
+    "createdTimeStr": "2024-02-20",
+    "resolutionTime": 1709738026095,
+    "resolutionTimeStr": "2024-03-06",
+    "lastBetTime": 1709734943053,
+    "lastBetTimeStr": "2024-03-06",
+    "crowd_pred": [
+      [
+        1708708233002,
+        "2024-02-23",
+        0.4325427496145606
+      ],
+      [
+        1708965681275,
+        "2024-02-26",
+        0.6877082553265741
+      ],
+      [
+        1709223129548,
+        "2024-02-29",
+        0.6702723610793132
+      ],
+      [
+        1709480577821,
+        "2024-03-03",
+        0.6809573167874821
+      ],
+      [
+        1709738026095,
+        "2024-03-06",
+        0.9942198238360445
+      ]
+    ],
+    "uniqueBettorCount": 98,
+    "volume": 36930.06253059012
+  },
+  {
+    "id": "n8KOgKpO0keSlkxuxmnk",
+    "question": "Will Biden make any gaffes during his next press conference?",
+    "background_text": "A gaffe would be Biden misspeaking in a way that generated negative news coverage. I am going to use the definition of news conference from UCSB's American Presidency Project: \"The term \"news conference\" refers simply to an interaction between the President and multiple members of the press in a relatively formal setting.\u00a0 In a \"news conference,\" the President and the press meet specifically for the President to respond to press questions.\" The APP records any presidential press/news conferences ~monthly I think so if something is ambiguous, I will wait until they make a determination to resolve the market. (Note they also keep track of \"Exchanges with Reporters\" which I will not count as news/press conferences). Here is the link to the UCSB's American presidency project ",
+    "tags": [
+      "the-life-of-biden"
+    ],
+    "resolution": true,
+    "createdTime": 1708752587024,
+    "createdTimeStr": "2024-02-23",
+    "resolutionTime": 1718045653453,
+    "resolutionTimeStr": "2024-06-10",
+    "lastBetTime": 1717999417410,
+    "lastBetTimeStr": "2024-06-09",
+    "crowd_pred": [
+      [
+        1710611200309,
+        "2024-03-16",
+        0.6799999999999997
+      ],
+      [
+        1712469813595,
+        "2024-04-06",
+        0.6427941527769098
+      ],
+      [
+        1714328426881,
+        "2024-04-28",
+        0.6103635538492399
+      ],
+      [
+        1716187040167,
+        "2024-05-19",
+        0.6812858558488921
+      ],
+      [
+        1718045653453,
+        "2024-06-10",
+        0.88
+      ]
+    ],
+    "uniqueBettorCount": 77,
+    "volume": 28294.843967531437
+  },
+  {
+    "id": "rs8eb7eWXPlCteF77F3b",
+    "question": "Will the Detroit Lions shred the Tampa Bay Buccaneers? \ud83c\udfc8 Playoffs",
+    "background_text": "YES if they win. NO if other team (second team in question) wins or ties.",
+    "tags": [
+      "sports-default",
+      "nfl",
+      "football"
+    ],
+    "resolution": true,
+    "createdTime": 1705292061225,
+    "createdTimeStr": "2024-01-14",
+    "resolutionTime": 1705878784344,
+    "resolutionTimeStr": "2024-01-21",
+    "lastBetTime": 1705878735710,
+    "lastBetTimeStr": "2024-01-21",
+    "crowd_pred": [
+      [
+        1705409405848,
+        "2024-01-16",
+        0
+      ],
+      [
+        1705526750472,
+        "2024-01-17",
+        0
+      ],
+      [
+        1705644095096,
+        "2024-01-18",
+        0
+      ],
+      [
+        1705761439720,
+        "2024-01-20",
+        0
+      ],
+      [
+        1705878784344,
+        "2024-01-21",
+        0.9988510031692097
+      ]
+    ],
+    "uniqueBettorCount": 96,
+    "volume": 102334.98251246083
+  },
+  {
+    "id": "dKRuptMSKMAUZ17mnU3u",
+    "question": "Will Nvidia's share price break $1000 in 2024?",
+    "background_text": "This market is trying to track real price change. If there is split or reverse split, the price will be treated as no split or reverse split happen.",
+    "tags": [
+      "technology-default",
+      "finance",
+      "gpu",
+      "nvidia",
+      "tech-stocks",
+      "stocks"
+    ],
+    "resolution": true,
+    "createdTime": 1705165636643,
+    "createdTimeStr": "2024-01-13",
+    "resolutionTime": 1716412528723,
+    "resolutionTimeStr": "2024-05-22",
+    "lastBetTime": 1716412226886,
+    "lastBetTimeStr": "2024-05-22",
+    "crowd_pred": [
+      [
+        1707415015059,
+        "2024-02-08",
+        0.35320608602042936
+      ],
+      [
+        1709664393475,
+        "2024-03-05",
+        0.7646906940874616
+      ],
+      [
+        1711913771891,
+        "2024-03-31",
+        0.6807779263072241
+      ],
+      [
+        1714163150307,
+        "2024-04-26",
+        0.7317257823516163
+      ],
+      [
+        1716412528723,
+        "2024-05-22",
+        0.9429151892969607
+      ]
+    ],
+    "uniqueBettorCount": 114,
+    "volume": 62685.82733161181
+  },
+  {
+    "id": "mgUHjqWiT0ssZS9zDgBo",
+    "question": "Nikki Haley will drop out of the race for the Republican nominee by March 16th 2024",
+    "background_text": "",
+    "tags": [
+      "us-politics",
+      "united-states",
+      "2024-us-presidential-election",
+      "politics-default",
+      "nikki-haley"
+    ],
+    "resolution": true,
+    "createdTime": 1708058373072,
+    "createdTimeStr": "2024-02-15",
+    "resolutionTime": 1709766894486,
+    "resolutionTimeStr": "2024-03-06",
+    "lastBetTime": 1709765376108,
+    "lastBetTimeStr": "2024-03-06",
+    "crowd_pred": [
+      [
+        1708400077354,
+        "2024-02-19",
+        0.5234039433705046
+      ],
+      [
+        1708741781637,
+        "2024-02-23",
+        0.4535916918068409
+      ],
+      [
+        1709083485920,
+        "2024-02-27",
+        0.48999999999999994
+      ],
+      [
+        1709425190203,
+        "2024-03-02",
+        0.5195584023853209
+      ],
+      [
+        1709766894486,
+        "2024-03-06",
+        0.9986241952774267
+      ]
+    ],
+    "uniqueBettorCount": 107,
+    "volume": 67842.71340810721
+  },
+  {
+    "id": "kjAv2dvMWiwlf3twOopd",
+    "question": "Will this question have a YES-Chance of more than 70%?",
+    "background_text": "Closure Time: Random but already predetermined time between 0:01 - 23:59 UTC on 21. Feb I will not be trading in this market. This question resolves to YES if the predicted probability for YES on this question is greater than or equal to 70% at the Closure Time. Resolves to NO otherwise. This might take a moment to come up with a strategy. Mind your impact on the predicted probabilities - and the ones others could have in the future, maybe on purpose! Resolving NO: The current prediction is at 26% < 70%",
+    "tags": [
+      "mathematics",
+      "fun",
+      "nonpredictive",
+      "unsubsidized",
+      "selfresolving",
+      "free-mana",
+      "statistics"
+    ],
+    "resolution": false,
+    "createdTime": 1708200279785,
+    "createdTimeStr": "2024-02-17",
+    "resolutionTime": 1708506400570,
+    "resolutionTimeStr": "2024-02-21",
+    "lastBetTime": 1708506342706,
+    "lastBetTimeStr": "2024-02-21",
+    "crowd_pred": [
+      [
+        1708261503942,
+        "2024-02-18",
+        0.5711200755573962
+      ],
+      [
+        1708322728099,
+        "2024-02-18",
+        0.5914363456150536
+      ],
+      [
+        1708383952256,
+        "2024-02-19",
+        0.6956323973291253
+      ],
+      [
+        1708445176413,
+        "2024-02-20",
+        0.3627111380145551
+      ],
+      [
+        1708506400570,
+        "2024-02-21",
+        0.2600000000000001
+      ]
+    ],
+    "uniqueBettorCount": 121,
+    "volume": 25993.435585388113
+  },
+  {
+    "id": "NCQx7hEngCghgKZ0WrBh",
+    "question": "Will Iran carry out an attack which leads to the death of at least 5 people within Israel before May 1st? [Metaculus] ",
+    "background_text": "Resolves the same as  Resolution criteria This question resolves  Fine print and additional background information can be found  Once the original resolves, its resolution will be applied to this market automatically. Trustworthy-ish users are encouraged to resolve this market before then if the outcome is known and unambiguous. Feel free to ping @jskf to request early resolution or to report issues.",
+    "tags": [
+      "metaculus",
+      "iran"
+    ],
+    "resolution": false,
+    "createdTime": 1712803893940,
+    "createdTimeStr": "2024-04-10",
+    "resolutionTime": 1714589908023,
+    "resolutionTimeStr": "2024-05-01",
+    "lastBetTime": 1714548834671,
+    "lastBetTimeStr": "2024-05-01",
+    "crowd_pred": [
+      [
+        1713161096756,
+        "2024-04-14",
+        0.12706002023487978
+      ],
+      [
+        1713518299573,
+        "2024-04-19",
+        0.06637756086591928
+      ],
+      [
+        1713875502389,
+        "2024-04-23",
+        0.011229462459869133
+      ],
+      [
+        1714232705206,
+        "2024-04-27",
+        0.009786477096891793
+      ],
+      [
+        1714589908023,
+        "2024-05-01",
+        0.012418311014748067
+      ]
+    ],
+    "uniqueBettorCount": 172,
+    "volume": 82135.77483395806
+  },
+  {
+    "id": "Dlm2tIiIEWGgzxNsm2iu",
+    "question": "Will Nikki Haley come within single digits of Trump in new Hampshire, or beat him?",
+    "background_text": "Resolves YES if Trump's vote share in the NH primary, minus Haley's vote share, is <10%",
+    "tags": [
+      "nikki-haley",
+      "new-hampshire",
+      "2024-republican-primaries",
+      "new-hampshire-primary",
+      "us-politics"
+    ],
+    "resolution": false,
+    "createdTime": 1705589609952,
+    "createdTimeStr": "2024-01-18",
+    "resolutionTime": 1706139255868,
+    "resolutionTimeStr": "2024-01-24",
+    "lastBetTime": 1706136794974,
+    "lastBetTimeStr": "2024-01-24",
+    "crowd_pred": [
+      [
+        1705699539135,
+        "2024-01-19",
+        0
+      ],
+      [
+        1705809468318,
+        "2024-01-20",
+        0
+      ],
+      [
+        1705919397501,
+        "2024-01-22",
+        0.17867419234115633
+      ],
+      [
+        1706029326684,
+        "2024-01-23",
+        0.14898441327337678
+      ],
+      [
+        1706139255868,
+        "2024-01-24",
+        0.008340790004647047
+      ]
+    ],
+    "uniqueBettorCount": 218,
+    "volume": 229710.35408955626
+  },
+  {
+    "id": "j62IkG1KGESjcPXtozND",
+    "question": "Israel:Hamas ceasefire in May? \ud83c\uddee\ud83c\uddf1\ud83e\udd1d\ud83c\uddf5\ud83c\uddf8",
+    "background_text": "This is my  At any point in the month of May will there be a cease in the fighting between Israel and Hamas? Things which will cause this market to Resolve YES:   Otherwise, this market will Resolve NO at the end of May 31st, 2024.",
+    "tags": [
+      "israelhamas-conflict-2023",
+      "arabisraeli-conflict",
+      "israel",
+      "israelsaudi-arabia-relations",
+      "israeli-politics"
+    ],
+    "resolution": false,
+    "createdTime": 1714536548489,
+    "createdTimeStr": "2024-04-30",
+    "resolutionTime": 1717224807662,
+    "resolutionTimeStr": "2024-05-31",
+    "lastBetTime": 1717224095625,
+    "lastBetTimeStr": "2024-05-31",
+    "crowd_pred": [
+      [
+        1715074200323,
+        "2024-05-07",
+        0.3099999999999999
+      ],
+      [
+        1715611852158,
+        "2024-05-13",
+        0.10817224421202355
+      ],
+      [
+        1716149503992,
+        "2024-05-19",
+        0.044696110095740364
+      ],
+      [
+        1716687155827,
+        "2024-05-25",
+        0.03210099436815199
+      ],
+      [
+        1717224807662,
+        "2024-05-31",
+        0.013039436999897541
+      ]
+    ],
+    "uniqueBettorCount": 110,
+    "volume": 47577.69623739295
+  },
+  {
+    "id": "BDOEqmtgrfnpiVEaQ8rG",
+    "question": "Will the San Francisco 49ers beat the Kansas City Chiefs in Superbowl LVIII?",
+    "background_text": "Resolves according to title. I aim to resolve immediately post-game.",
+    "tags": [
+      "nfl",
+      "san-francisco-49ers",
+      "nfl-playoffs",
+      "kansas-city-chiefs"
+    ],
+    "resolution": false,
+    "createdTime": 1706497149463,
+    "createdTimeStr": "2024-01-28",
+    "resolutionTime": 1707733835421,
+    "resolutionTimeStr": "2024-02-12",
+    "lastBetTime": 1707713746626,
+    "lastBetTimeStr": "2024-02-11",
+    "crowd_pred": [
+      [
+        1706744486654,
+        "2024-01-31",
+        0
+      ],
+      [
+        1706991823846,
+        "2024-02-03",
+        0
+      ],
+      [
+        1707239161037,
+        "2024-02-06",
+        0
+      ],
+      [
+        1707486498229,
+        "2024-02-09",
+        0.528250687502344
+      ],
+      [
+        1707733835421,
+        "2024-02-12",
+        0.0026965575726493416
+      ]
+    ],
+    "uniqueBettorCount": 79,
+    "volume": 62208.709978490275
+  },
+  {
+    "id": "h33Uh9g5fryaEhLKHizU",
+    "question": "Will Biden lead Trump in 538's national poll at the end of June?",
+    "background_text": "https://projects.fivethirtyeight.com/polls/president-general/2024/national/   ",
+    "tags": [
+      "politics-default",
+      "donald-trump",
+      "the-life-of-biden",
+      "2024-us-presidential-election",
+      "us-politics"
+    ],
+    "resolution": false,
+    "createdTime": 1714056085829,
+    "createdTimeStr": "2024-04-25",
+    "resolutionTime": 1719797790169,
+    "resolutionTimeStr": "2024-06-30",
+    "lastBetTime": 1719797786468,
+    "lastBetTimeStr": "2024-06-30",
+    "crowd_pred": [
+      [
+        1715204426697,
+        "2024-05-08",
+        0.5396819440244551
+      ],
+      [
+        1716352767565,
+        "2024-05-21",
+        0.4143240360783109
+      ],
+      [
+        1717501108433,
+        "2024-06-04",
+        0.44497642210359123
+      ],
+      [
+        1718649449301,
+        "2024-06-17",
+        0.16435780945942105
+      ],
+      [
+        1719797790169,
+        "2024-06-30",
+        0.011526100814257152
+      ]
+    ],
+    "uniqueBettorCount": 124,
+    "volume": 47251.93050125319
+  },
+  {
+    "id": "IXPLYEdZ7GpX6xUDOsNC",
+    "question": "Will Destiny watch Tucker Carlson\u2019s interview with Vladimir Putin? \ud83c\udfa7\ud83c\udf99\ufe0f",
+    "background_text": "Will resolve YES if he spends 10 minutes or more watching or reacting to the interview. Otherwise resolves NO on March 1st.",
+    "tags": [
+      "us-politics",
+      "ukrainerussia-war",
+      "tucker-carlson",
+      "destinygg",
+      "vladimir-putin"
+    ],
+    "resolution": false,
+    "createdTime": 1707417851709,
+    "createdTimeStr": "2024-02-08",
+    "resolutionTime": 1709269887579,
+    "resolutionTimeStr": "2024-02-29",
+    "lastBetTime": 1709259776703,
+    "lastBetTimeStr": "2024-02-29",
+    "crowd_pred": [
+      [
+        1707788258883,
+        "2024-02-12",
+        0.3999999999999998
+      ],
+      [
+        1708158666057,
+        "2024-02-17",
+        0.10772322636074495
+      ],
+      [
+        1708529073231,
+        "2024-02-21",
+        0.12404262514894508
+      ],
+      [
+        1708899480405,
+        "2024-02-25",
+        0.044496394039494694
+      ],
+      [
+        1709269887579,
+        "2024-02-29",
+        0.0092771197945588
+      ]
+    ],
+    "uniqueBettorCount": 113,
+    "volume": 33513.3659081783
+  },
+  {
+    "id": "Sg4t6ZsYr2udEYxJ24m8",
+    "question": "Will Russia accuse Ukraine of being behind the Moscow Concert terrorist attack by the end of April?",
+    "background_text": "Resolves yes if the Kremlin officially say the Ukrainian government was behind today's attack in Moscow? Resolves to NO if they just say the people behind it were pro-Ukraine but not affiliated with Ukraine or if the person who makes the claim is someone in the Russian government but is not Vladimir Putin, or an official statement from the Kremlin.",
+    "tags": [
+      "vladimir-putin",
+      "ukrainerussia-war",
+      "moscow",
+      "russia",
+      "ukraine",
+      "terrorism"
+    ],
+    "resolution": true,
+    "createdTime": 1711142110986,
+    "createdTimeStr": "2024-03-22",
+    "resolutionTime": 1714170624113,
+    "resolutionTimeStr": "2024-04-26",
+    "lastBetTime": 1713915126532,
+    "lastBetTimeStr": "2024-04-23",
+    "crowd_pred": [
+      [
+        1711747813611,
+        "2024-03-29",
+        0.5729322554408998
+      ],
+      [
+        1712353516236,
+        "2024-04-05",
+        0.7848275041028563
+      ],
+      [
+        1712959218862,
+        "2024-04-12",
+        0.735362256751778
+      ],
+      [
+        1713564921487,
+        "2024-04-19",
+        0.8053912585002536
+      ],
+      [
+        1714170624113,
+        "2024-04-26",
+        0.9143091125140672
+      ]
+    ],
+    "uniqueBettorCount": 112,
+    "volume": 17627.28723695345
+  },
+  {
+    "id": "7dydRYW81ShM8d6w6bwJ",
+    "question": "Will Apple announce a partnership with OpenAI regarding Siri during WWDC 2024?",
+    "background_text": "Resolves positively if Apple announces that OpenAI will partner with them on Siri. The question still resolves positively even if few details are provided regarding the partnership. An official statement during the main keynote of WWDC 2024 is needed,  something like \"we partnered with OpenAI to improve Siri\" or \"Siri will be running the latest OpenAI models\" (non-exhaustive list). Update May 19th: Some notes on specific questions in the comment section: See this more general question:",
+    "tags": [
+      "apple",
+      "openai",
+      "ai",
+      "technology-default"
+    ],
+    "resolution": true,
+    "createdTime": 1715638228623,
+    "createdTimeStr": "2024-05-13",
+    "resolutionTime": 1718047564959,
+    "resolutionTimeStr": "2024-06-10",
+    "lastBetTime": 1718047553672,
+    "lastBetTimeStr": "2024-06-10",
+    "crowd_pred": [
+      [
+        1716120095890,
+        "2024-05-19",
+        0
+      ],
+      [
+        1716601963157,
+        "2024-05-24",
+        0
+      ],
+      [
+        1717083830424,
+        "2024-05-30",
+        0
+      ],
+      [
+        1717565697691,
+        "2024-06-04",
+        0
+      ],
+      [
+        1718047564959,
+        "2024-06-10",
+        0.8544380160522912
+      ]
+    ],
+    "uniqueBettorCount": 1351,
+    "volume": 1873551.6095512449
+  },
+  {
+    "id": "j6XYkOzTmAop8LDRmKV7",
+    "question": "Will the removal of Trump on the Colorado ballot be overturned",
+    "background_text": "Trump was removed from the Colorado ballot meaning no one in Colorado can vote for him",
+    "tags": [
+      "us-politics",
+      "14thamendmentsection3",
+      "colorado"
+    ],
+    "resolution": true,
+    "createdTime": 1704775795384,
+    "createdTimeStr": "2024-01-08",
+    "resolutionTime": 1709600478765,
+    "resolutionTimeStr": "2024-03-04",
+    "lastBetTime": 1709568852901,
+    "lastBetTimeStr": "2024-03-04",
+    "crowd_pred": [
+      [
+        1705740732060,
+        "2024-01-20",
+        0.9
+      ],
+      [
+        1706705668736,
+        "2024-01-31",
+        0.8546176089842664
+      ],
+      [
+        1707670605412,
+        "2024-02-11",
+        0.8734646922843573
+      ],
+      [
+        1708635542088,
+        "2024-02-22",
+        0.949367534511294
+      ],
+      [
+        1709600478765,
+        "2024-03-04",
+        0.9911357207017146
+      ]
+    ],
+    "uniqueBettorCount": 76,
+    "volume": 22181.680296027873
+  },
+  {
+    "id": "JdaTGCxbwp7vE9iz3b1P",
+    "question": "[HARD CRITERIA, READ DESC] Will all \"gpt2-chatbot\" models in LMSYS prove to be new, improved models from OpenAI?",
+    "background_text": "IMPORTANT: Read full criteria. This market has a strict criteria. If all \"gpt2-chatbot\" models are removed from LMSYS without a reintroduction within 15 days the market resolves as NO. For a less strict criteria you have this market:  BE AWARE: For the pourpose of this market  YES and NO criteria apply to all \"gpt2-chatbot\" models at the same time as if all were the same model. Thus, for N number of models regarded as \"gpt2-chatbot\", the resolution criteria will require all these N models to comply in order to resolve either YES or NO (or just resolve as NO past the deadline). That means all need to rank in the top 10, be confirmed by OpenAI, and have a higher ELO than gpt-4-turbo-2024-04-09 for a YES resolution. All need to be removed for the countdown of 15 days to start, be denied as an OpenAI model/claimed with evidence by another organization for a NO resolution. (UTC) April 28: The original gpt2-chatbot, introduced just days earlier, is noticed by the community and gains attention. (UTC) May 1 Update: (UTC) May 7 Update: There are two new \"gpt2-chatbot\" models in LMSYS (battle mode): im-a-good-gpt2-chatbot and im-also-a-good-gpt2-chatbot. 15 days countdown resets and stops. (UTC) May 16 Update: gpt-4o-2024-05-13 is now in the leaderboard with more ELO than gpt-4-turbo-2024-04-09. gpt-4o-2024-05-13 is confirmed to be  Current models regarded as \"gpt2-chatbot\" by this market:  \"gpt2-chatbot\" models are now available at  More info from 4chan:  Resolves as YES: Resolved as NO: OP Trading: RESOLVED as YES (May 16, 2024):",
+    "tags": [
+      "chatgpt",
+      "technology-default",
+      "openai",
+      "ai",
+      "chatbot-arena-leaderboard"
+    ],
+    "resolution": true,
+    "createdTime": 1714406767030,
+    "createdTimeStr": "2024-04-29",
+    "resolutionTime": 1715851254028,
+    "resolutionTimeStr": "2024-05-16",
+    "lastBetTime": 1715719076610,
+    "lastBetTimeStr": "2024-05-14",
+    "crowd_pred": [
+      [
+        1714695664429,
+        "2024-05-02",
+        0.5945642664794211
+      ],
+      [
+        1714984561829,
+        "2024-05-06",
+        0.37366557684270457
+      ],
+      [
+        1715273459228,
+        "2024-05-09",
+        0.5396904555995684
+      ],
+      [
+        1715562356628,
+        "2024-05-12",
+        0.5900000000000001
+      ],
+      [
+        1715851254028,
+        "2024-05-16",
+        0.9658705508371329
+      ]
+    ],
+    "uniqueBettorCount": 153,
+    "volume": 41992.30403811849
+  },
+  {
+    "id": "KDZ3TIBsN6H3TthSG0di",
+    "question": "Will a debate be held between Joe Biden and Donald Trump before the 2024 US presidential election? [ACX 2024] ",
+    "background_text": "Resolves the same as  Resolution criteria This question will resolve as  Fine print and additional background information can be found  Once the original resolves, its resolution will be applied to this market automatically. Trustworthy-ish users are encouraged to resolve this market before then if the outcome is known and unambiguous. Feel free to ping @jskf to request early resolution or to report issues.",
+    "tags": [
+      "2024-us-presidential-election",
+      "the-life-of-biden",
+      "donald-trump",
+      "metaculus",
+      "debate",
+      "acx-2024"
+    ],
+    "resolution": true,
+    "createdTime": 1704115946452,
+    "createdTimeStr": "2024-01-01",
+    "resolutionTime": 1719541783403,
+    "resolutionTimeStr": "2024-06-27",
+    "lastBetTime": 1719519711125,
+    "lastBetTimeStr": "2024-06-27",
+    "crowd_pred": [
+      [
+        1707201113842,
+        "2024-02-05",
+        0.7671853659690455
+      ],
+      [
+        1710286281232,
+        "2024-03-12",
+        0.6840581355102223
+      ],
+      [
+        1713371448622,
+        "2024-04-17",
+        0.6223700342395065
+      ],
+      [
+        1716456616012,
+        "2024-05-23",
+        0.8799359187134187
+      ],
+      [
+        1719541783403,
+        "2024-06-27",
+        0.9851034772529372
+      ]
+    ],
+    "uniqueBettorCount": 475,
+    "volume": 159772.48430829294
+  },
+  {
+    "id": "nhtqRLHoNXRXYe9bEm8m",
+    "question": "Will Trump beat Biden in national polling at the beginning of June? (538)",
+    "background_text": "This market resolves based on the  If the 538 average as of June 8th shows Trump as having been in the lead on June 1st, this market resolves YES. In all other scenarios, this market resolves NO. As of market creation, Trump is ahead by 1 point: See also:",
+    "tags": [
+      "us-politics",
+      "polling-averages",
+      "2024-us-presidential-election",
+      "politics-default"
+    ],
+    "resolution": true,
+    "createdTime": 1715878642787,
+    "createdTimeStr": "2024-05-16",
+    "resolutionTime": 1717882466969,
+    "resolutionTimeStr": "2024-06-08",
+    "lastBetTime": 1717869743068,
+    "lastBetTimeStr": "2024-06-08",
+    "crowd_pred": [
+      [
+        1716279407623,
+        "2024-05-21",
+        0.8853556980180214
+      ],
+      [
+        1716680172459,
+        "2024-05-25",
+        0.9268969494994288
+      ],
+      [
+        1717080937296,
+        "2024-05-30",
+        0.9629096093827145
+      ],
+      [
+        1717481702132,
+        "2024-06-03",
+        0.9580299581387697
+      ],
+      [
+        1717882466969,
+        "2024-06-08",
+        0.9900292041698706
+      ]
+    ],
+    "uniqueBettorCount": 606,
+    "volume": 869789.8790225531
+  },
+  {
+    "id": "110YoASFoRAuZuFCatva",
+    "question": "Will Nvidia close higher than 788.17 on March 1?",
+    "background_text": "Retailer Stocks NVIDIA Corp I DO NOT PARTICIPATE IN MARKETS I CREATE Market Inspired by ",
+    "tags": [
+      "economics-default",
+      "stocks-league-beta",
+      "ai",
+      "nvidia",
+      "technology-default",
+      "keen-stocks",
+      "tech-stocks",
+      "gpu",
+      "finance",
+      "gaming",
+      "stocks"
+    ],
+    "resolution": true,
+    "createdTime": 1708727981225,
+    "createdTimeStr": "2024-02-23",
+    "resolutionTime": 1709329553540,
+    "resolutionTimeStr": "2024-03-01",
+    "lastBetTime": 1709322717768,
+    "lastBetTimeStr": "2024-03-01",
+    "crowd_pred": [
+      [
+        1708848295688,
+        "2024-02-25",
+        0.5381503956925059
+      ],
+      [
+        1708968610151,
+        "2024-02-26",
+        0.6708828173713467
+      ],
+      [
+        1709088924614,
+        "2024-02-27",
+        0.596677994525474
+      ],
+      [
+        1709209239077,
+        "2024-02-29",
+        0.31603934001330425
+      ],
+      [
+        1709329553540,
+        "2024-03-01",
+        0.9917221108681836
+      ]
+    ],
+    "uniqueBettorCount": 96,
+    "volume": 28074.07045441157
+  },
+  {
+    "id": "w2aeqQ1XsQcPzmV3PTYi",
+    "question": "[Short Fuse] Is King Charles either dead or announcing his abdication?",
+    "background_text": "Twitter sure seems to think so but I am dubious. Resolves Yes if there is any such announcement by the end of tomorrow, pacific time. Resolves No otherwise.",
+    "tags": [
+      "uk",
+      "king-charles-iii",
+      "uk-politics",
+      "politics-default",
+      "royalty",
+      "british-royal-family",
+      "death-markets",
+      "gerontocracy"
+    ],
+    "resolution": false,
+    "createdTime": 1710729568620,
+    "createdTimeStr": "2024-03-17",
+    "resolutionTime": 1710851154337,
+    "resolutionTimeStr": "2024-03-19",
+    "lastBetTime": 1710829042410,
+    "lastBetTimeStr": "2024-03-18",
+    "crowd_pred": [
+      [
+        1710753885763,
+        "2024-03-18",
+        0.021093809224123027
+      ],
+      [
+        1710778202906,
+        "2024-03-18",
+        0.010012612709742578
+      ],
+      [
+        1710802520050,
+        "2024-03-18",
+        0.0007800154660739329
+      ],
+      [
+        1710826837193,
+        "2024-03-18",
+        0.0009567046983508469
+      ],
+      [
+        1710851154337,
+        "2024-03-19",
+        0.0004963596536551492
+      ]
+    ],
+    "uniqueBettorCount": 100,
+    "volume": 230928.77415450718
+  },
+  {
+    "id": "34Zno9dCt6AB3QeZFxJ0",
+    "question": "[short-fuse \ud83d\udca3] Does my *Dad* know who Sam Altman is?",
+    "background_text": "Does my dad know who Sam Altman is? I will talk to my dad next week and ask him a simple question, \u201cDad, who is Sam Altman?\u201d. If he says, \u201cThe CEO of OpenAI\u201d, easy YES. If he says, \u201cI have no idea\u201d, easy NO.  How much of a household name is SamA? Some facts that may influence your betting: This market is duplicated from the an original market ",
+    "tags": [
+      "short-fuse",
+      "sam-altman",
+      "ai",
+      "personal",
+      "technology-default"
+    ],
+    "resolution": false,
+    "createdTime": 1714197408586,
+    "createdTimeStr": "2024-04-26",
+    "resolutionTime": 1714898307379,
+    "resolutionTimeStr": "2024-05-05",
+    "lastBetTime": 1714845137103,
+    "lastBetTimeStr": "2024-05-04",
+    "crowd_pred": [
+      [
+        1714337588344,
+        "2024-04-28",
+        0.4478370886571158
+      ],
+      [
+        1714477768103,
+        "2024-04-30",
+        0.475237283631173
+      ],
+      [
+        1714617947861,
+        "2024-05-01",
+        0.5295534149130346
+      ],
+      [
+        1714758127620,
+        "2024-05-03",
+        0.5451246257784308
+      ],
+      [
+        1714898307379,
+        "2024-05-05",
+        0.5195631891334681
+      ]
+    ],
+    "uniqueBettorCount": 76,
+    "volume": 1991.5784378534133
+  },
+  {
+    "id": "9NAMnVoyPO3RduAe7Jxa",
+    "question": "In the Destiny v Ben Shapiro debate, will Destiny speak faster than Ben Shapiro?",
+    "background_text": "The intent of this question is to determine over the duration of the whole debate, who will say a higher number of words per unit time that they are speaking.  I will wait for reddit user /u/shoehorn_staple to post a post-game analysis of debate, and compare WPM of the debaters. If no post-game analysis is posted, I will resort to the test described in strike-through below This would be quite painful to calculate, so I will be using the following test while being open to changing it to come closer to the intent of the question. When the full debate video is out (presumably on Lex Fridman's youtube channel) I will do the following once for Destiny, then once for Ben Shapiro: Resolves to YES if Destiny's speaking speed, as calculated above, is higher then Ben Shapiro's. Resolves NO if Ben Shapiro's is higher. The closing date of this market will be extended until the debate occurs and is available to watch, until a maximum date of EOY 2024, at which point this will resolve N/A.",
+    "tags": [
+      "destinygg",
+      "debate",
+      "ben-shapiro"
+    ],
+    "resolution": true,
+    "createdTime": 1704228635719,
+    "createdTimeStr": "2024-01-02",
+    "resolutionTime": 1706808365652,
+    "resolutionTimeStr": "2024-02-01",
+    "lastBetTime": 1706665382761,
+    "lastBetTimeStr": "2024-01-30",
+    "crowd_pred": [
+      [
+        1704744581705,
+        "2024-01-08",
+        0.7158346413282916
+      ],
+      [
+        1705260527692,
+        "2024-01-14",
+        0.8330090278369525
+      ],
+      [
+        1705776473678,
+        "2024-01-20",
+        0.7833415583274504
+      ],
+      [
+        1706292419665,
+        "2024-01-26",
+        0.97860768948513
+      ],
+      [
+        1706808365652,
+        "2024-02-01",
+        0.968836619099513
+      ]
+    ],
+    "uniqueBettorCount": 76,
+    "volume": 30605.268885160473
+  },
+  {
+    "id": "0gESq5dFd0FhELsgr5kw",
+    "question": "Will Barack Obama make 12 or more Twitter(X) posts in Mar 2024?",
+    "background_text": "Resolves Yes if Barack Obama makes 12 or more Twitter(X) posts in Mar 2024 ",
+    "tags": [
+      "barack-obama",
+      "twitter",
+      "entertainment"
+    ],
+    "resolution": true,
+    "createdTime": 1708381089309,
+    "createdTimeStr": "2024-02-19",
+    "resolutionTime": 1711832466570,
+    "resolutionTimeStr": "2024-03-30",
+    "lastBetTime": 1711832463078,
+    "lastBetTimeStr": "2024-03-30",
+    "crowd_pred": [
+      [
+        1709071364761,
+        "2024-02-27",
+        0.6398387649685658
+      ],
+      [
+        1709761640213,
+        "2024-03-06",
+        0
+      ],
+      [
+        1710451915665,
+        "2024-03-14",
+        0.4208477054585951
+      ],
+      [
+        1711142191117,
+        "2024-03-22",
+        0.10172478186606847
+      ],
+      [
+        1711832466570,
+        "2024-03-30",
+        0.9969301245468203
+      ]
+    ],
+    "uniqueBettorCount": 96,
+    "volume": 37119.987629398536
+  },
+  {
+    "id": "F04M4GAVPz6unzWdZyV4",
+    "question": "Will Manifold have a positive opinion of Zionism? \ud83c\uddee\ud83c\uddf1\ud83d\udc4d",
+    "background_text": "In a few days, I will create a poll with the title: \u201cWhat is your opinion of Zionism?\u201d It will have 11 options: 0 1 2 3 4 5 6 7 8 9 10 The average of all votes will be taken. If the average approval is  Please interpret the word \u201cZionism\u201d however you see appropriate.",
+    "tags": [
+      "us-politics",
+      "arabisraeli-conflict",
+      "zionism",
+      "israelhamas-conflict-2023",
+      "politics-default",
+      "israel",
+      "manifold-6748e065087e"
+    ],
+    "resolution": false,
+    "createdTime": 1710459479198,
+    "createdTimeStr": "2024-03-14",
+    "resolutionTime": 1711287690270,
+    "resolutionTimeStr": "2024-03-24",
+    "lastBetTime": 1711252698410,
+    "lastBetTimeStr": "2024-03-23",
+    "crowd_pred": [
+      [
+        1710625121412,
+        "2024-03-16",
+        0.5978901329834797
+      ],
+      [
+        1710790763626,
+        "2024-03-18",
+        0.5215700938582629
+      ],
+      [
+        1710956405841,
+        "2024-03-20",
+        0.4646532382729132
+      ],
+      [
+        1711122048055,
+        "2024-03-22",
+        0.5378729336625426
+      ],
+      [
+        1711287690270,
+        "2024-03-24",
+        0.09388460214126125
+      ]
+    ],
+    "uniqueBettorCount": 96,
+    "volume": 8851.968591063567
+  },
+  {
+    "id": "GsPIk3Vlln7xE2hfs1CZ",
+    "question": "Will \"Dune: Part Two\" (2024) have a Metacritic score >80?",
+    "background_text": "\"Dune: Part Two\" (2024) Metacritic page:  Other details:",
+    "tags": [
+      "entertainment",
+      "hollywood",
+      "media-rating-futures",
+      "dune",
+      "television-film",
+      "culture-default",
+      "boxoffice",
+      "movies",
+      "metacritic"
+    ],
+    "resolution": false,
+    "createdTime": 1707758168036,
+    "createdTimeStr": "2024-02-12",
+    "resolutionTime": 1710524174224,
+    "resolutionTimeStr": "2024-03-15",
+    "lastBetTime": 1710524155133,
+    "lastBetTimeStr": "2024-03-15",
+    "crowd_pred": [
+      [
+        1708311369273,
+        "2024-02-18",
+        0.7856708982840078
+      ],
+      [
+        1708864570511,
+        "2024-02-25",
+        0.6984958453722748
+      ],
+      [
+        1709417771748,
+        "2024-03-02",
+        0.7223277473408064
+      ],
+      [
+        1709970972986,
+        "2024-03-08",
+        0.2627816502812947
+      ],
+      [
+        1710524174224,
+        "2024-03-15",
+        0.0009681505873882124
+      ]
+    ],
+    "uniqueBettorCount": 103,
+    "volume": 28002.31675562269
+  },
+  {
+    "id": "3fI1ugaDxWC4hdPXPypy",
+    "question": "Will the Detroit Lions rip-apart the LA Rams? \ud83c\udfc8 Wild Card",
+    "background_text": "YES if they win. NO if other team (second team in question) wins or ties.",
+    "tags": [
+      "sports-default",
+      "football",
+      "nfl"
+    ],
+    "resolution": true,
+    "createdTime": 1704681098592,
+    "createdTimeStr": "2024-01-07",
+    "resolutionTime": 1705291346528,
+    "resolutionTimeStr": "2024-01-14",
+    "lastBetTime": 1705291279534,
+    "lastBetTimeStr": "2024-01-14",
+    "crowd_pred": [
+      [
+        1704803148179,
+        "2024-01-09",
+        0.5960762636144709
+      ],
+      [
+        1704925197766,
+        "2024-01-10",
+        0.6030845495662076
+      ],
+      [
+        1705047247353,
+        "2024-01-12",
+        0.5845663354767149
+      ],
+      [
+        1705169296940,
+        "2024-01-13",
+        0.6098729297330182
+      ],
+      [
+        1705291346528,
+        "2024-01-14",
+        0.9984431493643728
+      ]
+    ],
+    "uniqueBettorCount": 87,
+    "volume": 74086.66973849533
+  },
+  {
+    "id": "bDyubLiH6DmGI4va9Bwg",
+    "question": "Will the Trump immunity case be decided unanimously by the Supreme Court?",
+    "background_text": "This question will resolve YES if all of the Supreme Court Justices sign onto the majority opinion in the ",
+    "tags": [
+      "magaland",
+      "donald-trump",
+      "supreme-court",
+      "law-order"
+    ],
+    "resolution": false,
+    "createdTime": 1709160186664,
+    "createdTimeStr": "2024-02-28",
+    "resolutionTime": 1719886025193,
+    "resolutionTimeStr": "2024-07-01",
+    "lastBetTime": 1719854466983,
+    "lastBetTimeStr": "2024-07-01",
+    "crowd_pred": [
+      [
+        1711305354369,
+        "2024-03-24",
+        0.5977846811507761
+      ],
+      [
+        1713450522075,
+        "2024-04-18",
+        0.5499999999999997
+      ],
+      [
+        1715595689781,
+        "2024-05-13",
+        0.21570252242700813
+      ],
+      [
+        1717740857487,
+        "2024-06-06",
+        0.20923525307404614
+      ],
+      [
+        1719886025193,
+        "2024-07-01",
+        0.00914182619145856
+      ]
+    ],
+    "uniqueBettorCount": 73,
+    "volume": 21615.988224049877
+  },
+  {
+    "id": "X4o6m1sgkqk3bURKRa7r",
+    "question": "Will Jimmy Carter live to see Trump found guilty of a crime?",
+    "background_text": "",
+    "tags": [
+      "donald-trump",
+      "death-markets",
+      "trump-indictments",
+      "law-order",
+      "magaland",
+      "jimmy-carter",
+      "us-politics",
+      "nonpredictive",
+      "unsubsidized"
+    ],
+    "resolution": true,
+    "createdTime": 1711390066028,
+    "createdTimeStr": "2024-03-25",
+    "resolutionTime": 1717103673930,
+    "resolutionTimeStr": "2024-05-30",
+    "lastBetTime": 1717103669150,
+    "lastBetTimeStr": "2024-05-30",
+    "crowd_pred": [
+      [
+        1712532787608,
+        "2024-04-07",
+        0.3545202673870421
+      ],
+      [
+        1713675509188,
+        "2024-04-20",
+        0.4032033582500422
+      ],
+      [
+        1714818230769,
+        "2024-05-04",
+        0.5831207528694188
+      ],
+      [
+        1715960952349,
+        "2024-05-17",
+        0.5793791513349759
+      ],
+      [
+        1717103673930,
+        "2024-05-30",
+        0.9849828647865071
+      ]
+    ],
+    "uniqueBettorCount": 76,
+    "volume": 22484.51032397566
+  },
+  {
+    "id": "PE6NMuh4ixvb4rzjWAek",
+    "question": "Will any open-source model rank higher than GPT-4 on ChatBot Arena in 2024? (according to ELO Rating) ",
+    "background_text": "I saw a question titled \" We use a loose definition of open-source that encompasses all previous versions of llama. In essence if it is theoretically possible for anyone to download the weights and run the model then it is considered opensource. This market resolves yes if any open-source model achieves an ELO rating that ranks it higher than GPT-4 on ChatBot Arena at any point in 2024. New versions of GPT-4 do not count. The comparison will be done to the earliest GPT-4 version ",
+    "tags": [
+      "ai",
+      "openai",
+      "llms",
+      "chatbot-arena-leaderboard",
+      "open-source"
+    ],
+    "resolution": true,
+    "createdTime": 1704280716611,
+    "createdTimeStr": "2024-01-03",
+    "resolutionTime": 1712690656977,
+    "resolutionTimeStr": "2024-04-09",
+    "lastBetTime": 1712689252145,
+    "lastBetTimeStr": "2024-04-09",
+    "crowd_pred": [
+      [
+        1705962704684,
+        "2024-01-22",
+        0.8020704966531087
+      ],
+      [
+        1707644692757,
+        "2024-02-11",
+        0.828862218255293
+      ],
+      [
+        1709326680830,
+        "2024-03-01",
+        0.8282530704148418
+      ],
+      [
+        1711008668903,
+        "2024-03-21",
+        0.84
+      ],
+      [
+        1712690656977,
+        "2024-04-09",
+        0.9898619394632967
+      ]
+    ],
+    "uniqueBettorCount": 121,
+    "volume": 50389.657983906654
+  },
+  {
+    "id": "0d3ALionLDpce22tesOo",
+    "question": "Will Israel attack Iran within one week of being attacked by them?",
+    "background_text": "Related:   Link: ",
+    "tags": [
+      "wars",
+      "iran",
+      "israel",
+      "israelhamas-conflict-2023",
+      "geopolitics"
+    ],
+    "resolution": true,
+    "createdTime": 1713044783878,
+    "createdTimeStr": "2024-04-13",
+    "resolutionTime": 1713491118786,
+    "resolutionTimeStr": "2024-04-18",
+    "lastBetTime": 1713491096337,
+    "lastBetTimeStr": "2024-04-18",
+    "crowd_pred": [
+      [
+        1713134050859,
+        "2024-04-14",
+        0.4150971901472418
+      ],
+      [
+        1713223317841,
+        "2024-04-15",
+        0.49570220551028055
+      ],
+      [
+        1713312584822,
+        "2024-04-16",
+        0.2467699210973434
+      ],
+      [
+        1713401851804,
+        "2024-04-17",
+        0.07830201253554392
+      ],
+      [
+        1713491118786,
+        "2024-04-18",
+        0.9751323881014264
+      ]
+    ],
+    "uniqueBettorCount": 210,
+    "volume": 39320.654562920136
+  },
+  {
+    "id": "EgYGAGM9NV9tbk6fAU35",
+    "question": "In Inside Out 2, will Riley and this new character kiss?",
+    "background_text": "Resolves YES, if in Inside Out 2 either Riley kisses this new character or this new character kisses Riley (or both). The kiss must either happen on screen or be unambiguously referenced or implied in the original English voice acting version (via audio, dialogue, English subtitles, or visuals) as a part of canonical in-world events (i.e. a dream sequence will not count).  The scene must be in the movie, but may be during or after the credits). To qualify as YES, it must be between the two humans.  If there were somehow a kiss only between their emotions, that would not be sufficient.  Further, kissing a photo, or an image on a phone, e.g., would also not be sufficient.  ",
+    "tags": [
+      "disney",
+      "pixar",
+      "movies",
+      "animated-movies",
+      "culture-default"
+    ],
+    "resolution": false,
+    "createdTime": 1709989143608,
+    "createdTimeStr": "2024-03-09",
+    "resolutionTime": 1718362774609,
+    "resolutionTimeStr": "2024-06-14",
+    "lastBetTime": 1718362169181,
+    "lastBetTimeStr": "2024-06-14",
+    "crowd_pred": [
+      [
+        1711663869808,
+        "2024-03-28",
+        0.2762136266725783
+      ],
+      [
+        1713338596008,
+        "2024-04-17",
+        0.35000000000000003
+      ],
+      [
+        1715013322208,
+        "2024-05-06",
+        0.41011626475691054
+      ],
+      [
+        1716688048408,
+        "2024-05-25",
+        0.35328618053715677
+      ],
+      [
+        1718362774609,
+        "2024-06-14",
+        0.010000043254480787
+      ]
+    ],
+    "uniqueBettorCount": 83,
+    "volume": 45532.90471381516
+  },
+  {
+    "id": "wdgpb1Rq8ofz6Udk5ZG0",
+    "question": "Will I find GPT-4o more helpful than Claude 3 Opus for doing web development tomorrow?",
+    "background_text": "I will use both models for similar tasks. ",
+    "tags": [
+      "openai",
+      "anthropic",
+      "ai",
+      "technology-default"
+    ],
+    "resolution": true,
+    "createdTime": 1715917692858,
+    "createdTimeStr": "2024-05-16",
+    "resolutionTime": 1716045672238,
+    "resolutionTimeStr": "2024-05-18",
+    "lastBetTime": 1716044322113,
+    "lastBetTimeStr": "2024-05-18",
+    "crowd_pred": [
+      [
+        1715943288734,
+        "2024-05-17",
+        0.6186734621880692
+      ],
+      [
+        1715968884610,
+        "2024-05-17",
+        0.5971097649603452
+      ],
+      [
+        1715994480486,
+        "2024-05-17",
+        0.48373684603499706
+      ],
+      [
+        1716020076362,
+        "2024-05-18",
+        0.5859177602980902
+      ],
+      [
+        1716045672238,
+        "2024-05-18",
+        0.6718323678471232
+      ]
+    ],
+    "uniqueBettorCount": 124,
+    "volume": 11417.775869067444
+  },
+  {
+    "id": "eotn0ldGzYHcPfF0Ssg1",
+    "question": "Will any polls show Haley leading Trump in the NH GOP presidential primary per 538?",
+    "background_text": "Outcome is resolved on whether there is at least one poll listed on  A poll showing both candidates at the same percentage may be evaluated further at the original source. ",
+    "tags": [
+      "2024-republican-primaries",
+      "new-hampshire",
+      "nikki-haley",
+      "2024-us-presidential-election",
+      "fivethirtyeight",
+      "donald-trump",
+      "new-hampshire-primary",
+      "politics-default",
+      "2024-primaries",
+      "us-politics"
+    ],
+    "resolution": false,
+    "createdTime": 1704306198190,
+    "createdTimeStr": "2024-01-03",
+    "resolutionTime": 1706021865179,
+    "resolutionTimeStr": "2024-01-23",
+    "lastBetTime": 1705974617871,
+    "lastBetTimeStr": "2024-01-22",
+    "crowd_pred": [
+      [
+        1704649331587,
+        "2024-01-07",
+        0.3574665321247893
+      ],
+      [
+        1704992464985,
+        "2024-01-11",
+        0.5878236015301193
+      ],
+      [
+        1705335598383,
+        "2024-01-15",
+        0.37060021057698045
+      ],
+      [
+        1705678731781,
+        "2024-01-19",
+        0.10284467743749658
+      ],
+      [
+        1706021865179,
+        "2024-01-23",
+        0.03128639512035706
+      ]
+    ],
+    "uniqueBettorCount": 139,
+    "volume": 26520.52187166366
+  },
+  {
+    "id": "WP0BxtWbqn6ymoIBaZrG",
+    "question": "Will Congress pass a new Ukraine aid package by the end of April 2024?",
+    "background_text": "The package must have >$1 billion in new aid to Ukraine, and the House and Senate must pass the same version of the bill by April 30th to resolve YES. Otherwise, resolves NO. See also:   ",
+    "tags": [
+      "ukrainerussia-war",
+      "ukraine",
+      "118th-congress",
+      "us-politics"
+    ],
+    "resolution": true,
+    "createdTime": 1709778958903,
+    "createdTimeStr": "2024-03-06",
+    "resolutionTime": 1713923251585,
+    "resolutionTimeStr": "2024-04-23",
+    "lastBetTime": 1713905779432,
+    "lastBetTimeStr": "2024-04-23",
+    "crowd_pred": [
+      [
+        1710607817439,
+        "2024-03-16",
+        0.7142905014642141
+      ],
+      [
+        1711436675975,
+        "2024-03-26",
+        0.6315312668961911
+      ],
+      [
+        1712265534512,
+        "2024-04-04",
+        0.47317327944238824
+      ],
+      [
+        1713094393048,
+        "2024-04-14",
+        0.33596011127553516
+      ],
+      [
+        1713923251585,
+        "2024-04-23",
+        0.9899884717372582
+      ]
+    ],
+    "uniqueBettorCount": 174,
+    "volume": 35886.12078386532
+  },
+  {
+    "id": "KZOsRNLK1WopQSIUHGkB",
+    "question": "GPT-4.5 released this quarter?",
+    "background_text": "Resolves the same way as ",
+    "tags": [
+      "ai",
+      "gpt4",
+      "gpt5-speculation",
+      "gpt4-speculation"
+    ],
+    "resolution": true,
+    "createdTime": 1712333751526,
+    "createdTimeStr": "2024-04-05",
+    "resolutionTime": 1715819468111,
+    "resolutionTimeStr": "2024-05-15",
+    "lastBetTime": 1715814326609,
+    "lastBetTimeStr": "2024-05-15",
+    "crowd_pred": [
+      [
+        1713030894843,
+        "2024-04-13",
+        0.19040871569298062
+      ],
+      [
+        1713728038160,
+        "2024-04-21",
+        0.08071972033610259
+      ],
+      [
+        1714425181477,
+        "2024-04-29",
+        0.10753464689511706
+      ],
+      [
+        1715122324794,
+        "2024-05-07",
+        0.09194275995758436
+      ],
+      [
+        1715819468111,
+        "2024-05-15",
+        0.9899999999999999
+      ]
+    ],
+    "uniqueBettorCount": 99,
+    "volume": 47479.62053878048
+  },
+  {
+    "id": "GcsEP5ebRIeYLWzb2Hja",
+    "question": "Will Israel have a ground incursion in Rafah by April?",
+    "background_text": "Ground incursion as they have now in Gaza, Han Yunis, Dier el Balah etc not just special forces, but holding ground. I will not bet on this market",
+    "tags": [
+      "israel",
+      "arabisraeli-conflict",
+      "wars",
+      "israelhamas-conflict-2023"
+    ],
+    "resolution": false,
+    "createdTime": 1707208027882,
+    "createdTimeStr": "2024-02-06",
+    "resolutionTime": 1712002190577,
+    "resolutionTimeStr": "2024-04-01",
+    "lastBetTime": 1711975317526,
+    "lastBetTimeStr": "2024-04-01",
+    "crowd_pred": [
+      [
+        1708166860421,
+        "2024-02-17",
+        0.756908216608062
+      ],
+      [
+        1709125692960,
+        "2024-02-28",
+        0.6268260462333078
+      ],
+      [
+        1710084525499,
+        "2024-03-10",
+        0.38650976686763483
+      ],
+      [
+        1711043358038,
+        "2024-03-21",
+        0.19799491021851118
+      ],
+      [
+        1712002190577,
+        "2024-04-01",
+        0.009214607975970842
+      ]
+    ],
+    "uniqueBettorCount": 89,
+    "volume": 19015.198574772905
+  },
+  {
+    "id": "YfsB2p8m8tPPBJ5yVkkW",
+    "question": "Will Nikki Haley drop out of the race for President before the end of Feb 2024?",
+    "background_text": " ",
+    "tags": [
+      "us-politics",
+      "ron-desantis",
+      "2024-us-presidential-election"
+    ],
+    "resolution": false,
+    "createdTime": 1705198668505,
+    "createdTimeStr": "2024-01-13",
+    "resolutionTime": 1709299503693,
+    "resolutionTimeStr": "2024-03-01",
+    "lastBetTime": 1709299500584,
+    "lastBetTimeStr": "2024-03-01",
+    "crowd_pred": [
+      [
+        1706018835542,
+        "2024-01-23",
+        0
+      ],
+      [
+        1706839002580,
+        "2024-02-01",
+        0
+      ],
+      [
+        1707659169617,
+        "2024-02-11",
+        0.2917934559639815
+      ],
+      [
+        1708479336655,
+        "2024-02-20",
+        0.12947747746019778
+      ],
+      [
+        1709299503693,
+        "2024-03-01",
+        0.0009951029796729494
+      ]
+    ],
+    "uniqueBettorCount": 403,
+    "volume": 199919.82098768587
+  },
+  {
+    "id": "AjO1wivQNkm1yE1yEYpb",
+    "question": "Will \"MY PUSSY IN BIO\" spam stop by April?",
+    "background_text": "I will resolve it by searching the top 20 replies on the latest 10 tweets by elon musk + do a keyword search on Twitter for the latest 100 posts (this includes replies) . If there's none on evening April 1st it will be a YES. ",
+    "tags": [
+      "technology-default",
+      "twitter"
+    ],
+    "resolution": true,
+    "createdTime": 1708333180822,
+    "createdTimeStr": "2024-02-19",
+    "resolutionTime": 1712456206388,
+    "resolutionTimeStr": "2024-04-06",
+    "lastBetTime": 1712004379436,
+    "lastBetTimeStr": "2024-04-01",
+    "crowd_pred": [
+      [
+        1709157785935,
+        "2024-02-28",
+        0.1723598431308392
+      ],
+      [
+        1709982391048,
+        "2024-03-09",
+        0
+      ],
+      [
+        1710806996161,
+        "2024-03-18",
+        0
+      ],
+      [
+        1711631601274,
+        "2024-03-28",
+        0.1313992968139284
+      ],
+      [
+        1712456206388,
+        "2024-04-06",
+        0.611634198193164
+      ]
+    ],
+    "uniqueBettorCount": 186,
+    "volume": 16821.731241549493
+  },
+  {
+    "id": "52tTHsLfKrSHYMmS0s9j",
+    "question": "Will Joe Biden win the first debate against Donald Trump?",
+    "background_text": "In the past, 538 has covered presidential debates by sponsoring polling of debate viewers and asking them who won. If they do this again for the first such debate in the 2024 election, this market resolves Yes if Biden wins and No if Trump wins, according to that polling.  If there are several questions polled about the candidates' debate performance, this question resolves based on the closest thing to the question \"Overall, who do you think won the debate?\" If 538 does not sponsor their own polling but does have a definitive post-debate article covering other polling, perhaps averaging different polls of debate viewers, this market will resolve based on that coverage. I will update this criteria as we learn more about the first debate and 538's coverage. Resolves N/A if there is no debate between Biden and Trump, or if 538 does not do post-debate coverage with debate viewer polling.",
+    "tags": [
+      "us-politics",
+      "politics-default",
+      "2024-us-presidential-election"
+    ],
+    "resolution": false,
+    "createdTime": 1707446164165,
+    "createdTimeStr": "2024-02-08",
+    "resolutionTime": 1719603956187,
+    "resolutionTimeStr": "2024-06-28",
+    "lastBetTime": 1719603718761,
+    "lastBetTimeStr": "2024-06-28",
+    "crowd_pred": [
+      [
+        1709877722569,
+        "2024-03-07",
+        0.5000000000000004
+      ],
+      [
+        1712309280973,
+        "2024-04-05",
+        0.5782588916586119
+      ],
+      [
+        1714740839378,
+        "2024-05-03",
+        0.5525590694615609
+      ],
+      [
+        1717172397782,
+        "2024-05-31",
+        0.4195912960787599
+      ],
+      [
+        1719603956187,
+        "2024-06-28",
+        0.010000000000000002
+      ]
+    ],
+    "uniqueBettorCount": 308,
+    "volume": 149627.2763078555
+  },
+  {
+    "id": "ib0i8TCxfv5k9j0XwxlJ",
+    "question": "Will OpenAI roll out the new 4o voice mode within the next 2 weeks?",
+    "background_text": "Resolves yes if they start shipping the voice mode from the GPT-4o presentation to the first users within the next 2 weeks. Resolves no if we still don\u2019t see anybody testing/using it outside of OpenAI.",
+    "tags": [
+      "openai",
+      "ai",
+      "gpt5-speculation",
+      "chatgpt",
+      "gpt4-speculation"
+    ],
+    "resolution": false,
+    "createdTime": 1718056724728,
+    "createdTimeStr": "2024-06-10",
+    "resolutionTime": 1719267368582,
+    "resolutionTimeStr": "2024-06-24",
+    "lastBetTime": 1719262594139,
+    "lastBetTimeStr": "2024-06-24",
+    "crowd_pred": [
+      [
+        1718298853498,
+        "2024-06-13",
+        0.37954541506930817
+      ],
+      [
+        1718540982269,
+        "2024-06-16",
+        0.36878560944949285
+      ],
+      [
+        1718783111040,
+        "2024-06-19",
+        0.3225213231034185
+      ],
+      [
+        1719025239811,
+        "2024-06-21",
+        0.15000000000000033
+      ],
+      [
+        1719267368582,
+        "2024-06-24",
+        0.01325613275899058
+      ]
+    ],
+    "uniqueBettorCount": 167,
+    "volume": 51538.8491836539
+  },
+  {
+    "id": "fufLAyCzDjgXVLU3gr4E",
+    "question": "Will Destiny reach 760k subscribers in January 2024?",
+    "background_text": "Resolves to what his ",
+    "tags": [
+      "destinygg",
+      "subscriber-milestones"
+    ],
+    "resolution": true,
+    "createdTime": 1704101662040,
+    "createdTimeStr": "2024-01-01",
+    "resolutionTime": 1706448608960,
+    "resolutionTimeStr": "2024-01-28",
+    "lastBetTime": 1706448584078,
+    "lastBetTimeStr": "2024-01-28",
+    "crowd_pred": [
+      [
+        1704571051424,
+        "2024-01-06",
+        0.695981983344436
+      ],
+      [
+        1705040440808,
+        "2024-01-11",
+        0.7
+      ],
+      [
+        1705509830192,
+        "2024-01-17",
+        0.933814036068689
+      ],
+      [
+        1705979219576,
+        "2024-01-22",
+        0.5899999999999999
+      ],
+      [
+        1706448608960,
+        "2024-01-28",
+        0.9985384640038107
+      ]
+    ],
+    "uniqueBettorCount": 92,
+    "volume": 101791.37235232841
+  },
+  {
+    "id": "q5g9CTDHJXYUa7ds04sj",
+    "question": "Will Iran attack Israel AGAIN within 30 days of being attacked by them?",
+    "background_text": "   Using similar criteria as Metaculus",
+    "tags": [
+      "israel",
+      "iran",
+      "wars",
+      "geopolitics",
+      "israelhamas-conflict-2023"
+    ],
+    "resolution": false,
+    "createdTime": 1713491282026,
+    "createdTimeStr": "2024-04-18",
+    "resolutionTime": 1716091587123,
+    "resolutionTimeStr": "2024-05-18",
+    "lastBetTime": 1716071725707,
+    "lastBetTimeStr": "2024-05-18",
+    "crowd_pred": [
+      [
+        1714011343045,
+        "2024-04-24",
+        0.037133169996253365
+      ],
+      [
+        1714531404064,
+        "2024-04-30",
+        0.024770027169668935
+      ],
+      [
+        1715051465084,
+        "2024-05-06",
+        0.01840312070307578
+      ],
+      [
+        1715571526103,
+        "2024-05-12",
+        0.018400347433420835
+      ],
+      [
+        1716091587123,
+        "2024-05-18",
+        0.010089392315108602
+      ]
+    ],
+    "uniqueBettorCount": 77,
+    "volume": 22597.073424956354
+  },
+  {
+    "id": "1aEnP2eYusvb2DO0ywJ3",
+    "question": "Will \"Civil War\" (2024) have a higher Metacritic score than \"Captain America: Civil War\"? (>75)",
+    "background_text": "Details:",
+    "tags": [
+      "movies",
+      "culture-default",
+      "us-politics",
+      "boxoffice",
+      "television-film",
+      "entertainment",
+      "entertainment-12ba84d9b720",
+      "politics-default",
+      "rotten-tomatoes"
+    ],
+    "resolution": false,
+    "createdTime": 1710518266269,
+    "createdTimeStr": "2024-03-15",
+    "resolutionTime": 1714139101353,
+    "resolutionTimeStr": "2024-04-26",
+    "lastBetTime": 1714138898399,
+    "lastBetTimeStr": "2024-04-26",
+    "crowd_pred": [
+      [
+        1711242433285,
+        "2024-03-23",
+        0.6326547216261323
+      ],
+      [
+        1711966600302,
+        "2024-04-01",
+        0.7310440476365043
+      ],
+      [
+        1712690767319,
+        "2024-04-09",
+        0.824379461183096
+      ],
+      [
+        1713414934336,
+        "2024-04-17",
+        0.380415998053265
+      ],
+      [
+        1714139101353,
+        "2024-04-26",
+        0.010000000000000004
+      ]
+    ],
+    "uniqueBettorCount": 92,
+    "volume": 18076.36782955101
+  },
+  {
+    "id": "j2WUQcscW4SdgP4Nvhjq",
+    "question": "Will Joe Biden mention AI in the state of the union address",
+    "background_text": "If Joe Biden mentions ai or an ai product this resolves yes",
+    "tags": [
+      "state-of-the-union",
+      "us-politics",
+      "politics-default",
+      "ai",
+      "sotu24"
+    ],
+    "resolution": true,
+    "createdTime": 1708093983919,
+    "createdTimeStr": "2024-02-16",
+    "resolutionTime": 1709868493077,
+    "resolutionTimeStr": "2024-03-07",
+    "lastBetTime": 1709868479006,
+    "lastBetTimeStr": "2024-03-07",
+    "crowd_pred": [
+      [
+        1708448885750,
+        "2024-02-20",
+        0.6559964339494682
+      ],
+      [
+        1708803787582,
+        "2024-02-24",
+        0.6434289728482607
+      ],
+      [
+        1709158689413,
+        "2024-02-28",
+        0.6693950883654757
+      ],
+      [
+        1709513591245,
+        "2024-03-03",
+        0.6071170343224689
+      ],
+      [
+        1709868493077,
+        "2024-03-07",
+        0.9931422827919975
+      ]
+    ],
+    "uniqueBettorCount": 130,
+    "volume": 29524.099080558655
+  },
+  {
+    "id": "62I8uQGQmnpchUcDyisd",
+    "question": "Will the Philadelphia Eagles swoop the Tampa Bay Buccaneers? \ud83c\udfc8 Wild Card",
+    "background_text": "YES if they win. NO if other team (second team in question) wins or ties.",
+    "tags": [
+      "sports-default",
+      "nfl",
+      "football"
+    ],
+    "resolution": false,
+    "createdTime": 1704680932402,
+    "createdTimeStr": "2024-01-07",
+    "resolutionTime": 1705378742304,
+    "resolutionTimeStr": "2024-01-15",
+    "lastBetTime": 1705378666881,
+    "lastBetTimeStr": "2024-01-15",
+    "crowd_pred": [
+      [
+        1704820494382,
+        "2024-01-09",
+        0.53943863284086
+      ],
+      [
+        1704960056362,
+        "2024-01-11",
+        0.607780777969191
+      ],
+      [
+        1705099618343,
+        "2024-01-12",
+        0.6056878137223628
+      ],
+      [
+        1705239180323,
+        "2024-01-14",
+        0.5943801744662454
+      ],
+      [
+        1705378742304,
+        "2024-01-15",
+        0.00048671019949507574
+      ]
+    ],
+    "uniqueBettorCount": 82,
+    "volume": 60869.93881355499
+  },
+  {
+    "id": "6GX8dxzqNVb2HjwKMjLg",
+    "question": "Will Slovakian PM Robert Fico survive the assassination attempt?",
+    "background_text": "Resolves YES if he survives the week",
+    "tags": [
+      "europe",
+      "geopolitics",
+      "politics-default",
+      "slovakia"
+    ],
+    "resolution": true,
+    "createdTime": 1715783223670,
+    "createdTimeStr": "2024-05-15",
+    "resolutionTime": 1716462696379,
+    "resolutionTimeStr": "2024-05-23",
+    "lastBetTime": 1716424062400,
+    "lastBetTimeStr": "2024-05-22",
+    "crowd_pred": [
+      [
+        1715919118211,
+        "2024-05-16",
+        0.9692116582465037
+      ],
+      [
+        1716055012753,
+        "2024-05-18",
+        0.9405089703797342
+      ],
+      [
+        1716190907295,
+        "2024-05-20",
+        0.9814014091054556
+      ],
+      [
+        1716326801837,
+        "2024-05-21",
+        0.9542572800125062
+      ],
+      [
+        1716462696379,
+        "2024-05-23",
+        0.9898454746351862
+      ]
+    ],
+    "uniqueBettorCount": 127,
+    "volume": 22370.4009045042
+  },
+  {
+    "id": "ddnFjBFfOh2ZRtXxdklJ",
+    "question": "Will Apple announce a partnership with OpenAI during WWDC 2024?",
+    "background_text": "Resolves positively if Apple announces a partnership with OpenAI on the main keynote of WWDC 2024. There must be a partnership regarding some product or service, simply showing that users can use the ChatGPT app on iPhone would not be sufficient. See this question about Siri in particular:",
+    "tags": [
+      "openai",
+      "-wwdc-2024",
+      "apple",
+      "technology-default",
+      "ai"
+    ],
+    "resolution": true,
+    "createdTime": 1715637955009,
+    "createdTimeStr": "2024-05-13",
+    "resolutionTime": 1718047578477,
+    "resolutionTimeStr": "2024-06-10",
+    "lastBetTime": 1718046877532,
+    "lastBetTimeStr": "2024-06-10",
+    "crowd_pred": [
+      [
+        1716119879702,
+        "2024-05-19",
+        0.7999999999999995
+      ],
+      [
+        1716601804396,
+        "2024-05-24",
+        0.7181111871015085
+      ],
+      [
+        1717083729089,
+        "2024-05-30",
+        0.9453950888301431
+      ],
+      [
+        1717565653783,
+        "2024-06-04",
+        0.8595016508750111
+      ],
+      [
+        1718047578477,
+        "2024-06-10",
+        0.9717804040344044
+      ]
+    ],
+    "uniqueBettorCount": 148,
+    "volume": 152271.32961487566
+  },
+  {
+    "id": "jQLrhiOEl5dYfPQG9qAw",
+    "question": "Will there be an Israel-Hamas ceasefire announced before the end of May 16th?",
+    "background_text": "Going by end of day Israel time both sides must agree",
+    "tags": [
+      "arabisraeli-conflict",
+      "geopolitics",
+      "israel",
+      "wars",
+      "israelhamas-conflict-2023"
+    ],
+    "resolution": false,
+    "createdTime": 1713469212631,
+    "createdTimeStr": "2024-04-18",
+    "resolutionTime": 1715898838670,
+    "resolutionTimeStr": "2024-05-16",
+    "lastBetTime": 1715892710509,
+    "lastBetTimeStr": "2024-05-16",
+    "crowd_pred": [
+      [
+        1713955137838,
+        "2024-04-24",
+        0.13673974227412256
+      ],
+      [
+        1714441063046,
+        "2024-04-29",
+        0.2815770841026022
+      ],
+      [
+        1714926988254,
+        "2024-05-05",
+        0.1954490374537112
+      ],
+      [
+        1715412913462,
+        "2024-05-11",
+        0.060204160530419853
+      ],
+      [
+        1715898838670,
+        "2024-05-16",
+        0.011386786752583191
+      ]
+    ],
+    "uniqueBettorCount": 73,
+    "volume": 15030.251952106188
+  },
+  {
+    "id": "LSOymZ2ycSPTfnADoP98",
+    "question": "If Manifold Markets were to shut down unless you bought 20$ worth of Mana with real money, would you buy it to save it?",
+    "background_text": "Will resolve to the most popular opinion by resolution time. If over or equal to 50% will resolve to yes, otherwise to no.  I believe this app is exceptionally developed and its creators really intelligent, so in good faith I already made a small purchase of Mana, which is why I have voted yes. ",
+    "tags": [
+      "personal-opinion",
+      "manifold-6748e065087e",
+      "nonpredictive",
+      "selfresolving"
+    ],
+    "resolution": true,
+    "createdTime": 1715600392256,
+    "createdTimeStr": "2024-05-13",
+    "resolutionTime": 1716242287288,
+    "resolutionTimeStr": "2024-05-20",
+    "lastBetTime": 1716238572479,
+    "lastBetTimeStr": "2024-05-20",
+    "crowd_pred": [
+      [
+        1715728771262,
+        "2024-05-14",
+        0.3601042319605382
+      ],
+      [
+        1715857150268,
+        "2024-05-16",
+        0.25
+      ],
+      [
+        1715985529275,
+        "2024-05-17",
+        0.46543877813146894
+      ],
+      [
+        1716113908281,
+        "2024-05-19",
+        0.32000000000000023
+      ],
+      [
+        1716242287288,
+        "2024-05-20",
+        0.8072547223691559
+      ]
+    ],
+    "uniqueBettorCount": 116,
+    "volume": 10620.415612105597
+  },
+  {
+    "id": "qzgibjhxpg",
+    "question": "Will The Guardian issue a correction to its EA/Manifest/FTX article?",
+    "background_text": "The Guardian piece here:  https://www.theguardian.com/technology/article/2024/jun/16/sam-bankman-fried-ftx-eugenics-scientific-racism Reportedly contains many factual errors: See  Resolves yes if one or more of these are corrected (either by stealth edit, deleting the article or editors note) by the end of July.",
+    "tags": "",
+    "resolution": true,
+    "createdTime": 1718610322959,
+    "createdTimeStr": "2024-06-17",
+    "resolutionTime": 1718683051964,
+    "resolutionTimeStr": "2024-06-17",
+    "lastBetTime": 1718680430470,
+    "lastBetTimeStr": "2024-06-17",
+    "crowd_pred": [
+      [
+        1718624868760,
+        "2024-06-17",
+        0.7150104081688887
+      ],
+      [
+        1718639414561,
+        "2024-06-17",
+        0.8442444498632845
+      ],
+      [
+        1718653960362,
+        "2024-06-17",
+        0.7793267239328081
+      ],
+      [
+        1718668506163,
+        "2024-06-17",
+        0.7915761089424889
+      ],
+      [
+        1718683051964,
+        "2024-06-17",
+        0.9959120382738715
+      ]
+    ],
+    "uniqueBettorCount": 95,
+    "volume": 54615.487522673844
+  },
+  {
+    "id": "BnmiMxRYC4yuuZXILpM0",
+    "question": "Will the Houston Texans stampede the Baltimore Ravens? \ud83c\udfc8 Playoffs",
+    "background_text": "YES if they win. NO if other team (second team in question) wins or ties.",
+    "tags": [
+      "nfl",
+      "sports-default",
+      "football"
+    ],
+    "resolution": false,
+    "createdTime": 1705337563522,
+    "createdTimeStr": "2024-01-15",
+    "resolutionTime": 1705797498635,
+    "resolutionTimeStr": "2024-01-20",
+    "lastBetTime": 1705797488933,
+    "lastBetTimeStr": "2024-01-20",
+    "crowd_pred": [
+      [
+        1705429550544,
+        "2024-01-16",
+        0.14000000000000012
+      ],
+      [
+        1705521537567,
+        "2024-01-17",
+        0.1810444900093657
+      ],
+      [
+        1705613524589,
+        "2024-01-18",
+        0.22050177180206731
+      ],
+      [
+        1705705511612,
+        "2024-01-19",
+        0.19999999999999998
+      ],
+      [
+        1705797498635,
+        "2024-01-20",
+        0.000996292536502982
+      ]
+    ],
+    "uniqueBettorCount": 77,
+    "volume": 102935.16453793664
+  },
+  {
+    "id": "HKI19BE4jXQ1OltBnovD",
+    "question": "[Polymarket] Will Congress pass bill banning Tiktok by April 30?",
+    "background_text": "This market is a direct copy of a market from Polymarket ( The description of the original market: \"This market will resolve to \"Yes\" if any bill is passed by both the US House and Senate by April 30, 2024, 11:59 PM ET, that has the effect of banning use of TikTok under its present ownership (ByteDance) by at least a majority of Americans. Otherwise, this market will resolve to \"No\".",
+    "tags": [
+      "tiktok"
+    ],
+    "resolution": true,
+    "createdTime": 1709852514613,
+    "createdTimeStr": "2024-03-07",
+    "resolutionTime": 1714283774752,
+    "resolutionTimeStr": "2024-04-27",
+    "lastBetTime": 1714275276303,
+    "lastBetTimeStr": "2024-04-27",
+    "crowd_pred": [
+      [
+        1710738766640,
+        "2024-03-17",
+        0.37363169002569235
+      ],
+      [
+        1711625018668,
+        "2024-03-28",
+        0.18406224063278634
+      ],
+      [
+        1712511270696,
+        "2024-04-07",
+        0.05898821679441333
+      ],
+      [
+        1713397522724,
+        "2024-04-17",
+        0.2257976528260346
+      ],
+      [
+        1714283774752,
+        "2024-04-27",
+        0.990597674819624
+      ]
+    ],
+    "uniqueBettorCount": 73,
+    "volume": 32038.432026999417
+  },
+  {
+    "id": "5J1JCkyVIci7RZRRu2I9",
+    "question": "Will the S&P 500 be above 5000 at the end of Feb 2024?",
+    "background_text": "",
+    "tags": [
+      "sp-500-changes",
+      "economics-default",
+      "stocks"
+    ],
+    "resolution": true,
+    "createdTime": 1705186247483,
+    "createdTimeStr": "2024-01-13",
+    "resolutionTime": 1709243306358,
+    "resolutionTimeStr": "2024-02-29",
+    "lastBetTime": 1709243295541,
+    "lastBetTimeStr": "2024-02-29",
+    "crowd_pred": [
+      [
+        1705997659258,
+        "2024-01-23",
+        0.19652858573106463
+      ],
+      [
+        1706809071033,
+        "2024-02-01",
+        0.5241802751699229
+      ],
+      [
+        1707620482808,
+        "2024-02-10",
+        0.7255455941280647
+      ],
+      [
+        1708431894583,
+        "2024-02-20",
+        0.6192867761598219
+      ],
+      [
+        1709243306358,
+        "2024-02-29",
+        0.9983160973791617
+      ]
+    ],
+    "uniqueBettorCount": 124,
+    "volume": 68211.2051434069
+  },
+  {
+    "id": "g3g4aUv1dNGuCtPWKtW8",
+    "question": "Will there be a ceasefire in the Israel-Hamas war that lasts a month or longer and starts before July 2024?",
+    "background_text": "Interpretation will be similar to ",
+    "tags": [
+      "israel",
+      "israelhamas-conflict-2023",
+      "arabisraeli-conflict"
+    ],
+    "resolution": false,
+    "createdTime": 1705967610980,
+    "createdTimeStr": "2024-01-22",
+    "resolutionTime": 1719898582426,
+    "resolutionTimeStr": "2024-07-01",
+    "lastBetTime": 1719737921596,
+    "lastBetTimeStr": "2024-06-30",
+    "crowd_pred": [
+      [
+        1708753805269,
+        "2024-02-23",
+        0.6043104848413696
+      ],
+      [
+        1711539999558,
+        "2024-03-27",
+        0.6951414619360732
+      ],
+      [
+        1714326193847,
+        "2024-04-28",
+        0.21999999999999992
+      ],
+      [
+        1717112388136,
+        "2024-05-30",
+        0.19581486648761864
+      ],
+      [
+        1719898582426,
+        "2024-07-01",
+        0.009999999999999997
+      ]
+    ],
+    "uniqueBettorCount": 71,
+    "volume": 25097.930361414208
+  },
+  {
+    "id": "QXBUUMEkqYQEvhVps8zo",
+    "question": "Will Jimmy Carter live to see Trump debate Biden?",
+    "background_text": "Resolves YES if he is alive when the debate starts",
+    "tags": [
+      "longevity",
+      "jimmy-carter",
+      "donald-trump",
+      "the-life-of-biden",
+      "2024-us-presidential-election"
+    ],
+    "resolution": true,
+    "createdTime": 1715793847097,
+    "createdTimeStr": "2024-05-15",
+    "resolutionTime": 1719544650221,
+    "resolutionTimeStr": "2024-06-27",
+    "lastBetTime": 1719677485755,
+    "lastBetTimeStr": "2024-06-29",
+    "crowd_pred": [
+      [
+        1716544007721,
+        "2024-05-24",
+        0.7345147741797889
+      ],
+      [
+        1717294168346,
+        "2024-06-01",
+        0.5680209773653461
+      ],
+      [
+        1718044328971,
+        "2024-06-10",
+        0.9167485570230254
+      ],
+      [
+        1718794489596,
+        "2024-06-19",
+        0.9321985284007516
+      ],
+      [
+        1719544650221,
+        "2024-06-27",
+        0.99
+      ]
+    ],
+    "uniqueBettorCount": 117,
+    "volume": 44621.06122497694
+  },
+  {
+    "id": "sRjBn2i3kxZA0uPLA8SV",
+    "question": "Will Donald Trump win a majority of the vote in the 2024 New Hampshire primary?",
+    "background_text": "",
+    "tags": [
+      "us-politics",
+      "politics-default",
+      "2024-us-presidential-election",
+      "donald-trump",
+      "2024-us-election",
+      "2024-republican-primaries",
+      "2024-primaries",
+      "new-hampshire-primary"
+    ],
+    "resolution": true,
+    "createdTime": 1705521272950,
+    "createdTimeStr": "2024-01-17",
+    "resolutionTime": 1706069235714,
+    "resolutionTimeStr": "2024-01-23",
+    "lastBetTime": 1706069233574,
+    "lastBetTimeStr": "2024-01-23",
+    "crowd_pred": [
+      [
+        1705630865502,
+        "2024-01-18",
+        0.7128238188612485
+      ],
+      [
+        1705740458055,
+        "2024-01-20",
+        0.8114620724327927
+      ],
+      [
+        1705850050608,
+        "2024-01-21",
+        0.8061223124911437
+      ],
+      [
+        1705959643161,
+        "2024-01-22",
+        0.9355262235635998
+      ],
+      [
+        1706069235714,
+        "2024-01-23",
+        0.9836802019383715
+      ]
+    ],
+    "uniqueBettorCount": 163,
+    "volume": 34299.989737149284
+  },
+  {
+    "id": "3F3Uq8e1Qk2h5N7sFUBM",
+    "question": "Will the federal reserve cut interest rates before the end of Q2 2024?",
+    "background_text": "",
+    "tags": [
+      "interest-rates",
+      "federal-reserve",
+      "us-politics",
+      "monetary-policy"
+    ],
+    "resolution": false,
+    "createdTime": 1706902699905,
+    "createdTimeStr": "2024-02-02",
+    "resolutionTime": 1719941729762,
+    "resolutionTimeStr": "2024-07-02",
+    "lastBetTime": 1719608652179,
+    "lastBetTimeStr": "2024-06-28",
+    "crowd_pred": [
+      [
+        1709510505876,
+        "2024-03-03",
+        0.5692559322129982
+      ],
+      [
+        1712118311847,
+        "2024-04-02",
+        0.579845951941227
+      ],
+      [
+        1714726117819,
+        "2024-05-03",
+        0.1004275021204585
+      ],
+      [
+        1717333923790,
+        "2024-06-02",
+        0.06212261485054287
+      ],
+      [
+        1719941729762,
+        "2024-07-02",
+        0.013049494314619346
+      ]
+    ],
+    "uniqueBettorCount": 100,
+    "volume": 52219.723513970566
+  },
+  {
+    "id": "czrQaOtocO95BoDb9WWU",
+    "question": "Will all hell break loose in Russia within a month after the 2024 presidential election? [SEE DESCRIPTION]",
+    "background_text": "A  This resolves YES if I subjectively think that all hell broke loose in Russia no earlier than 17 March 2024 and no later than 17 April 2024. If the same level of oppression and censorship continues, it is not sufficient to resolve YES, even though the current level of oppression really sucks. The spirit of the question is about a sudden drastic worsening in the level of oppression, safety, quality of life etc. Things that may be sufficient to resolve YES: This is not at all an exhaustive list - just a couple of examples about the spirit of the question. The intuition behind this question is that since unpopular measures are not to be taken immediately before the elections, something terrible might come after the elections are finished. Since this market is very subjective, I will not trade in it. If I'm not sure which way to resolve, I may or may not freeze the market, consult the traders, and / or resolve N/A. Feel free to propose more specific criteria in the comments. EDIT: After the ",
+    "tags": [
+      "russia",
+      "2024-russia-elections"
+    ],
+    "resolution": false,
+    "createdTime": 1708257999937,
+    "createdTimeStr": "2024-02-18",
+    "resolutionTime": 1713434236378,
+    "resolutionTimeStr": "2024-04-18",
+    "lastBetTime": 1713382147282,
+    "lastBetTimeStr": "2024-04-17",
+    "crowd_pred": [
+      [
+        1709293247225,
+        "2024-03-01",
+        0.07595364304969224
+      ],
+      [
+        1710328494513,
+        "2024-03-13",
+        0.08787372694079394
+      ],
+      [
+        1711363741801,
+        "2024-03-25",
+        0.23218984424559716
+      ],
+      [
+        1712398989089,
+        "2024-04-06",
+        0.15502376428779496
+      ],
+      [
+        1713434236378,
+        "2024-04-18",
+        0.0215261288810926
+      ]
+    ],
+    "uniqueBettorCount": 84,
+    "volume": 11697.651822673217
+  },
+  {
+    "id": "vngkk4Po8EmnqooJJSCv",
+    "question": "Will Tucker Carlson release an interview with Vladimir Putin by EOY 2024?",
+    "background_text": "",
+    "tags": [
+      "politics-default",
+      "world-default",
+      "twitter",
+      "internet",
+      "ukrainerussia-war",
+      "russia",
+      "vladimir-putin",
+      "tucker-carlson"
+    ],
+    "resolution": true,
+    "createdTime": 1707012626755,
+    "createdTimeStr": "2024-02-03",
+    "resolutionTime": 1707448097936,
+    "resolutionTimeStr": "2024-02-08",
+    "lastBetTime": 1707446812026,
+    "lastBetTimeStr": "2024-02-08",
+    "crowd_pred": [
+      [
+        1707099720991,
+        "2024-02-04",
+        0.5432976385855356
+      ],
+      [
+        1707186815227,
+        "2024-02-05",
+        0.664958231763512
+      ],
+      [
+        1707273909463,
+        "2024-02-06",
+        0.9861027076149582
+      ],
+      [
+        1707361003699,
+        "2024-02-07",
+        0.9852875003283336
+      ],
+      [
+        1707448097936,
+        "2024-02-08",
+        0.9967210485554083
+      ]
+    ],
+    "uniqueBettorCount": 122,
+    "volume": 41816.59565761116
+  },
+  {
+    "id": "U4k698rUETk1sC4rnN3h",
+    "question": "Will $META go up after earnings? (Feb 2024)",
+    "background_text": "Meta announces earnings after market close on February 1st. The baseline will be the stock price at stock market close on February 1st, before earnings announcement. I will update the manifold market with this price when known. Edit: Baseline is $394.78. This market resolves yes if the stock price at market close on February 2nd is higher than the baseline. N/A if prices are equal. No otherwise. This market closes at the end of day February 1st, before stock trading on Feb 2nd starts.",
+    "tags": [
+      "technology-default",
+      "stocks"
+    ],
+    "resolution": true,
+    "createdTime": 1706547758254,
+    "createdTimeStr": "2024-01-29",
+    "resolutionTime": 1706918014209,
+    "resolutionTimeStr": "2024-02-02",
+    "lastBetTime": 1706857561410,
+    "lastBetTimeStr": "2024-02-01",
+    "crowd_pred": [
+      [
+        1706621809445,
+        "2024-01-30",
+        0.5562329060955288
+      ],
+      [
+        1706695860636,
+        "2024-01-31",
+        0.5156259954787684
+      ],
+      [
+        1706769911827,
+        "2024-01-31",
+        0.4686143082402679
+      ],
+      [
+        1706843963018,
+        "2024-02-01",
+        0.9868924398140884
+      ],
+      [
+        1706918014209,
+        "2024-02-02",
+        0.9930412722652567
+      ]
+    ],
+    "uniqueBettorCount": 90,
+    "volume": 34051.41928108431
+  },
+  {
+    "id": "3BwUoIHUaxg7aMUfSVnm",
+    "question": "Will \"Civil War\" (2024) have >82% critics score on Rotten Tomatoes?",
+    "background_text": "Details:",
+    "tags": [
+      "entertainment",
+      "entertainment-12ba84d9b720",
+      "rotten-tomatoes",
+      "culture-default",
+      "boxoffice",
+      "politics-default",
+      "television-film",
+      "movies",
+      "us-politics"
+    ],
+    "resolution": false,
+    "createdTime": 1710518015233,
+    "createdTimeStr": "2024-03-15",
+    "resolutionTime": 1714154772140,
+    "resolutionTimeStr": "2024-04-26",
+    "lastBetTime": 1714154748792,
+    "lastBetTimeStr": "2024-04-26",
+    "crowd_pred": [
+      [
+        1711245366614,
+        "2024-03-23",
+        0.8864587896950274
+      ],
+      [
+        1711972717995,
+        "2024-04-01",
+        0.8839540164077501
+      ],
+      [
+        1712700069377,
+        "2024-04-09",
+        0.9659820572783452
+      ],
+      [
+        1713427420758,
+        "2024-04-18",
+        0.2269193662568656
+      ],
+      [
+        1714154772140,
+        "2024-04-26",
+        0.010000000000000018
+      ]
+    ],
+    "uniqueBettorCount": 116,
+    "volume": 31842.429842145633
+  },
+  {
+    "id": "TehN0mKeVpLWQa4220Qz",
+    "question": "Israel:Hamas ceasefire in February? \ud83c\uddee\ud83c\uddf1\ud83e\udd1d\ud83c\uddf5\ud83c\uddf8",
+    "background_text": "At any point in the month of February will there be a cease in the fighting between Israel and Hamas? Things which will cause this market to Resolve YES:   Otherwise, this market will Resolve NO at the end of February 29th, 2024.",
+    "tags": [
+      "israelhamas-conflict-2023",
+      "israel",
+      "arabisraeli-conflict",
+      "gaza",
+      "israeli-politics",
+      "israeli-domestic-politics",
+      "hamas",
+      "israelsaudi-arabia-relations"
+    ],
+    "resolution": false,
+    "createdTime": 1705761863752,
+    "createdTimeStr": "2024-01-20",
+    "resolutionTime": 1709296753273,
+    "resolutionTimeStr": "2024-03-01",
+    "lastBetTime": 1709266097877,
+    "lastBetTimeStr": "2024-02-29",
+    "crowd_pred": [
+      [
+        1706468841656,
+        "2024-01-28",
+        0.38458289009618074
+      ],
+      [
+        1707175819560,
+        "2024-02-05",
+        0.4133321767972378
+      ],
+      [
+        1707882797464,
+        "2024-02-13",
+        0.25499456675851945
+      ],
+      [
+        1708589775368,
+        "2024-02-22",
+        0.13834045831950756
+      ],
+      [
+        1709296753273,
+        "2024-03-01",
+        0.0028987944204094335
+      ]
+    ],
+    "uniqueBettorCount": 133,
+    "volume": 59563.08611844973
+  },
+  {
+    "id": "gffoEWwKUc5NIG4cYgZH",
+    "question": "Will Trump and Biden shake hands at the first debate in June?",
+    "background_text": "This market resolves YES if there is footage of Trump and Biden shaking hands at  This market is intended to be about the scheduled CNN debate on June 27th, but would also include if that debate were rescheduled or cancelled or cancelled and replaced with another debate, so long as it happens in June 2024. If they do not shake hands on the day of their debate, or if there is no debate in June, this market resolves NO. This market will be scheduled to close just before the debate, and will resolve the day after. From Wikipedia:",
+    "tags": [
+      "debate",
+      "politics-default",
+      "us-politics",
+      "2024-us-presidential-election"
+    ],
+    "resolution": false,
+    "createdTime": 1716437009208,
+    "createdTimeStr": "2024-05-22",
+    "resolutionTime": 1719542957210,
+    "resolutionTimeStr": "2024-06-27",
+    "lastBetTime": 1719533159639,
+    "lastBetTimeStr": "2024-06-27",
+    "crowd_pred": [
+      [
+        1717058198808,
+        "2024-05-30",
+        0
+      ],
+      [
+        1717679388408,
+        "2024-06-06",
+        0
+      ],
+      [
+        1718300578009,
+        "2024-06-13",
+        0.48085148629294694
+      ],
+      [
+        1718921767609,
+        "2024-06-20",
+        0.4499999999999996
+      ],
+      [
+        1719542957210,
+        "2024-06-27",
+        0.4878408968438053
+      ]
+    ],
+    "uniqueBettorCount": 1197,
+    "volume": 476225.22027958493
+  },
+  {
+    "id": "x07rd3JfAdK5faELuDna",
+    "question": "Will Google pause or remove AI Overviews by the end of May?",
+    "background_text": "If at any time before the end of May, all 3 of the following test queries do not show up with an \u201cAI Overview\u201d blurb for me upon testing, this question resolves YES. Otherwise, resolves NO. Currently, 3 for 3 pop up with an AI overview for me. I\u2019m making this the criteria to avoid any arguments about partial rollbacks, revamps, etc. If they rename it from AI Overview but it\u2019s still substantially the same feature, resolves NO anyway. ",
+    "tags": [
+      "ai-safety",
+      "ai",
+      "ai-impacts"
+    ],
+    "resolution": false,
+    "createdTime": 1716524219933,
+    "createdTimeStr": "2024-05-23",
+    "resolutionTime": 1717198358654,
+    "resolutionTimeStr": "2024-05-31",
+    "lastBetTime": 1717198348955,
+    "lastBetTimeStr": "2024-05-31",
+    "crowd_pred": [
+      [
+        1716659047677,
+        "2024-05-25",
+        0.15013759999843496
+      ],
+      [
+        1716793875421,
+        "2024-05-27",
+        0.19524931153471634
+      ],
+      [
+        1716928703165,
+        "2024-05-28",
+        0.05000000000000012
+      ],
+      [
+        1717063530909,
+        "2024-05-30",
+        0.03546256431567207
+      ],
+      [
+        1717198358654,
+        "2024-05-31",
+        0.015154315667330017
+      ]
+    ],
+    "uniqueBettorCount": 161,
+    "volume": 39839.00947768812
+  },
+  {
+    "id": "a9j168Kt5iloggAl9en9",
+    "question": "Will I see someone wearing a Vision Pro on MUNI this month? \ud83c\udf4e\ud83d\udc53\ud83d\ude8a",
+    "background_text": "Resolves YES if I see someone wearing a Vision Pro on any of SF\u2019s MUNI lines, or in a MUNI station (behind the pay gates) in February 2024, and NO on March 1st otherwise. I won\u2019t bet in this market. Facts that may affect your betting:",
+    "tags": [
+      "technology-default",
+      "apple",
+      "san-francisco",
+      "apple-vision-pro",
+      "transportation",
+      "transit",
+      "san-francisco-bay-area"
+    ],
+    "resolution": false,
+    "createdTime": 1706986607230,
+    "createdTimeStr": "2024-02-03",
+    "resolutionTime": 1709296824392,
+    "resolutionTimeStr": "2024-03-01",
+    "lastBetTime": 1709275335045,
+    "lastBetTimeStr": "2024-02-29",
+    "crowd_pred": [
+      [
+        1707448650662,
+        "2024-02-08",
+        0.5883839567627823
+      ],
+      [
+        1707910694094,
+        "2024-02-14",
+        0.44303092519459214
+      ],
+      [
+        1708372737527,
+        "2024-02-19",
+        0.23490179568047567
+      ],
+      [
+        1708834780959,
+        "2024-02-24",
+        0.18478707323367716
+      ],
+      [
+        1709296824392,
+        "2024-03-01",
+        0.023612111489999955
+      ]
+    ],
+    "uniqueBettorCount": 101,
+    "volume": 13157.231197778892
+  },
+  {
+    "id": "76LbHWetZ0pDRgEfRAJX",
+    "question": "Will Trump be found guilty of at least one of the 34 felony counts in the NY Stormy Daniels hush money trial?",
+    "background_text": "Will Trump be found guilty of at least one of the 34 felony counts in the NY Stormy Daniels hush money trial? Open until case is over. https://en.wikipedia.org/wiki/Stormy_Daniels%E2%80%93Donald_Trump_scandal",
+    "tags": [
+      "politics-default",
+      "us-politics",
+      "donald-trump",
+      "trial-of-the-century",
+      "law-order",
+      "trump-indictments"
+    ],
+    "resolution": true,
+    "createdTime": 1711388566693,
+    "createdTimeStr": "2024-03-25",
+    "resolutionTime": 1717103435936,
+    "resolutionTimeStr": "2024-05-30",
+    "lastBetTime": 1717103320420,
+    "lastBetTimeStr": "2024-05-30",
+    "crowd_pred": [
+      [
+        1712531540541,
+        "2024-04-07",
+        0.8475447473755103
+      ],
+      [
+        1713674514390,
+        "2024-04-20",
+        0.7966769572540288
+      ],
+      [
+        1714817488238,
+        "2024-05-04",
+        0.7313221363344683
+      ],
+      [
+        1715960462087,
+        "2024-05-17",
+        0.6882488584589278
+      ],
+      [
+        1717103435936,
+        "2024-05-30",
+        0.9846389811543779
+      ]
+    ],
+    "uniqueBettorCount": 108,
+    "volume": 43084.31943155543
+  },
+  {
+    "id": "eAtIJcMyZcBsmVX25I7B",
+    "question": "Will there be any groundbreaking discovery regarding transhumanism in the next 30 days.",
+    "background_text": "This market will treat \"Transhumanism\" as a  scientific movement that advocates the use of current and emerging technologies\u2014such as genetic engineering, cryonics, artificial intelligence (AI), and nanotechnology\u2014to augment human capabilities and improve the human physical condition. Since companies like Neuralink are currently working to improve human beings through transhumanism (and testing on humans!!) . So will there be any announce regarding a new groundbreaking advancement or discovery in the field of enhancing human capacities . Any new political legislation or laws regarding the use or  production of Transhumanist device or services will count as a groundbreaking advancement . ",
+    "tags": [
+      "transhumanism",
+      "technology-default",
+      "ai",
+      "science-default",
+      "politics-default"
+    ],
+    "resolution": false,
+    "createdTime": 1715697237360,
+    "createdTimeStr": "2024-05-14",
+    "resolutionTime": 1718341324778,
+    "resolutionTimeStr": "2024-06-13",
+    "lastBetTime": 1718306148215,
+    "lastBetTimeStr": "2024-06-13",
+    "crowd_pred": [
+      [
+        1716226054843,
+        "2024-05-20",
+        0.06657282632671288
+      ],
+      [
+        1716754872327,
+        "2024-05-26",
+        0.05068360183509068
+      ],
+      [
+        1717283689810,
+        "2024-06-01",
+        0
+      ],
+      [
+        1717812507294,
+        "2024-06-07",
+        0
+      ],
+      [
+        1718341324778,
+        "2024-06-13",
+        0.016693027208692514
+      ]
+    ],
+    "uniqueBettorCount": 72,
+    "volume": 5959.262606568506
+  }
+]

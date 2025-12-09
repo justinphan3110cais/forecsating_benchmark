@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Will Netumbo Nandi-Ndaitwah win 55% or more of the vote in the first round of the Namibian presidential election?",
+    "background_text": "Wikipedia: [2024 Namibian general election\n](https://en.wikipedia.org/wiki/2024_Namibian_general_election)",
+    "createdTime": "2024-10-31T14:30:00Z",
+    "createdTimeStr": "2024-10-31",
+    "closeTimeStr": "2024-11-01",
+    "resolutionTime": 1730496600000,
+    "resolveTimeStr": "2024-11-01",
+    "resolution": true,
+    "crowd_pred": [
+      [
+        1730444595452,
+        "2024-11-01",
+        32,
+        0.34788380544445774
+      ]
+    ],
+    "predictions": [
+      0.55
+    ]
+  },
+  {
+    "question": "Will there be any active, large, non-contained fires in California on February 15, 2025?",
+    "background_text": "California's wildfire season [traditionally peaks](https://www.nytimes.com/2025/01/08/weather/southern-california-fire-winds-dry.html) from late summer through early winter. However, in early January 2025, Southern California [is grappling](https://www.thetimes.co.uk/article/california-los-angeles-fire-pacific-palidades-la-evacuation-latest-news-wctv8656d) with several significant wildfires which have consumed over 25,000 acres around Los Angeles and resulted in at least five fatalities. These fires are exacerbated by powerful Santa Ana winds, with gusts reaching up to 100 mph, and [exceptionally dry conditions](https://www.theatlantic.com/science/archive/2025/01/los-angeles-fires-drought/681243/) due to the lack of substantial rainfall in the preceding months. As of January 9, 2025, another round of Santa Ana winds [is expected](https://abcnews.go.com/US/us-weather-winds-wildfire-los-angeles-california-thursday/story?id=117496931) to further worsen conditions, with a critical fire risk being issued for most of the area.",
+    "createdTime": "2025-01-10T20:03:26.146525Z",
+    "createdTimeStr": "2025-01-10",
+    "closeTimeStr": "2025-02-14",
+    "resolutionTime": 1739556000000,
+    "resolveTimeStr": "2025-02-14",
+    "resolution": false,
+    "crowd_pred": [
+      [
+        1737027699297,
+        "2025-01-16",
+        33,
+        0.12109334234354971
+      ]
+    ],
+    "predictions": [
+      0.75
+    ]
+  }
+]

@@ -1,0 +1,682 @@
+[
+    {
+      "question": "Novel pathogen found responsible for pneumonia reported in Beijing or Liaoning before December 15, 2023?",
+      "background_text": "Will a novel pathogen be identified as responsible for the pneumonia reported in Beijing or Liaoning before December 15, 2023?\nResolves the same as the original on Metaculus.\n\n\nResolution criteria\n\nThis question will resolve as Yes if, before December 15, 2023, credible sources report that the pneumonia cases reportedly occurring in Beijing or Liaoning have been identified as being caused by a novel pathogen.\n\nFine print and additional background information can be found on Metaculus.\n\nOnce the original resolves, its resolution will be applied to this market automatically. Trustworthy-ish users are encouraged to resolve this market before then if the outcome is known and unambiguous. Feel free to ping @jskf to request early resolution or to report issues.",
+      "createdTime": "2023-11-22T00:00:00Z",
+      "createdTimeStr": "2023-11-22",
+      "resolutionTime": 1702627200000,
+      "resolveTimeStr": "2023-12-15",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1700985600000,
+          "2023-11-26",
+          0.05574775502849127
+        ],
+        [
+          1701331200000,
+          "2023-11-30",
+          0.036195385679554784
+        ],
+        [
+          1701763200000,
+          "2023-12-05",
+          0.04572299220089347
+        ],
+        [
+          1702108800000,
+          "2023-12-09",
+          0.034327001167841015
+        ],
+        [
+          1702540800000,
+          "2023-12-14",
+          0.030473835438263285
+        ]
+      ],
+      "category": "Healthcare & Biology",
+      "resolution_criteria": "Not applicable/available for this question.",
+      "data_source": "manifold",
+      "question_type": "BINARY"
+    },
+    {
+      "question": "Will the Bank of England raise the UK's interest rate at their 14th December meeting?",
+      "background_text": "The Bank of England meets on 14th December to set interest rates.\n\nThe market will resolve YES if they raise the rate by any amount from the current level.\n\nThe market will resolve NO if they maintain the rate or lower it\n\nHere are some markets on other UK economic stats:\n\nWill the UK's CPI inflation figure published on 15th November be below 7%?\nYES\n\u200c\nWill the UK's CPI inflation figure published on 15th November be below 6%?\nYES\n\u200c\nWill the UK's monthly GDP figure published on 10th November show positive growth?\nYES\n\u200c\n",
+      "createdTime": "2023-11-02T00:00:00Z",
+      "createdTimeStr": "2023-11-02",
+      "resolutionTime": 1702540800000,
+      "resolveTimeStr": "2023-12-14",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1699603200000,
+          "2023-11-10",
+          0.07080427308612644
+        ],
+        [
+          1700294400000,
+          "2023-11-18",
+          0.026806747968747182
+        ],
+        [
+          1700985600000,
+          "2023-11-26",
+          0.02295855229836874
+        ],
+        [
+          1701676800000,
+          "2023-12-04",
+          0.019309163936196902
+        ],
+        [
+          1702454400000,
+          "2023-12-13",
+          0.03810601280561797
+        ]
+      ],
+      "category": "Economics & Business",
+      "resolution_criteria": "Not applicable/available for this question.",
+      "data_source": "manifold",
+      "question_type": "BINARY"
+    },
+    {
+      "question": "Will Claudine Gay remain Harvard\u2019s president until the end of 2024?",
+      "background_text": "",
+      "createdTime": "2023-12-08T00:00:00Z",
+      "createdTimeStr": "2023-12-08",
+      "resolutionTime": 1704182400000,
+      "resolveTimeStr": "2024-01-02",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1702713600000,
+          "2023-12-16",
+          0.766921447430249
+        ],
+        [
+          1703059200000,
+          "2023-12-20",
+          0.7000571343267579
+        ],
+        [
+          1703404800000,
+          "2023-12-24",
+          0.35722860873393747
+        ],
+        [
+          1703750400000,
+          "2023-12-28",
+          0.40000000000000013
+        ],
+        [
+          1704096000000,
+          "2024-01-01",
+          0.3308358050366479
+        ]
+      ],
+      "category": "Education & Research",
+      "resolution_criteria": "Not applicable/available for this question.",
+      "data_source": "manifold",
+      "question_type": "BINARY"
+    },
+    {
+      "question": "Will Cruise relaunch driverless taxis in San Francisco by Dec 31 2023?",
+      "background_text": "On Oct 24, 2023 the California DMV announced they had suspended Cruise\u2019s driverless taxis in SF, citing safety concerns (see https://x.com/Cruise/status/1716877217995894934?s=20).\n\nThis market will resolve to \"Yes\" if Cruise relaunches its driverless taxi operations in San Francisco by Dec 31, 2023, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo.\u201d\n\nA \u201crelaunch\u201d requires Cruise to resume driverless operations in San Francisco, and does not include mere tests and demonstrations.\n\nThe resolution source will be information from Cruise, in addition to credible media reporting.",
+      "createdTime": "2023-11-02T00:00:00Z",
+      "createdTimeStr": "2023-11-02",
+      "resolutionTime": 1703923200000,
+      "resolveTimeStr": "2023-12-30",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1699862400000,
+          "2023-11-13",
+          0.1727763342300308
+        ],
+        [
+          1700812800000,
+          "2023-11-24",
+          0.060000000000000046
+        ],
+        [
+          1701849600000,
+          "2023-12-06",
+          0.034154874565539874
+        ],
+        [
+          1702800000000,
+          "2023-12-17",
+          0.016917235175477358
+        ],
+        [
+          1703836800000,
+          "2023-12-29",
+          0.01681966862268546
+        ]
+      ],
+      "category": "Science & Tech",
+      "resolution_criteria": "Not applicable/available for this question.",
+      "data_source": "manifold",
+      "question_type": "BINARY"
+    },
+    {
+      "question": "Will the current mystery pneumonia spread beyond China?",
+      "background_text": "There is currently an outbreak of pneumonia among chinese children. See, for example, here: https://www.standard.co.uk/news/world/mysterious-pneumonia-outbreak-china-hospitals-sick-children-b1122117.html\n\nThi sounds worringly similar to Covid (but also dissimilar in some ways). I wonder if this will be a global phenomenon.\n\nAs of December 31st 2023, will this mystery pneumonia spread beyond China in a significant way? I will resolve this question as yes if more than 1000 confirmed or highly likely confirmed cases exist (or have existed between now and then) outside of China on the resolution day.\n\nEDIT from Dec 5 for clarification, as requested in the comments:\n\nThis market specifically concerns a mysterious pathogen, like covid would have been in its early days. This market does not concern existing viruses such as RSV, because that is hardly mysterious.\n\nI understand that the \"mysterious\" pathogen may be a mutation of an existing pathogen (like covid was). This obviously counts, if there has been a substantial mutation (like covid was). Minor mutations (like the constant minor changes to the seasonal flu) dont count. For example, let's assume that the \"mystery pneumonia\" is an RSV outbreak. That would not count, unless it turns out to be a novel Super-RSV with substantially higher mortality/infectiousness/whatever,\n\nAlso, this question pertains to the specific mystery pneumonia observed in China, wherever it may be from. Only this one counts. If this pathogen is originally from a different country and spreads from there, it counts because its still the pathogen that this question is about. If it turns out that there is a second mystery pneumonia that has nothing to do with the current outbreak in China but still spreads globally, it does not count (because this question is about the present outbreak in China).\n",
+      "createdTime": "2023-11-22T00:00:00Z",
+      "createdTimeStr": "2023-11-22",
+      "resolutionTime": 1704009600000,
+      "resolveTimeStr": "2023-12-31",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1701244800000,
+          "2023-11-29",
+          0.2377179526174129
+        ],
+        [
+          1701936000000,
+          "2023-12-07",
+          0.14000000000000004
+        ],
+        [
+          1702540800000,
+          "2023-12-14",
+          0.1084425372968261
+        ],
+        [
+          1703232000000,
+          "2023-12-22",
+          0.05103134621710018
+        ],
+        [
+          1703923200000,
+          "2023-12-30",
+          0.030695365867799352
+        ]
+      ],
+      "category": "Healthcare & Biology",
+      "resolution_criteria": "Not applicable/available for this question.",
+      "data_source": "manifold",
+      "question_type": "BINARY"
+    },
+    {
+      "question": "Will Israeli soldiers perform ground invasion in south Gaza before 2024?",
+      "background_text": "For now it's seems that IDF ground operation is focused in north Gaza. All citizens are requested to move to the south. If a significant military force (more then 200 soldiers) will enter south Gaza, this question will be resolved as Yes. South Gaza is anything south of Deir al-Balah\n",
+      "createdTime": "2023-11-06T00:00:00Z",
+      "createdTimeStr": "2023-11-06",
+      "resolutionTime": 1701763200000,
+      "resolveTimeStr": "2023-12-05",
+      "resolution": 1.0,
+      "crowd_pred": [
+        [
+          1699689600000,
+          "2023-11-11",
+          0.33000000000000007
+        ],
+        [
+          1700208000000,
+          "2023-11-17",
+          0.85
+        ],
+        [
+          1700640000000,
+          "2023-11-22",
+          0.818458663791712
+        ],
+        [
+          1701158400000,
+          "2023-11-28",
+          0.6909954745426413
+        ],
+        [
+          1701676800000,
+          "2023-12-04",
+          0.9985945747257302
+        ]
+      ],
+      "category": "Security & Defense",
+      "resolution_criteria": "Not applicable/available for this question.",
+      "data_source": "manifold",
+      "question_type": "BINARY"
+    },
+    {
+      "question": "\ud83c\udfc8 2023 NCAAF: Will #4 Alabama beat #1 Michigan in the Rose Bowl CFP Semifinal?",
+      "background_text": "2024-01-01 at 5 PM ET in Pasadena, CA. Line: Michigan -1.5.\n",
+      "createdTime": "2023-12-03T00:00:00Z",
+      "createdTimeStr": "2023-12-03",
+      "resolutionTime": 1704182400000,
+      "resolveTimeStr": "2024-01-02",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1702022400000,
+          "2023-12-08",
+          0.46391224937194225
+        ],
+        [
+          1702540800000,
+          "2023-12-14",
+          0.5299999999999998
+        ],
+        [
+          1703059200000,
+          "2023-12-20",
+          0.49
+        ],
+        [
+          1703577600000,
+          "2023-12-26",
+          0.4603539701774431
+        ],
+        [
+          1704096000000,
+          "2024-01-01",
+          0.6814816787042455
+        ]
+      ],
+      "category": "Sports",
+      "resolution_criteria": "Not applicable/available for this question.",
+      "data_source": "manifold",
+      "question_type": "BINARY"
+    },
+    {
+      "question": "\ud83c\udfc8 2023 NCAAF: Will #3 Texas beat #2 Washington in the Sugar Bowl CFP Semifinal?",
+      "background_text": "Not applicable/available for this question.",
+      "createdTime": "2023-12-03T00:00:00Z",
+      "createdTimeStr": "2023-12-03",
+      "resolutionTime": 1704182400000,
+      "resolveTimeStr": "2024-01-02",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1702022400000,
+          "2023-12-08",
+          0.6502443220292552
+        ],
+        [
+          1702540800000,
+          "2023-12-14",
+          0.4899999999999997
+        ],
+        [
+          1703059200000,
+          "2023-12-20",
+          0.48000000000000004
+        ],
+        [
+          1703577600000,
+          "2023-12-26",
+          0.5976966818525942
+        ],
+        [
+          1704096000000,
+          "2024-01-01",
+          0.6766795006951776
+        ]
+      ],
+      "category": "Sports",
+      "resolution_criteria": "Not applicable/available for this question.",
+      "data_source": "manifold",
+      "question_type": "BINARY"
+    },
+    {
+      "question": "Will Taylor Swift announce Reputation (Taylor's Version) by the start of 2024?",
+      "background_text": "The announcement must contain the cover and the release date.",
+      "createdTime": "2023-11-13T00:00:00Z",
+      "createdTimeStr": "2023-11-13",
+      "resolutionTime": 1704182400000,
+      "resolveTimeStr": "2024-01-02",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1700640000000,
+          "2023-11-22",
+          0.14999999999999994
+        ],
+        [
+          1701504000000,
+          "2023-12-02",
+          0.41340450665942874
+        ],
+        [
+          1702368000000,
+          "2023-12-12",
+          0.2591977079145791
+        ],
+        [
+          1703232000000,
+          "2023-12-22",
+          0.10710079214273378
+        ],
+        [
+          1704096000000,
+          "2024-01-01",
+          0.03000299728849808
+        ]
+      ],
+      "category": "Arts & Recreation",
+      "resolution_criteria": "Not applicable/available for this question.",
+      "data_source": "manifold",
+      "question_type": "BINARY"
+    },
+    {
+      "question": "Will Tesla Vehicle deliveries Q4 2023 exceed 500,000?",
+      "background_text": "Last five quarters:\n\nQ3 2022: 343820\n\nQ4 2022: 405278\n\nQ1 2023: 422875\n\nQ2 2023: 466140\n\nQ3 2023: 435059.\n\nThe equivalent press release for Q4 2023 will be used but if not available, I may wait for Q4 financial reports. If Semi or Cybertruck numbers are included in the announcement they will be included in the relevant number but if not shown will not be included.\n\nBackground\n\nPrices have been reduced presumably to stimulate demand, but is production also being throttled according to demand? Elon Musk seems to have suggested it is pretty much full pace production and they can generate enough demand by cutting prices. Freemont and Shanghai may well be at or near production capacity limits but Berlin and Texas are ramping up recently reaching 5000 per week production rates. The latest official guidance is\n\n\"For 2023, we expect to remain ahead of the long-term 50% CAGR with around 1.8 million vehicles for the year.\"\n\nHaving produced 1350996 in the first three quarters 1.8m requires production of 449k.\n\nHowever, at 2022 Q4 earnings there were some suggestions that 2 million may not be impossible. 1.8 million is only 450k per quarter and they have managed near 440k in 2 quarters to March 2023 and near 480k in Q2 2023 so does practically no growth or even reductions with two factories ramping up make any sense? So one line of reasoning queried whether the 1.8 million figure was a well sandbagged number or whether demand causing production to be throttled back?\n\nAbove may have failed to account for other explanations: Q2 Earning call suggested there would be production shutdowns but it isn't clear to what extent these were for upgrading production speed compared to other things like retool for Highland upgrade. While there were shutdowns, did this fully account for lower production or were there also speed reduction?",
+      "createdTime": "2023-11-28T00:00:00Z",
+      "createdTimeStr": "2023-11-28",
+      "resolutionTime": 1704182400000,
+      "resolveTimeStr": "2024-01-02",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1701676800000,
+          "2023-12-04",
+          0.5338681731301325
+        ],
+        [
+          1702281600000,
+          "2023-12-11",
+          0.42623842196821976
+        ],
+        [
+          1702886400000,
+          "2023-12-18",
+          0.2503291597577361
+        ],
+        [
+          1703491200000,
+          "2023-12-25",
+          0.2565585311219449
+        ],
+        [
+          1704096000000,
+          "2024-01-01",
+          0.2545893385963208
+        ]
+      ],
+      "category": "Economics & Business",
+      "resolution_criteria": "Not applicable/available for this question.",
+      "data_source": "manifold",
+      "question_type": "BINARY"
+    },
+    {
+      "question": "Will Bitcoin be worth more than $35,000 on December 31, 2023 at 11:59 PM EST?",
+      "background_text": "Using the coinbase price on 12/31/23 at 11:59 PM EST",
+      "createdTime": "2023-11-07T00:00:00Z",
+      "createdTimeStr": "2023-11-07",
+      "resolutionTime": 1704096000000,
+      "resolveTimeStr": "2024-01-01",
+      "resolution": 1.0,
+      "crowd_pred": [
+        [
+          1700208000000,
+          "2023-11-17",
+          0.7044929260299643
+        ],
+        [
+          1701158400000,
+          "2023-11-28",
+          0.7232201179904014
+        ],
+        [
+          1702108800000,
+          "2023-12-09",
+          0.9262646835990588
+        ],
+        [
+          1703059200000,
+          "2023-12-20",
+          0.9508721265825918
+        ],
+        [
+          1704009600000,
+          "2023-12-31",
+          0.9801933816063131
+        ]
+      ],
+      "category": "Economics & Business",
+      "resolution_criteria": "Not applicable/available for this question.",
+      "data_source": "manifold",
+      "question_type": "BINARY"
+    },
+    {
+      "question": "Will a spot BTC ETF be approved in the U.S. by January 15th 2024?",
+      "background_text": "Not applicable/available for this question.",
+      "createdTime": "2023-12-31T00:00:00Z",
+      "createdTimeStr": "2023-12-31",
+      "resolutionTime": 1704873600000,
+      "resolveTimeStr": "2024-01-10",
+      "resolution": 1.0,
+      "crowd_pred": [
+        [
+          1704182400000,
+          "2024-01-02",
+          0.824226864532082
+        ],
+        [
+          1704355200000,
+          "2024-01-04",
+          0.8330445516724259
+        ],
+        [
+          1704441600000,
+          "2024-01-05",
+          0.8984641814109511
+        ],
+        [
+          1704614400000,
+          "2024-01-07",
+          0.8131659866472167
+        ],
+        [
+          1704787200000,
+          "2024-01-09",
+          0.9388867740222206
+        ]
+      ],
+      "category": "Economics & Business",
+      "resolution_criteria": "Not applicable/available for this question.",
+      "data_source": "manifold",
+      "question_type": "BINARY"
+    },
+    {
+      "question": "NFL\ud83c\udfc8: Week 14 -- Will the Dallas Cowboys win their NFL Game against the Philadelphia Eagles on Dec10?",
+      "background_text": "Resolved based on Game Day Score. This market will close at 9:00 PM Pacific Time irrespective of when the game ends.",
+      "createdTime": "2023-11-28T00:00:00Z",
+      "createdTimeStr": "2023-11-28",
+      "resolutionTime": 1702281600000,
+      "resolveTimeStr": "2023-12-11",
+      "resolution": 1.0,
+      "crowd_pred": [
+        [
+          1701331200000,
+          "2023-11-30",
+          0.5633290873786388
+        ],
+        [
+          1701504000000,
+          "2023-12-02",
+          0.5182012185415507
+        ],
+        [
+          1701763200000,
+          "2023-12-05",
+          0.6288744268622147
+        ],
+        [
+          1701936000000,
+          "2023-12-07",
+          0.606772041063576
+        ],
+        [
+          1702195200000,
+          "2023-12-10",
+          0.6139814446557736
+        ]
+      ],
+      "category": "Sports",
+      "resolution_criteria": "Not applicable/available for this question.",
+      "data_source": "manifold",
+      "question_type": "BINARY"
+    },
+    {
+      "question": "Will it snow in New York during the winter of 2023-2024?",
+      "background_text": "It has been more than 700 days since accumulating snow fell in several US East Coast cities.  No snow has yet fallen this winter, and little usually falls during El Nino years.\n\nThis market will resolve to YES if accumulating snow is recorded in New York's Central Park before June 1, 2024.  A trace of snow is not defined as accumulating, and therefore is insufficient for this market to resolve to YES.  Sleet and freezing rain are also insufficient.\n\nOtherwise, the market will resolve to NO.  It will resolve to N/A if data stops being reported from Central Park.",
+      "createdTime": "2023-12-25T00:00:00Z",
+      "createdTimeStr": "2023-12-25",
+      "resolutionTime": 1704614400000,
+      "resolveTimeStr": "2024-01-07",
+      "resolution": 1.0,
+      "crowd_pred": [
+        [
+          1703664000000,
+          "2023-12-27",
+          0.85
+        ],
+        [
+          1703836800000,
+          "2023-12-29",
+          0.8840433432316176
+        ],
+        [
+          1704096000000,
+          "2024-01-01",
+          0.8792134107971128
+        ],
+        [
+          1704268800000,
+          "2024-01-03",
+          0.9185125219242692
+        ],
+        [
+          1704528000000,
+          "2024-01-06",
+          0.998846572226898
+        ]
+      ],
+      "category": "Environment & Energy",
+      "resolution_criteria": "Not applicable/available for this question.",
+      "data_source": "manifold",
+      "question_type": "BINARY"
+    },
+    {
+      "question": "NFL\ud83c\udfc8: Week 14 -- Will the Green Bay Packers win their MNF NFL Game against the New York Giants on Dec11?",
+      "background_text": "Resolved based on Game Day Score. This market will close at 9:00 PM Pacific Time irrespective of when the game ends.",
+      "createdTime": "2023-11-28T00:00:00Z",
+      "createdTimeStr": "2023-11-28",
+      "resolutionTime": 1702368000000,
+      "resolveTimeStr": "2023-12-12",
+      "resolution": 0.0,
+      "crowd_pred": [
+        [
+          1701331200000,
+          "2023-11-30",
+          0.7
+        ],
+        [
+          1701590400000,
+          "2023-12-03",
+          0.6794290646554281
+        ],
+        [
+          1701763200000,
+          "2023-12-05",
+          0.745909863407498
+        ],
+        [
+          1702022400000,
+          "2023-12-08",
+          0.7660002272079129
+        ],
+        [
+          1702281600000,
+          "2023-12-11",
+          0.7646470079621671
+        ]
+      ],
+      "category": "Sports",
+      "resolution_criteria": "Not applicable/available for this question.",
+      "data_source": "manifold",
+      "question_type": "BINARY"
+    },
+    {
+      "question": "Will the S&P 500 increase in November 2023?",
+      "background_text": "Will the S&P 500 close at 4193.80 or higher on 2023-11-30 ()?\n\nSee also: Will the S&P 500 increase in Q4 2023?\nYES\n\u200c\n\nWill the S&P 500 increase in 2023?\nYES\n\u200c\n\nS&P 500 close level from January to October 2023\n\n4076.60, 3970.15, 4109.31, 4169.48, 4179.83, 4450.38, 4588.96, 4507.66, 4288.05, 4193.80\n\nhttps://www.wsj.com/market-data/quotes/index/SPX/historical-prices",
+      "createdTime": "2023-11-02T00:00:00Z",
+      "createdTimeStr": "2023-11-02",
+      "resolutionTime": 1701417600000,
+      "resolveTimeStr": "2023-12-01",
+      "resolution": 1.0,
+      "crowd_pred": [
+        [
+          1699344000000,
+          "2023-11-07",
+          0.8406948117245792
+        ],
+        [
+          1699862400000,
+          "2023-11-13",
+          0.9342278288508755
+        ],
+        [
+          1700294400000,
+          "2023-11-18",
+          0.9666666481150812
+        ],
+        [
+          1700812800000,
+          "2023-11-24",
+          0.9788116713597369
+        ],
+        [
+          1701331200000,
+          "2023-11-30",
+          0.9937913617549325
+        ]
+      ],
+      "category": "Economics & Business",
+      "resolution_criteria": "Not applicable/available for this question.",
+      "data_source": "manifold",
+      "question_type": "BINARY"
+    },
+    {
+      "question": "Will Bitcoin reach $40,000 before January 1, 2024?",
+      "background_text": "Not applicable/available for this question.",
+      "createdTime": "2023-11-18T00:00:00Z",
+      "createdTimeStr": "2023-11-18",
+      "resolutionTime": 1701590400000,
+      "resolveTimeStr": "2023-12-03",
+      "resolution": 1.0,
+      "crowd_pred": [
+        [
+          1700467200000,
+          "2023-11-20",
+          0.532367262401483
+        ],
+        [
+          1700726400000,
+          "2023-11-23",
+          0.6105484215405967
+        ],
+        [
+          1700985600000,
+          "2023-11-26",
+          0.6307296737334622
+        ],
+        [
+          1701244800000,
+          "2023-11-29",
+          0.628108867490878
+        ],
+        [
+          1701504000000,
+          "2023-12-02",
+          0.8660109423144418
+        ]
+      ],
+      "category": "Economics & Business",
+      "resolution_criteria": "Not applicable/available for this question.",
+      "data_source": "manifold",
+      "question_type": "BINARY"
+    }
+  ]
